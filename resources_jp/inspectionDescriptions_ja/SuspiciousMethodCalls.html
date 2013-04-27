@@ -1,0 +1,28 @@
+<html>
+<body>
+<font face="verdana" size="-1">
+この検査は、実際の引数の型がコレクションの要素の型と対応していない、パラメータ化されたコレクションへのメソッド呼び出しを報告します。<br><br>
+例えば、以下のコードの場合 :<br>
+For example if you have the following code:<br>
+</font>
+<pre>
+&nbsp;&nbsp;&nbsp;&nbsp;List&lt;Integer&gt; list = getListOfElements();
+&nbsp;&nbsp;&nbsp;&nbsp;list.remove("");
+</pre>
+<font face="verdana" size="-1">
+- the call to <b><font color="#000080">remove()</font></b> への呼び出しが強調表示されます。<br>
+</font>
+
+<p>
+  <font face="verdana" size="-1">
+  The option '<b>Report suspicious but possibly correct method calls</b>' makes it possible to ignore
+  potentially correct code, like this:<br>
+  </font>
+
+  <pre>
+&nbsp;&nbsp;&nbsp;&nbsp;Number number = <b><font color="#000080">new</font></b> Integer(<font color="#0000FF">0</font>);
+&nbsp;&nbsp;&nbsp;&nbsp;list.remove(number));
+  </pre>
+
+</body>
+</html>

@@ -1,0 +1,12 @@
+<tips>
+  <tip file="DiagramShow.html"/>
+  <tip file="DiagramShowPopup.html"/>
+  <tip file="DiagramShowDiff.html"/>
+  <tip file="InjectSQLLanguage.html"/>
+  <tip file="SQLDialects.html"/>
+  <tip file="DataSources.html"/>
+  <tip file="SmartCompletion.html"/>
+  <tip file="ShowVisualization.html"/>
+  <tip file="DDLDataSources.html"/>
+  <tip file="CompareDataSources.html"/>
+</tips>
