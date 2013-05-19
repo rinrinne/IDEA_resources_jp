@@ -1,0 +1,31 @@
+apply plugin: 'java'
+
+sourceSets {
+  main {
+    resources {
+      srcDir 'resources_jp'
+    }
+  }
+}
+
+task processPropertiesFile << {
+  sourceSets.each { s ->
+    s.resources.srcDirs.each { d ->
+      if (d.isDirectory()) {
+        ant.native2ascii(
+          src: "${d}",
+          dest: "${s.output.resourcesDir}",
+          includes: '**/*.properties',
+          encoding: 'UTF-8'
+        )
+      } 
+    }
+  }
+}
+
+processResources.excludes = ['**/*.properties']
+processResources.dependsOn processPropertiesFile
+
+task wrapper(type: Wrapper) {
+  gradleVersion = '1.6'
+}
