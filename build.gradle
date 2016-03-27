@@ -5,7 +5,7 @@ defaultTasks 'jar'
 sourceSets {
   main {
     resources {
-      srcDir 'resources_jp'
+      srcDir 'resources-ja'
     }
   }
 }
