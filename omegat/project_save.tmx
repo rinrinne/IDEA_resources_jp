@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>- the usage of &lt;b0&gt;&lt;f1&gt;&lt;String&gt;&lt;/f1&gt;&lt;/b0&gt; will be highlighted.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T162635Z" creationid="miurahr" creationdate="20160723T162635Z">
+        <seg>-&lt;b0&gt;&lt;f1&gt;&lt;String&gt;&lt;/f1&gt;&lt;/b0&gt;の使用法が強調表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt; This is a built-in template used for replacing a string concatenation (e.g. &lt;/f0&gt;&lt;c1&gt;String s = "Hello " + name;&lt;/c1&gt;) &lt;f2&gt;with an internationalized Java code expression (e.g.&lt;/f2&gt; &lt;c3&gt;String s = MessageFormat.format(​myResourceBundle.getString(​"hello.0"), name);&lt;/c3&gt;&lt;f4&gt;).&lt;br5&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T143759Z" creationid="miurahr" creationdate="20160723T143759Z">
@@ -70,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Detects assignments of a variable to itself, like: &lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T162945Z" creationid="miurahr" creationdate="20160723T162945Z">
+        <seg>次のような、自身への変数の代入を検出します :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Expression of type &lt;b0&gt;java.util.ResourceBundle&lt;/b0&gt;, instance of which is available in this context.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T143905Z" creationid="miurahr" creationdate="20160723T143905Z">
@@ -82,6 +98,14 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T144507Z" creationid="miurahr" creationdate="20160723T144507Z">
         <seg>型 &lt;c0&gt;java.util.ResourceBundle&lt;/c0&gt; (このコンテキストで利用可能なインスタンス) の式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example if you have a call to parametrized method like:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T162755Z" creationid="miurahr" creationdate="20160723T162755Z">
+        <seg>例えば、次のようなパラメータ化されたメソッドへの呼び出しを行う場合 :</seg>
       </tuv>
     </tu>
     <tu>
@@ -182,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Such usages make code excessive and thus less readable.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T162604Z" creationid="miurahr" creationdate="20160723T162604Z">
+        <seg>これらの呼び出しを行うと、コードが難解になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The checkboxes below may be used to further specialize whether this inspection should report strings in:</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T160650Z" creationid="miurahr" creationdate="20160723T160650Z">
@@ -222,10 +254,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This inspection finds all usages of methods that have &lt;b0&gt;&lt;f1&gt;@since&lt;/f1&gt;&lt;/b0&gt; tag in their documentation.&lt;br2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T163031Z" creationid="miurahr" creationdate="20160723T163031Z">
+        <seg>この検査は、ドキュメントに &lt;b0&gt;&lt;f1&gt;@since 1.5&lt;/f1&gt;&lt;/b0&gt;タグが含まれるメソッドの使用箇所をすべて検索します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This inspection points out the following javadoc comment flaws: &lt;br0&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T161711Z" creationid="miurahr" creationdate="20160723T161711Z">
         <seg>この検査は、以下の javadoc コメントの問題点を指摘します :&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This inspection reports all calls to parametrized methods where explicit argument types can be omitted, since they will be unambiguously inferred by compiler.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T162557Z" creationid="miurahr" creationdate="20160723T162557Z">
+        <seg>この検査は、コンパイラによって明白に推測されるために明示的な引数の型が省略可能な、パラメータ化されたメソッドへの呼び出しをすべて報告します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -271,6 +319,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This inspection reports methods and method hierarchies where the return value appears to be always the same constant.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T162840Z" creationid="miurahr" creationdate="20160723T162840Z">
+        <seg>この検査は、戻り値が常に同じ定数であると思われるメソッドおよびメソッド階層を報告します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This inspection reports methods where a value being passed to a particular parameter appears to be always the same constant.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T162806Z" creationid="miurahr" creationdate="20160723T162806Z">
+        <seg>この検査は、特定のパラメータに渡されている値が常に同じ定数であると思われるメソッドを報告します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This inspection reports methods where: &lt;br0&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T155210Z" creationid="miurahr" creationdate="20160723T155210Z">
@@ -283,6 +347,30 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T162011Z" creationid="miurahr" creationdate="20160723T162011Z">
         <seg>この検査は、指定された検査範囲で見つかった、&lt;b0&gt;&lt;f1&gt;final&lt;/f1&gt;&lt;/b0&gt;修飾子が追加できる、パラメータまたはローカル変数を報告します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This inspection reports problems related to &lt;b0&gt;&lt;f1&gt;@Nullable&lt;/f1&gt;&lt;/b0&gt; and &lt;b2&gt;&lt;f3&gt;@NotNull&lt;/f3&gt;&lt;/b2&gt; annotations usage configured in Constant conditions &amp; exceptions inspection.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T162341Z" creationid="miurahr" creationdate="20160723T162341Z">
+        <seg>この検査は、&lt;b0&gt;&lt;f1&gt;@Nullable&lt;/f1&gt;&lt;/b0&gt; および &lt;b2&gt;&lt;f3&gt;@NotNull&lt;/f3&gt;&lt;/b2&gt; 注釈の使用箇所に関連する問題を報告します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This inspection reports unnecessary cast expressions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T162542Z" creationid="miurahr" creationdate="20160723T162542Z">
+        <seg>この検査は、不必要なキャスト式を報告します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This inspection reports unnecessary creation of array expression to be passed as an argument to varargs parameter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T162436Z" creationid="miurahr" creationdate="20160723T162436Z">
+        <seg>この検査は、varargs パラメータに引数として渡される配列式の不必要な作成を報告します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -388,6 +476,14 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T153941Z" creationid="miurahr" creationdate="20160723T153941Z">
         <seg>報告する宣言を定義するには、以下の検査オプションのチェック ボックスを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use checkboxes in the inspection options below, to define whether parameters or local variables (or both) are to be reported.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T162044Z" creationid="miurahr" creationdate="20160723T162044Z">
+        <seg>報告するパラメータまたはローカル変数 (または両方) を定義するには、以下の検査オプションのチェック ボックスを使用します。</seg>
       </tuv>
     </tu>
     <tu>
