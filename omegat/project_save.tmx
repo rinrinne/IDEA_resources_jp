@@ -463,6 +463,110 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This intention adds @Nullable/@NotNull annotation on the selected element (externally in case of library)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T165053Z" creationid="miurahr" creationdate="20160723T165053Z">
+        <seg>このインテンションは、選択された要素に @Nullable/@NotNull アノテーションを追加します。 （外部ライブラリの場合）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This intention adds runtime exception under cursor to the current method throws clause.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T165429Z" creationid="miurahr" creationdate="20160723T165429Z">
+        <seg>このインテンションは、現在のメソッドの throw 句にカーソルの下のランタイム例外を追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This intention adds standard &lt;b0&gt;Java 5.0&lt;/b0&gt; annotation &lt;b1&gt;&lt;f2&gt;@Override&lt;/f2&gt;&lt;/b1&gt; to the method which has been found to override non-abstract method in the base class.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T165412Z" creationid="miurahr" creationdate="20160723T165412Z">
+        <seg>このインテンションは、ベース クラスの非抽象メソッドをオーバーライドするメソッドに、標準 &lt;b0&gt;Java 5.0&lt;/b0&gt; 注釈 &lt;b1&gt;&lt;f2&gt;@Override&lt;/f2&gt;&lt;/b1&gt; を追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This intention allows to break line on '\n' and '\n\r' line break symbols.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T165718Z" creationid="miurahr" creationdate="20160723T165718Z">
+        <seg>このインテンションは、'\n' と '\n\r'が改行記号で改行できるようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This intention allows to convert between &lt;b0&gt;&lt;f1&gt;new Color(int rgb)&lt;/f1&gt;&lt;/b0&gt; and &lt;b2&gt;&lt;f3&gt;new Color(int r, int g, int b)&lt;/f3&gt;&lt;/b2&gt; constructor variants.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T170039Z" creationid="miurahr" creationdate="20160723T170039Z">
+        <seg>このインテンションは、&lt;b0&gt;&lt;f1&gt;new Color(int rgb)&lt;/f1&gt;&lt;/b0&gt;と &lt;b2&gt;&lt;f3&gt;new Color(int r, int g, int b)&lt;/f3&gt;&lt;/b2&gt;の異なるコンストラクタの変換をできるようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This intention allows to create or assign multiple fields from method parameters.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T165644Z" creationid="miurahr" creationdate="20160723T165644Z">
+        <seg>このインテンションは、メソッドのパラメータから 複数フィールドの作成や割り当てをできるようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This intention converts absolute path to relative (if applicable).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T165948Z" creationid="miurahr" creationdate="20160723T165948Z">
+        <seg>このインテンションは、絶対パスを相対パスに変換します(該当する場合)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This intention converts selected qualified reference into simple reference and adds &lt;b0&gt;&lt;f1&gt;static import&lt;/f1&gt;&lt;/b0&gt; ( &lt;b2&gt;Java 5.0&lt;/b2&gt; feature) for corresponding class.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T165317Z" creationid="miurahr" creationdate="20160723T165317Z">
+        <seg>このインテンションは、選択した修飾参照を単純参照に変換して、対応するクラスに &lt;b0&gt;&lt;f1&gt;static import&lt;/f1&gt;&lt;/b0&gt; (&lt;b2&gt;Java 5.0&lt;/b2&gt; 機能) を追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This intention converts selected qualified reference into simple reference and adds corresponding &lt;b0&gt;&lt;f1&gt;static import&lt;/f1&gt;&lt;/b0&gt; ( &lt;b2&gt;Java 5.0&lt;/b2&gt; feature) for that reference.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T165527Z" creationid="miurahr" creationdate="20160723T165527Z">
+        <seg>このインテンションは、選択した修飾参照を単純参照に変換して、その参照に対応する &lt;b0&gt;&lt;f1&gt;static import&lt;/f1&gt;&lt;/b0&gt; (&lt;b2&gt;Java 5.0&lt;/b2&gt; 機能) を追加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This intention converts string concatenation expressions to calling &lt;b0&gt;java.text.MessageFormat.format&lt;/b0&gt; method generating appropriate format string and arguments</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T165901Z" creationid="miurahr" creationdate="20160723T165901Z">
+        <seg>このインテンションは、文字列結合式を適切なフォーマットの文字列と引数を生成する &lt;b0&gt;java.text.MessageFormat.format&lt;/b0&gt; メソッドの呼び出しに変換します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This intention converts type to atomic</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T165918Z" creationid="miurahr" creationdate="20160723T165918Z">
+        <seg>このインテンションは、アトミックに型を変換します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This intention inserts statement assigning parameter to the same-named field.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T165536Z" creationid="miurahr" creationdate="20160723T165536Z">
+        <seg>このインテンションは、同じ名前のフィールドにパラメータを代入する文を挿入します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This intention shows color chooser dialog and replaces existing &lt;b0&gt;&lt;f1&gt;new Color&lt;/f1&gt;&lt;/b0&gt; expression with the values of the choosen color.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T165826Z" creationid="miurahr" creationdate="20160723T165826Z">
+        <seg>このインテンションは、色選択のダイアログを表示し、選択した色の値を持つ &lt;b0&gt;&lt;f1&gt;新しい色&lt;/f1&gt;&lt;/b0&gt;に置き換えられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is a built-in template used each time you create a new Java class, by selecting &lt;i0&gt;New | Java Class | Class&lt;/i0&gt; from the popup menu in one of the project views.&lt;br1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T153301Z" creationid="miurahr" creationdate="20160723T153301Z">
