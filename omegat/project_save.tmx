@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Along with Java expressions and comments, you can also use predefined variables (listed below) that will then be expanded like macros into the corresponding values.&lt;br2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T153433Z" creationid="miurahr" creationdate="20160723T153433Z">
+        <seg>Java 式とコメント以外に、マクロのように対応する値に展開されるあらかじめ定義されている変数 (下記を参照) を使用することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Along with Java expressions and comments, you can also use predefined variables that will be then expanded into the corresponding values.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T143230Z" creationid="miurahr" creationdate="20160723T143230Z">
@@ -38,6 +46,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Along with static text, code and comments, you can also use predefined variables (listed below) that will then be expanded like macros into the corresponding values.&lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T152842Z" creationid="miurahr" creationdate="20160723T152403Z">
+        <seg>静的テキスト (コードとコメント) 以外に、マクロのように対応する値に展開されるあらかじめ定義されている変数(以下のリスト参照）を使用することもできます。&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Along with static text, code and comments, you can also use predefined variables that will then be expanded like macros into the corresponding values.&lt;/f3&gt;&lt;br4&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T153110Z" creationid="miurahr" creationdate="20160723T153110Z">
+        <seg>静的テキスト (コードとコメント) 以外に、マクロのように対応する値に展開されるあらかじめ定義されている変数を使用することもできます。&lt;/f3&gt;&lt;br4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Along with static text, code and comments, you can also use predefined variables that will then be expanded like macros into the corresponding values.&lt;/f4&gt;&lt;br5&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T152828Z" creationid="miurahr" creationdate="20160723T152828Z">
+        <seg>静的テキスト (コードとコメント) 以外に、マクロのように対応する値に展開されるあらかじめ定義されている変数を使用することもできます。&lt;/f4&gt;&lt;br5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Expression of type &lt;b0&gt;java.util.ResourceBundle&lt;/b0&gt;, instance of which is available in this context.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T143905Z" creationid="miurahr" creationdate="20160723T143905Z">
@@ -50,6 +82,30 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T144507Z" creationid="miurahr" creationdate="20160723T144507Z">
         <seg>型 &lt;c0&gt;java.util.ResourceBundle&lt;/c0&gt; (このコンテキストで利用可能なインスタンス) の式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this template, you can specify a code fragment to be included into file templates (&lt;i0&gt;Templates&lt;/i0&gt; tab) with the help of the &lt;b1&gt;#parse&lt;/b1&gt; directive.&lt;br2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T152746Z" creationid="miurahr" creationdate="20160723T152746Z">
+        <seg>このテンプレートでは、&lt;b1&gt;#parse&lt;/b1&gt;ディレクティブを使用してファイル テンプレート (&lt;i0&gt;テンプレート&lt;/i0&gt;&gt; タブ) にインクルードするコード フラグメントを指定できます。&lt;br2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It contains a code fragment that can be included into file templates (&lt;i0&gt;Templates&lt;/i0&gt; tab) with the help of the &lt;b1&gt;#parse&lt;/b1&gt; directive.&lt;br2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T153025Z" creationid="miurahr" creationdate="20160723T153025Z">
+        <seg>&lt;b1&gt;#parse&lt;/b1&gt;ディレクティブを使用してファイル テンプレート (&lt;i0&gt;テンプレート&lt;/i0&gt; タブ) にインクルードできるコード フラグメントを含んでいます。&lt;br2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One template can be shared by several file templates.&lt;br3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T152755Z" creationid="miurahr" creationdate="20160723T152755Z">
+        <seg>1 つのテンプレートを複数のファイル テンプレートで使用できます。&lt;br3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -94,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is a built-in template used each time you create a new Java class, by selecting &lt;i0&gt;New | Java Class | Class&lt;/i0&gt; from the popup menu in one of the project views.&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T153301Z" creationid="miurahr" creationdate="20160723T153301Z">
+        <seg>これは、プロジェクト ビューのポップアップ メニューから &lt;i0&gt;[新規] - [クラス]&lt;/i0&gt;&gt; を選択して、新規 Java クラスを作成するときに使用されるビルトイン テンプレートです。&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is a built-in template used for filling the body of a &lt;b0&gt;catch&lt;/b0&gt; block when it is generated, e.g. when using the &lt;i1&gt;Code | Surround with...&lt;/i1&gt; function.&lt;br2&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T143158Z" creationid="miurahr" creationdate="20160723T143158Z">
@@ -123,6 +187,14 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T150945Z" creationid="miurahr" creationdate="20160723T150945Z">
         <seg>これは、例えば、&lt;i0&gt;[コード] - [メソッドのオーバーライド...]&lt;/i0&gt; 機能を使用して、プログラムがオーバーライドされたメソッドのボディを生成するときに使用されるビルトイン テンプレートです。&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is a built-in template.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T152935Z" creationid="miurahr" creationdate="20160723T152935Z">
+        <seg>これはビルトインテンプレートです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -159,6 +231,70 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>current day of the month</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T152528Z" creationid="miurahr" creationdate="20160723T152528Z">
+        <seg>今月の日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>current hour</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T152551Z" creationid="miurahr" creationdate="20160723T152551Z">
+        <seg>現時刻の時</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>current minute</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T152603Z" creationid="miurahr" creationdate="20160723T152603Z">
+        <seg>現時刻の分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>current month</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T152458Z" creationid="miurahr" creationdate="20160723T152458Z">
+        <seg>現在の月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>current system date</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T152434Z" creationid="miurahr" creationdate="20160723T152434Z">
+        <seg>現在のシステム日付</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>current system time</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T152442Z" creationid="miurahr" creationdate="20160723T152442Z">
+        <seg>現在のシステム時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>current user system login name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T152426Z" creationid="miurahr" creationdate="20160723T152426Z">
+        <seg>現在のユーザー (システム ログイン) 名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>current year</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T152449Z" creationid="miurahr" creationdate="20160723T152449Z">
+        <seg>現在の年</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>name of the &lt;b0&gt;Exception&lt;/b0&gt; variable specified as a &lt;b1&gt;catch&lt;/b1&gt; parameter</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T143334Z" creationid="miurahr" creationdate="20160723T143334Z">
@@ -187,6 +323,14 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T151654Z" creationid="miurahr" creationdate="20160723T151654Z">
         <seg>オーバーライドされたメソッドの名前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name of the package in which the new file is created</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T152408Z" creationid="miurahr" creationdate="20160723T152408Z">
+        <seg>新規クラスが作成されたパッケージの名前</seg>
       </tuv>
     </tu>
     <tu>
@@ -227,6 +371,14 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T144756Z" creationid="miurahr" creationdate="20160723T144756Z">
         <seg>作成したメソッドの戻り型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the name of the current project</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T152623Z" creationid="miurahr" creationdate="20160723T152623Z">
+        <seg>現在のプロジェクト名</seg>
       </tuv>
     </tu>
     <tu>
