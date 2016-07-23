@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <omegat>
     <project version="1.0">
-        <source_dir>resources-en</source_dir>
+        <source_dir>__DEFAULT__</source_dir>
         <source_dir_excludes>
             <mask>**/.svn/**</mask>
             <mask>**/CVS/**</mask>
@@ -10,11 +10,11 @@
             <mask>**/Thumbs.db</mask>
             <mask>**/.DS_Store</mask>
         </source_dir_excludes>
-        <target_dir>resources-ja</target_dir>
-        <tm_dir>omegat/tm</tm_dir>
-        <glossary_dir>omegat/glossary</glossary_dir>
-        <glossary_file>glossary.txt</glossary_file>
-        <dictionary_dir>omegat/dictionary</dictionary_dir>
+        <target_dir>__DEFAULT__</target_dir>
+        <tm_dir>__DEFAULT__</tm_dir>
+        <glossary_dir>__DEFAULT__</glossary_dir>
+        <glossary_file>__DEFAULT__</glossary_file>
+        <dictionary_dir>__DEFAULT__</dictionary_dir>
         <source_lang>EN-US</source_lang>
         <target_lang>JA</target_lang>
         <source_tok>org.omegat.tokenizer.LuceneEnglishTokenizer</source_tok>
