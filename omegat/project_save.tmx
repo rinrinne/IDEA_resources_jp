@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All the predefined variables from the &lt;i0&gt;File Header&lt;/i0&gt; template (&lt;i1&gt;Includes&lt;/i1&gt; tab) are also available (e.g. &lt;f2&gt;&lt;b3&gt;${USER}&lt;/b3&gt;&lt;/f2&gt;, &lt;f4&gt;&lt;b5&gt;${DATE}&lt;/b5&gt;&lt;/f4&gt;, etc.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T145848Z" creationid="miurahr" creationdate="20160723T145848Z">
+        <seg> &lt;i0&gt;ファイルヘッダー&lt;/i0&gt; テンプレートからの事前定義された変数全て (tab&lt;i1&gt;を含め&lt;/i1&gt; ) は (例えば &lt;f2&gt;&lt;b3&gt;${USER}&lt;/b3&gt;&lt;/f2&gt;, &lt;f4&gt;&lt;b5&gt;${DATE}&lt;/b5&gt;&lt;/f4&gt;など)としても有効です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Along with Java expressions and comments, you can also use predefined variables that will be then expanded into the corresponding values.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T143230Z" creationid="miurahr" creationdate="20160723T143230Z">
@@ -95,6 +103,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is a built-in template used for filling the body of a method when it is generated, e.g. when using the &lt;i0&gt;Create method from usage&lt;/i0&gt; intention action.&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T145931Z" creationid="miurahr" creationdate="20160723T145931Z">
+        <seg>これは、例えば、&lt;i0&gt;使用箇所からのメソッドの作成&lt;/i0&gt;アクションを使用して、プログラムがメソッドのボディを生成するときに使用されるビルトイン テンプレートです。&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is a built-in template used for filling the body of an implemented method when it is generated, e.g. when using the &lt;i0&gt;Implement abstract class&lt;/i0&gt; or &lt;i1&gt;Implement Abstract Method&lt;/i1&gt; intention actions or calling the &lt;i2&gt;Code | Implement Method...&lt;/i2&gt; function.&lt;br3&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T144731Z" creationid="miurahr" creationdate="20160723T144731Z">
@@ -131,6 +147,14 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T143334Z" creationid="miurahr" creationdate="20160723T143334Z">
         <seg>&lt;b1&gt;catch&lt;/b1&gt; パラメータとして指定された &lt;b0&gt;Exception&lt;/b0&gt; 変数の名前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name of the created method</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T150008Z" creationid="miurahr" creationdate="20160723T145940Z">
+        <seg>作成したメソッドの名前</seg>
       </tuv>
     </tu>
     <tu>
