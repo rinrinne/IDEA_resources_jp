@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>- the call to &lt;b0&gt;&lt;f1&gt;remove()&lt;/f1&gt;&lt;/b0&gt; will be highlighted.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T164415Z" creationid="miurahr" creationdate="20160723T164415Z">
+        <seg>- &lt;b0&gt;&lt;f1&gt;remove()&lt;/f1&gt;&lt;/b0&gt;への呼び出しが強調表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- the usage of &lt;b0&gt;&lt;f1&gt;&lt;String&gt;&lt;/f1&gt;&lt;/b0&gt; will be highlighted.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T162635Z" creationid="miurahr" creationdate="20160723T162635Z">
@@ -106,6 +114,14 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T162755Z" creationid="miurahr" creationdate="20160723T162755Z">
         <seg>例えば、次のようなパラメータ化されたメソッドへの呼び出しを行う場合 :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example if you have the following code: &lt;br2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T164125Z" creationid="miurahr" creationdate="20160723T164125Z">
+        <seg>例えば、以下のコードの場合 :</seg>
       </tuv>
     </tu>
     <tu>
@@ -262,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This inspection points out the cases where a variable value is never used after its assignment, i.e.: &lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T164756Z" creationid="miurahr" creationdate="20160723T164756Z">
+        <seg>この検査は、以下のように、変数が代入後に使用されないケースを指摘します :&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This inspection points out the following javadoc comment flaws: &lt;br0&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T161711Z" creationid="miurahr" creationdate="20160723T161711Z">
@@ -295,6 +319,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This inspection reports all fields, methods or classes, found in the specified inspection scope, that may have their access modifier narrowed down.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T164427Z" creationid="miurahr" creationdate="20160723T164427Z">
+        <seg>この検査は、指定された検査範囲で見つかった、アクセス修飾子が絞り込まれた、フィールド、メソッドまたはクラスをすべて報告します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This inspection reports all properties not referenced from outside of the properties file.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T164624Z" creationid="miurahr" creationdate="20160723T164624Z">
+        <seg>この検査は、プロパティ ファイルの未使用プロパティをすべて報告します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This inspection reports all string literals which are replicated unchanged throughout the project.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T155014Z" creationid="miurahr" creationdate="20160723T155014Z">
@@ -315,6 +355,14 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T160139Z" creationid="miurahr" creationdate="20160723T160139Z">
         <seg>この検査は、クラスが&lt;b4&gt;&lt;f5&gt;コレクション&lt;/f5&gt;&lt;/b4&gt;に追加されるときに問題を引き起こす可能性がある、メソッド &lt;b0&gt;&lt;f1&gt;equals()&lt;/f1&gt;&lt;/b0&gt; をオーバーライドしてメソッド &lt;b2&gt;&lt;f3&gt;hashCode()&lt;/f3&gt;&lt;/b2&gt; をオーバーライドしないクラス、またはその逆のクラスを報告します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This inspection reports method calls to parameterized collections, where actual argument type does not correspond to the collection's elements type.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T164104Z" creationid="miurahr" creationdate="20160723T164104Z">
+        <seg>この検査は、実際の引数の型がコレクションの要素の型と対応していない、パラメータ化されたコレクションへのメソッド呼び出しを報告します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -343,10 +391,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This inspection reports methods which return values are never used in corresponding method calls.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T164611Z" creationid="miurahr" creationdate="20160723T164611Z">
+        <seg>この検査は、戻り値が対応するメソッド呼び出しで使用されないメソッドを報告します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This inspection reports parameters or local variables, found in the specified inspection scope, that may have a &lt;b0&gt;&lt;f1&gt;final&lt;/f1&gt;&lt;/b0&gt; modifier added.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T162011Z" creationid="miurahr" creationdate="20160723T162011Z">
         <seg>この検査は、指定された検査範囲で見つかった、&lt;b0&gt;&lt;f1&gt;final&lt;/f1&gt;&lt;/b0&gt;修飾子が追加できる、パラメータまたはローカル変数を報告します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This inspection reports parameters that are not used by their methods and all method implementations/overriders.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T164713Z" creationid="miurahr" creationdate="20160723T164713Z">
+        <seg>この検査は、メソッドおよびすべてのメソッド実装/オーバーライドで使用されないパラメータを報告します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -464,10 +528,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This may be useful when development is performed under newer SDK version as the target platform for production.&lt;br4&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T164014Z" creationid="miurahr" creationdate="20160723T164014Z">
+        <seg>製品のターゲット プラットフォームに対して、開発をより新しいSDKで行う場合に便利です。&lt;br4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Typically it is the value that is used for &lt;c0&gt;ResourceBundle.getString()&lt;/c0&gt; method parameter.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T144253Z" creationid="miurahr" creationdate="20160723T144253Z">
         <seg>通常は、&lt;c0&gt;ResourceBundle.getString()&lt;/c0&gt; メソッド パラメータに使用された値。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use check boxes in the inspection options below, to define rules for the modifier change suggestions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T164546Z" creationid="miurahr" creationdate="20160723T164546Z">
+        <seg>修飾子変更を提案するルールを定義するには、以下の検査オプションのチェック ボックスを使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -780,6 +860,38 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T161745Z" creationid="miurahr" creationdate="20160723T161733Z">
         <seg>- 必要なタグがない&lt;br3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg> - the value is always overwritten with another assignment before the next variable read OR &lt;br2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T164810Z" creationid="miurahr" creationdate="20160723T164810Z">
+        <seg>- 次の変数を読み込む前に別の代入により値が常に上書きされる、または&lt;br2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg> - the variable initializer is redundant (for one of the above two reasons) OR &lt;br3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T164828Z" creationid="miurahr" creationdate="20160723T164828Z">
+        <seg>- 変数の初期化子が (上の 2 つの理由のいずれかにより) 冗長である、または&lt;br3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg> - the variable is never used.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T164953Z" creationid="miurahr" creationdate="20160723T164953Z">
+        <seg>- 変数が使用されない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg> - the variable never gets read after assignment OR &lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T164758Z" creationid="miurahr" creationdate="20160723T164758Z">
+        <seg>- 変数が代入後に読み込まれない、または</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
