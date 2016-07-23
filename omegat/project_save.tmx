@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hardcoded string literals are probably errors in an internationalized environment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T160631Z" creationid="miurahr" creationdate="20160723T160631Z">
+        <seg>ハードコードされている文字列リテラルは、国際化環境でエラーになる場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If all local usages of a field are preceded by assignments to that field, the field can be removed and its usages replaced with local variables.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T160250Z" creationid="miurahr" creationdate="20160723T160250Z">
@@ -114,6 +122,14 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T153025Z" creationid="miurahr" creationdate="20160723T153025Z">
         <seg>&lt;b1&gt;#parse&lt;/b1&gt;ディレクティブを使用してファイル テンプレート (&lt;i0&gt;テンプレート&lt;/i0&gt; タブ) にインクルードできるコード フラグメントを含んでいます。&lt;br2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JUnit assert calls, like in &lt;b0&gt;&lt;f1&gt;assertEquals(str, &lt;f2&gt;"message"&lt;/f2&gt;)&lt;/f1&gt;&lt;/b0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T161043Z" creationid="miurahr" creationdate="20160723T161043Z">
+        <seg>&lt;b0&gt;&lt;f1&gt;assertEquals(str, &lt;f2&gt;"メッセージ"&lt;/f2&gt;)のようなJUnit assert 呼び出し&lt;/f1&gt;&lt;/b0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -166,10 +182,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The checkboxes below may be used to further specialize whether this inspection should report strings in:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T160650Z" creationid="miurahr" creationdate="20160723T160650Z">
+        <seg>この検査で以下の文字列を報告するには、該当するチェックボックスをオンにします :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The template is editable.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T143814Z" creationid="miurahr" creationdate="20160723T125412Z">
         <seg>このテンプレートは編集可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There is a quickfix provided that transforms a Java code string literal into a &lt;b0&gt;&lt;f1&gt;java.util.ResourceBundle.getString()&lt;/f1&gt;&lt;/b0&gt; method call.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T161649Z" creationid="miurahr" creationdate="20160723T161649Z">
+        <seg>  Java コード文字列リテラルを &lt;b0&gt;&lt;f1&gt;java.util.ResourceBundle.getString()&lt;/f1&gt;&lt;/b0&gt;メソッド呼び出しに変換するクイックフィックスが提供されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -186,6 +218,14 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T154839Z" creationid="miurahr" creationdate="20160723T154839Z">
         <seg>この検査は、依存関係の検証に指定されたルールの違反を検出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This inspection points out the following javadoc comment flaws: &lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T161711Z" creationid="miurahr" creationdate="20160723T161711Z">
+        <seg>この検査は、以下の javadoc コメントの問題点を指摘します :&lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -215,6 +255,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This inspection reports any instances of hardcoded String literals.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T160628Z" creationid="miurahr" creationdate="20160723T160628Z">
+        <seg>この検査は、ハードコードされている文字列リテラルのインスタンスを報告します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This inspection reports classes that override method &lt;b0&gt;&lt;f1&gt;equals()&lt;/f1&gt;&lt;/b0&gt; but do not override method &lt;b2&gt;&lt;f3&gt;hashCode()&lt;/f3&gt;&lt;/b2&gt; , or vice versa, which could potentially lead to problems when class is added to a &lt;b4&gt;&lt;f5&gt;Collection&lt;/f5&gt;&lt;/b4&gt; .</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T160139Z" creationid="miurahr" creationdate="20160723T160139Z">
@@ -231,6 +279,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This inspection reports parameters or local variables, found in the specified inspection scope, that may have a &lt;b0&gt;&lt;f1&gt;final&lt;/f1&gt;&lt;/b0&gt; modifier added.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T162011Z" creationid="miurahr" creationdate="20160723T162011Z">
+        <seg>この検査は、指定された検査範囲で見つかった、&lt;b0&gt;&lt;f1&gt;final&lt;/f1&gt;&lt;/b0&gt;修飾子が追加できる、パラメータまたはローカル変数を報告します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This inspection reports where deprecated code is used in the specified inspection scope.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T155005Z" creationid="miurahr" creationdate="20160723T155005Z">
@@ -243,6 +299,14 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T160202Z" creationid="miurahr" creationdate="20160723T160202Z">
         <seg>この検査は、ローカル変数と置換できる冗長なクラス フィールドを検索します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This inspection won't report empty strings and strings consisting of only whitespace.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T160639Z" creationid="miurahr" creationdate="20160723T160639Z">
+        <seg>この検査は、空の文字列と空白のみからなる文字列のインスタンスは報告しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -328,6 +392,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use tabs and corresponding inspection options below, to define visibility scope where javadoc is required, as well as the required javadoc tags for classes, methods, fields and inner classes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T161912Z" creationid="miurahr" creationdate="20160723T161912Z">
+        <seg>javadoc が必要な可視性範囲、クラス、メソッド、フィールド、および内部クラスの必要な javadoc タグを定義するには、以下のタブおよび対応するオプションを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use the "Configure dependency rules" button below to customize validation rules.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T154854Z" creationid="miurahr" creationdate="20160723T154854Z">
@@ -348,6 +420,14 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T151440Z" creationid="miurahr" creationdate="20160723T151440Z">
         <seg>スーパー メソッド呼び出し、&lt;b0&gt;void&lt;/b0&gt; メソッドの場合 - &lt;c1&gt;&lt;b2&gt;super&lt;/b2&gt;.&lt;i3&gt;メソッド名&lt;/i3&gt;();&lt;/c1&gt; (パラメータあり/なし) 。他のメソッドの場合 - &lt;c4&gt;&lt;b5&gt;return&lt;/b5&gt;&lt;b6&gt; super&lt;/b6&gt;.&lt;i7&gt;メソッド名&lt;/i7&gt;(); (パラメータあり/なし) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>assert statements, like in &lt;b0&gt;&lt;f1&gt;assert str.equals(&lt;f2&gt;"message"&lt;/f2&gt;)&lt;/f1&gt;&lt;/b0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T160938Z" creationid="miurahr" creationdate="20160723T160805Z">
+        <seg>&lt;b0&gt;&lt;f1&gt;assert str.equals(&lt;f2&gt;"メッセージ"&lt;/f2&gt;)のようなassert文&lt;/f1&gt;&lt;/b0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -412,6 +492,30 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T152449Z" creationid="miurahr" creationdate="20160723T152449Z">
         <seg>現在の年</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>exception constructor calls, like in &lt;b0&gt;&lt;f1&gt;new Exception(&lt;f2&gt;"message"&lt;/f2&gt;)&lt;/f1&gt;&lt;/b0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T160929Z" creationid="miurahr" creationdate="20160723T160929Z">
+        <seg>&lt;b0&gt;&lt;f1&gt;new Exception(&lt;f2&gt;"メッセージ"&lt;/f2&gt;)のような例外コンストラクタ呼び出し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>literals with value of legal and existing class name like &lt;b0&gt;&lt;f1&gt;Class.forName(&lt;f2&gt;"java.lang.Object"&lt;/f2&gt;);&lt;/f1&gt;&lt;/b0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T161354Z" creationid="miurahr" creationdate="20160723T161354Z">
+        <seg>&lt;b0&gt;&lt;f1&gt;Class.forName(&lt;f2&gt;"java.lang.Object"&lt;/f2&gt;);&lt;/f1&gt;&lt;/b0&gt;のような正式な既存のクラス名の値を含むリテラル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>literals with value of legal and existing property key &lt;b0&gt;&lt;f1&gt;bundle.getString(&lt;f2&gt;"authentication.failed"&lt;/f2&gt;);&lt;/f1&gt;&lt;/b0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T161524Z" creationid="miurahr" creationdate="20160723T161524Z">
+        <seg>&lt;b0&gt;&lt;f1&gt;bundle.getString(&lt;f2&gt;"authentication.failed"&lt;/f2&gt;);&lt;/f1&gt;&lt;/b0&gt;のような正式な既存のプロパティキーの値を含むリテラル</seg>
       </tuv>
     </tu>
     <tu>
@@ -504,6 +608,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>the only argument to a method returning String, like in &lt;b0&gt;&lt;f1&gt;getStringByKey(&lt;f2&gt;"key"&lt;/f2&gt;)&lt;/f1&gt;&lt;/b0&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T161302Z" creationid="miurahr" creationdate="20160723T161302Z">
+        <seg>&lt;b0&gt;&lt;f1&gt;getStringByKey(&lt;f2&gt;"キー"&lt;/f2&gt;)&lt;/f1&gt;&lt;/b0&gt;のような文字列を返すメソッドの唯一の引数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>type of the &lt;b0&gt;catch&lt;/b0&gt; parameter</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T143356Z" creationid="miurahr" creationdate="20160723T143356Z">
@@ -528,6 +640,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg> - invalid or incomplete tag &lt;br4&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T161817Z" creationid="miurahr" creationdate="20160723T161817Z">
+        <seg>- タグが無効または不完全&lt;br4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg> - javadoc description is missing or incomplete &lt;br5&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T161830Z" creationid="miurahr" creationdate="20160723T161830Z">
+        <seg> - javadoc の説明がないか不完全&lt;br5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg> - method is empty OR &lt;br2&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T155740Z" creationid="miurahr" creationdate="20160723T155740Z">
@@ -540,6 +668,22 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T155819Z" creationid="miurahr" creationdate="20160723T155819Z">
         <seg> - メソッドが空で空のメソッドのみにオーバーライドされる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg> - no javadoc where it is required &lt;br2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T161739Z" creationid="miurahr" creationdate="20160723T161722Z">
+        <seg> - javadoc が必要な場所にない&lt;br2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg> - required tag is missing &lt;br3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T161745Z" creationid="miurahr" creationdate="20160723T161733Z">
+        <seg>- 必要なタグがない&lt;br3&gt;</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
