@@ -150,10 +150,67 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This inspection analyzes method control and data flow to report possible conditions that are always &lt;b0&gt;true&lt;/b0&gt; or &lt;b1&gt;false&lt;/b1&gt;, expressions whose value is statically proven to be constant, and situations that can lead to nullability contract violations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T154734Z" creationid="miurahr" creationdate="20160723T154734Z">
+        <seg>この検査は、コードのデータ フロー分析に基づいて、常に &lt;b0&gt;true&lt;/b0&gt; または &lt;b1&gt;false&lt;/b1&gt;となるような条件文や、値が一定であると静的に証明されたり、ヌル値になる契約違反を導くような表現を報告します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This inspection detects violations of rules specified for dependency validation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T154839Z" creationid="miurahr" creationdate="20160723T154839Z">
+        <seg>この検査は、依存関係の検証に指定されたルールの違反を検出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This inspection reports all fields, methods or classes, found in the specified inspection scope, that may have a &lt;b0&gt;&lt;f1&gt;final&lt;/f1&gt;&lt;/b0&gt; modifier added to their declarations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T153928Z" creationid="miurahr" creationdate="20160723T153928Z">
+        <seg>この検査は、指定された検査範囲で見つかった宣言に &lt;b0&gt;&lt;f1&gt;final&lt;/f1&gt;&lt;/b0&gt; 修飾子が追加できる、フィールド、メソッドまたはクラスをすべて報告します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This inspection reports all fields, methods or classes, found in the specified inspection scope, that may have a &lt;b0&gt;&lt;f1&gt;static&lt;/f1&gt;&lt;/b0&gt; modifier added to their declarations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T154106Z" creationid="miurahr" creationdate="20160723T154106Z">
+        <seg>この検査は、指定された検査範囲で見つかった宣言に &lt;b0&gt;&lt;f1&gt;static&lt;/f1&gt;&lt;/b0&gt;
+修飾子が追加できる、フィールド、メソッドまたはクラスをすべて報告します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This inspection reports all string literals which are replicated unchanged throughout the project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T155014Z" creationid="miurahr" creationdate="20160723T155014Z">
+        <seg>この検査は、プロジェクト全体にわたって複製され変更されなかった文字列リテラルをすべて報告します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This inspection reports where deprecated code is used in the specified inspection scope.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T155005Z" creationid="miurahr" creationdate="20160723T155005Z">
+        <seg>この検査は、指定された検査範囲で使用されている非推奨コードを報告します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is a built-in template used each time you create a new Java class, by selecting &lt;i0&gt;New | Java Class | Class&lt;/i0&gt; from the popup menu in one of the project views.&lt;br1&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T153301Z" creationid="miurahr" creationdate="20160723T153301Z">
         <seg>これは、プロジェクト ビューのポップアップ メニューから &lt;i0&gt;[新規] - [クラス]&lt;/i0&gt;&gt; を選択して、新規 Java クラスを作成するときに使用されるビルトイン テンプレートです。&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is a built-in template used each time you create a new Java interface, by selecting &lt;i0&gt;New | Java Class | Interface&lt;/i0&gt; from the popup menu in one of the project views.&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T153731Z" creationid="miurahr" creationdate="20160723T153731Z">
+        <seg>これは、プロジェクト ビューのポップアップ メニューから &lt;i0&gt;[新規] - [インターフェイス]&lt;/i0&gt; を選択して、新規 Java インターフェイスを作成するときに使用されるビルトイン テンプレートです。&lt;br1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -211,6 +268,22 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T144253Z" creationid="miurahr" creationdate="20160723T144253Z">
         <seg>通常は、&lt;c0&gt;ResourceBundle.getString()&lt;/c0&gt; メソッド パラメータに使用された値。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use check boxes in the inspection options below, to define which declarations are to be reported.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T153941Z" creationid="miurahr" creationdate="20160723T153941Z">
+        <seg>報告する宣言を定義するには、以下の検査オプションのチェック ボックスを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the "Configure dependency rules" button below to customize validation rules.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T154854Z" creationid="miurahr" creationdate="20160723T154854Z">
+        <seg>検証ルールをカスタマイズするには、[依存関係ルールの設定] ボタンを押します</seg>
       </tuv>
     </tu>
     <tu>
