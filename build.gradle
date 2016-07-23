@@ -10,6 +10,23 @@ sourceSets {
   }
 }
 
+task processResourceFiles() << {
+  ["search", "messages"].each {src ->
+      copy {
+        from "target/" + src
+        into "resources-ja/" + src
+        rename '(.*).properties', '$1_ja.properties'
+      }
+  }
+  ["fileTemplates", "inspectionDescriptions", "intentionDescriptions",
+   "postfixTemplates", "tips"].each {src ->
+    copy {
+      from "target/" + src
+      into "resources-ja/" + src + "_ja"
+    }
+  }
+}
+
 task processPropertiesFile << {
   sourceSets.each { s ->
     s.resources.srcDirs.each { d ->
@@ -25,9 +42,18 @@ task processPropertiesFile << {
   }
 }
 
+task translateResources(type:Exec) {
+  workingDir projectDir
+  commandLine 'omegat', getProjectDir().toString(), '--mode=console-translate'
+}
+
+processResourceFiles.dependsOn translateResources
+processResources.dependsOn processResourceFiles
+processPropertiesFile.dependsOn processResourceFiles
+
 processResources.excludes = ['**/*.properties']
 processResources.dependsOn processPropertiesFile
 
 task wrapper(type: Wrapper) {
-  gradleVersion = '1.6'
+  gradleVersion = '2.12'
 }
