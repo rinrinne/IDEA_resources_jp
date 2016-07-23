@@ -6,10 +6,179 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt; This is a built-in template used for replacing a string concatenation (e.g. &lt;/f0&gt;&lt;c1&gt;String s = "Hello " + name;&lt;/c1&gt;) &lt;f2&gt;with an internationalized Java code expression (e.g.&lt;/f2&gt; &lt;c3&gt;String s = MessageFormat.format(​myResourceBundle.getString(​"hello.0"), name);&lt;/c3&gt;&lt;f4&gt;).&lt;br5&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T143759Z" creationid="miurahr" creationdate="20160723T143759Z">
+        <seg>&lt;f2&gt;これは、国際化された Java コード式 (例えば、&lt;/f2&gt;&lt;c3&gt;String s = MessageFormat.format(myResourceBundle.getString("hello {0}"), name);&lt;/c3&gt;&lt;f4&gt;) で&lt;f0&gt; 置換文字列結合 (例えば、&lt;/f0&gt;&lt;c1&gt;String s = "Hello " + name;&lt;/c1&gt;) に使用されるビルトイン テンプレートです。&lt;br5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Along with Java expressions and comments, you can also use predefined variables that will be then expanded into the corresponding values.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T143230Z" creationid="miurahr" creationdate="20160723T143230Z">
+        <seg>Java 式とコメント以外に、対応する値に展開されるあらかじめ定義されている変数を使用することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Along with Java expressions and comments, you can also use predefined variables that will be then expanded into the corresponding values.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T143831Z" creationid="miurahr" creationdate="20160723T143831Z">
+        <seg>Java 式とコメント以外に、対応する値に展開されるあらかじめ定義されている変数を使用することもできます。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expression of type &lt;b0&gt;java.util.ResourceBundle&lt;/b0&gt;, instance of which is available in this context.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T143905Z" creationid="miurahr" creationdate="20160723T143905Z">
+        <seg>型 &lt;b0&gt;java.util.ResourceBundle&lt;/b0&gt; (このコンテキストで利用可能なインスタンス) の式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expression of type &lt;c0&gt;java.util.ResourceBundle&lt;/c0&gt;, instance of which is available in this context.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T144507Z" creationid="miurahr" creationdate="20160723T144507Z">
+        <seg>型 &lt;c0&gt;java.util.ResourceBundle&lt;/c0&gt; (このコンテキストで利用可能なインスタンス) の式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Predefined variables will take the following values:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T143247Z" creationid="miurahr" creationdate="20160723T143247Z">
+        <seg>あらかじめ定義されている変数は以下の値を使用します:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Property key name which is defined in the corresponding properties file.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T144222Z" creationid="miurahr" creationdate="20160723T144222Z">
+        <seg>対応するプロパティ ファイルで指定されたプロパティ キーの名前。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Property key name which is specified in the corresponding properties file.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T144425Z" creationid="miurahr" creationdate="20160723T144425Z">
+        <seg>対応するプロパティ ファイルで指定されたプロパティ キーの名前。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Property value which is defined in the corresponding properties file.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T144307Z" creationid="miurahr" creationdate="20160723T144307Z">
+        <seg>対応するプロパティ ファイルで指定されたプロパティの値。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The template is editable.</seg>
       </tuv>
-      <tuv lang="JA" changeid="miurahr" changedate="20160723T125412Z" creationid="miurahr" creationdate="20160723T125412Z">
-        <seg>テンプレートは編集可能です。</seg>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T143814Z" creationid="miurahr" creationdate="20160723T125412Z">
+        <seg>このテンプレートは編集可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is a built-in template used for filling the body of a &lt;b0&gt;catch&lt;/b0&gt; block when it is generated, e.g. when using the &lt;i1&gt;Code | Surround with...&lt;/i1&gt; function.&lt;br2&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T143158Z" creationid="miurahr" creationdate="20160723T143158Z">
+        <seg>これは、例えば、&lt;i1&gt;[コード] - [囲む...]&lt;/i1&gt; 機能を使用して、プログラムが &lt;b0&gt;catch&lt;/b0&gt; 文のボディを生成するときに使用されるビルトイン テンプレートです。&lt;br2&gt;
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is a built-in template used for filling the body of an implemented method when it is generated, e.g. when using the &lt;i0&gt;Implement abstract class&lt;/i0&gt; or &lt;i1&gt;Implement Abstract Method&lt;/i1&gt; intention actions or calling the &lt;i2&gt;Code | Implement Method...&lt;/i2&gt; function.&lt;br3&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T144731Z" creationid="miurahr" creationdate="20160723T144731Z">
+        <seg>これは、例えば、&lt;i0&gt;抽象クラスの実装&lt;/i0&gt;/&lt;i1&gt;抽象メソッドの実装&lt;/i1&gt;アクションを使用して、または &lt;i2&gt;[コード] - [メソッドのインポート...]&lt;/i2&gt; 機能を呼び出して、プログラムが実装したメソッドのボディを生成するときに使用されるビルトイン テンプレートです。&lt;br3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the original Java string literal value.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T144322Z" creationid="miurahr" creationdate="20160723T144322Z">
+        <seg>オリジナルの Java 文字列リテラル値。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Typically it is the value that is used for &lt;c0&gt;ResourceBundle.getString()&lt;/c0&gt; method parameter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T144253Z" creationid="miurahr" creationdate="20160723T144253Z">
+        <seg>通常は、&lt;c0&gt;ResourceBundle.getString()&lt;/c0&gt; メソッド パラメータに使用された値。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Variables used in the string concatenation, usually passed as arguments to the internationalized expression.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T144209Z" creationid="miurahr" creationdate="20160723T144209Z">
+        <seg>文字列の結合に使用する変数であり、通常国際化された表現に対する引数として渡される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name of the &lt;b0&gt;Exception&lt;/b0&gt; variable specified as a &lt;b1&gt;catch&lt;/b1&gt; parameter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T143334Z" creationid="miurahr" creationdate="20160723T143334Z">
+        <seg>&lt;b1&gt;catch&lt;/b1&gt; パラメータとして指定された &lt;b0&gt;Exception&lt;/b0&gt; 変数の名前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name of the method that is implemented</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T144813Z" creationid="miurahr" creationdate="20160723T144813Z">
+        <seg>実装したメソッドの名前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>non-qualified name of the class where method is implemented</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T144841Z" creationid="miurahr" creationdate="20160723T144841Z">
+        <seg>メソッドが継承されたクラスの非修飾名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>qualified name of the class where method is implemented</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T144825Z" creationid="miurahr" creationdate="20160723T144825Z">
+        <seg>メソッドが実装されたクラスの修飾名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>return type of a created method</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T144756Z" creationid="miurahr" creationdate="20160723T144756Z">
+        <seg>作成したメソッドの戻り型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>type of the &lt;b0&gt;catch&lt;/b0&gt; parameter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T143356Z" creationid="miurahr" creationdate="20160723T143356Z">
+        <seg>&lt;b0&gt;catch&lt;/b0&gt;パラメータのタイプ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>value returned by the method by default</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T144804Z" creationid="miurahr" creationdate="20160723T144804Z">
+        <seg>メソッドのデフォルトの戻り値</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
