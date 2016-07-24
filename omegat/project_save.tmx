@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Go to</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T160901Z" creationid="miurahr" creationdate="20160724T160901Z">
+        <seg>移動(&amp;G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Height:</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T145509Z" creationid="miurahr" creationdate="20160724T145509Z">
@@ -538,6 +546,14 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T145559Z" creationid="miurahr" creationdate="20160724T145559Z">
         <seg>アプレット ビューアの VM オプション(&amp;V):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;View Source</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T160927Z" creationid="miurahr" creationdate="20160724T160927Z">
+        <seg>ソースの表示(&amp;V)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3525,6 +3541,14 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Commander</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T160941Z" creationid="miurahr" creationdate="20160724T160941Z">
+        <seg>コマンダ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Comment Code</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T120327Z" creationid="miurahr" creationdate="20160724T120327Z">
@@ -4101,6 +4125,14 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deleting</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T160937Z" creationid="miurahr" creationdate="20160724T160937Z">
+        <seg>削除しています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Depends on:</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T134326Z" creationid="miurahr" creationdate="20160724T134326Z">
@@ -4129,6 +4161,14 @@ Escape the "!" character with a backslash ("\").</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T003328Z" creationid="miurahr" creationdate="20160724T003328Z">
         <seg>説明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Details</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T161013Z" creationid="miurahr" creationdate="20160724T161013Z">
+        <seg>詳細</seg>
       </tuv>
     </tu>
     <tu>
@@ -5737,6 +5777,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T122548Z" creationid="miurahr" creationdate="20160724T122548Z">
         <seg>エディタ タブでファイル拡張子は表示しない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide warnings</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T160948Z" creationid="miurahr" creationdate="20160724T160948Z">
+        <seg>警告の非表示</seg>
       </tuv>
     </tu>
     <tu>
@@ -7559,6 +7607,14 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Next Message</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T161000Z" creationid="miurahr" creationdate="20160724T161000Z">
+        <seg>次のメッセージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No ANT configured</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T002940Z" creationid="miurahr" creationdate="20160724T002940Z">
@@ -8535,6 +8591,14 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Previous Message</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T161006Z" creationid="miurahr" creationdate="20160724T161006Z">
+        <seg>前のメッセージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Print</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T124807Z" creationid="miurahr" creationdate="20160724T124807Z">
@@ -9047,6 +9111,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T232603Z" creationid="miurahr" creationdate="20160723T170701Z">
         <seg>削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove &amp;All</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T160919Z" creationid="miurahr" creationdate="20160724T160911Z">
+        <seg>すべて削除(&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
