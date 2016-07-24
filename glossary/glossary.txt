@@ -6,3 +6,11 @@ refactoring	リファクタリング
 interface	インターフェイス
 implement	実装
 subtype	サブタイプ
+postfix	接尾辞
+prefix	接頭辞
+paired braces	中括弧
+paired brackets	大括弧	[ ]
+paired parens	小括弧	( )
+paired parens	小括弧	( )
+Project	プロジェクト
+Package	パッケージ
