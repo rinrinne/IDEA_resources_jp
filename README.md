@@ -27,7 +27,32 @@ You should have an omegat installed.
 $ ./gradlew build
 ```
 
-You will get resulted jar file as `build/libs/resources_ja.jar`
+You will get resource jar file as `build/distribution/resources_ja-<version>.jar`
+Currently we provide two resource files; for version 2016 and version 15.0.6.
+
+
+Contributions
+---------------
+
+There are two way to contirbute to the project.
+
+Translation
+^^^^^^^^^^^
+
+Translation updates are not supporeted to merge with PR. Instead of push a request,
+please ask us to join as a member who can write a repository.
+
+OmegaT has a team feature. It automatically push translation contribution
+onto github repository.
+
+If you want to join, please leave a issue to express your will.
+
+
+
+Build scripts
+^^^^^^^^^^^^^^
+You are welcome to fork project and to ask PR.
+
 
 License
 --------
@@ -39,4 +64,7 @@ Translation memories and translated resources are distributed on Apache 2.0 Lice
 Copyright
 ---------
 
-Copyright(C) 2016    Hiroshi Miura
+Copyright 2000-2015 JetBrains s.r.o.
+Copyright 2013      Yuzo Morioka
+Copyright 2013      GH@morizo999
+Copyright 2016      Hiroshi Miura
