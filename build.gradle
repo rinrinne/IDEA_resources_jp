@@ -1,58 +1,113 @@
-apply plugin: 'java'
-
-defaultTasks 'jar'
-
-sourceSets {
-  main {
-    resources {
-      srcDir 'resources-ja'
+allprojects {
+    apply plugin: 'java'
+    defaultTasks 'jar'
+     ext {
+        target15Dir = new File(rootDir, 'target/15')
+        target16Dir = new File(rootDir, 'target/2016')
     }
-  }
-}
+} 
 
-task processResourceFiles() << {
-  ["search", "messages"].each {src ->
-      copy {
-        from "target/" + src
-        into "resources-ja/" + src
-        rename '(.*).properties', '$1_ja.properties'
-      }
-  }
-  ["fileTemplates", "inspectionDescriptions", "intentionDescriptions",
-   "postfixTemplates", "tips"].each {src ->
-    copy {
-      from "target/" + src
-      into "resources-ja/" + src + "_ja"
+subprojects {
+    apply plugin: 'java'
+    task prepareDir << {
+        new File(project.buildDir, "src/main/resources").mkdir()
     }
-  }
-}
-
-task processPropertiesFile << {
-  sourceSets.each { s ->
-    s.resources.srcDirs.each { d ->
-      if (d.isDirectory()) {
-        ant.native2ascii(
-          src: "${d}",
-          dest: "${s.output.resourcesDir}",
-          includes: '**/*.properties',
-          encoding: 'UTF-8'
-        )
-      } 
+    task removeDir(type: Delete) {
+        delete new File(project.buildDir, "src")
     }
-  }
+
+    task processPropertiesFile << {
+        sourceSets.each { s ->
+            s.resources.srcDirs.each { d ->
+                if (d.isDirectory()) {
+                    ant.native2ascii(
+                            src: "${d}",
+                            dest: "${s.output.resourcesDir}",
+                            includes: '**/*.properties',
+                            encoding: 'UTF-8'
+                    )
+                }
+            }
+        }
+    }
+    processResources.excludes = ['**/*.properties']
+    processResources.dependsOn processPropertiesFile
 }
 
-task translateResources(type:Exec) {
-  workingDir projectDir
-  commandLine 'omegat', getProjectDir().toString(), '--mode=console-translate'
+project(":resources-2016") {
+    apply plugin: 'java'
+    jar.baseName = 'resources_ja'
+    jar.appendix = '2016'
+
+    task processResourceFiles(dependsOn: [prepareDir, ':IDEA_trans_ja:translateResources']) << {
+        ["search", "messages"].each { src ->
+            copy {
+                from new File(target16Dir, src)
+                into new File(sourceSets.main.resources.srcDirs[0], src)
+                rename '(.*).properties', '$1_ja.properties'
+            }
+        }
+
+        ["fileTemplates", "inspectionDescriptions", "intentionDescriptions",
+         "postfixTemplates", "tips"].each { src ->
+            copy {
+                from new File(target16Dir, src)
+                into new File(sourceSets.main.resources.srcDirs[0], src + "_ja")
+            }
+        }
+    }
+    processResources.dependsOn processResourceFiles
+    processPropertiesFile.dependsOn processResourceFiles
 }
 
-processResourceFiles.dependsOn translateResources
-processResources.dependsOn processResourceFiles
-processPropertiesFile.dependsOn processResourceFiles
+project(":resources-15") {
+    apply plugin: 'java'
+    jar.baseName = 'resources_ja'
+    jar.appendix = '15'
 
-processResources.excludes = ['**/*.properties']
-processResources.dependsOn processPropertiesFile
+    task processResourceFiles(dependsOn: [prepareDir, ':IDEA_trans_ja:translateResources']) << {
+        ["search", "messages"].each { src ->
+            copy {
+                from new File(target15Dir, src)
+                into new File(sourceSets.main.resources.srcDirs[0], src)
+                rename '(.*).properties', '$1_ja.properties'
+            }
+        }
+        ["fileTemplates", "inspectionDescriptions", "intentionDescriptions",
+         "postfixTemplates", "tips"].each { src ->
+            copy {
+                from new File(target15Dir, src)
+                into new File(sourceSets.main.resources.srcDirs[0], src + "_ja")
+            }
+        }
+    }
+    processResources.dependsOn processResourceFiles
+    processPropertiesFile.dependsOn processResourceFiles
+}
+
+def targetDir = new File(rootDir, "target")
+task createTargetDir << {
+    targetDir.mkdir()
+}
+task removeTargetDir(type: Delete) {
+    delete target15Dir
+    delete target16Dir
+}
+clean.dependsOn removeTargetDir
+
+task translateResources(type: Exec, dependsOn: createTargetDir) {
+    workingDir rootDir
+    commandLine 'omegat', rootDir, '--mode=console-translate'
+    inputs.dir new File(rootDir, "source")
+    outputs.dir targetDir
+}
+
+
+// don't generate jar file.
+task jar(overwrite: true) << {}
+
+clean.dependsOn ':resources-15:removeDir'
+clean.dependsOn ':resources-2016:removeDir'
 
 task wrapper(type: Wrapper) {
   gradleVersion = '2.12'
