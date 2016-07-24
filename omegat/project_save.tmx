@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Working directory:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T145209Z" creationid="miurahr" creationdate="20160724T145209Z">
+        <seg>作業ディレクトリ(&amp;W):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Yes</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T101308Z" creationid="miurahr" creationdate="20160724T101308Z">
@@ -1178,6 +1186,14 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All Tests Passed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T145101Z" creationid="miurahr" creationdate="20160724T145101Z">
+        <seg>すべてのテストに合格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All elements are null</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T134851Z" creationid="miurahr" creationdate="20160724T134839Z">
@@ -1727,6 +1743,14 @@ Escape the "!" character with a backslash ("\").</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T141501Z" creationid="miurahr" creationdate="20160724T141501Z">
         <seg>読み取り専用ファイルは変更できません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auto Scroll to Source</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T145128Z" creationid="miurahr" creationdate="20160724T145128Z">
+        <seg>ソースに自動スクロール</seg>
       </tuv>
     </tu>
     <tu>
@@ -3029,6 +3053,14 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Collapse all test suites</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T144954Z" creationid="miurahr" creationdate="20160724T144754Z">
+        <seg>すべてのテスト スイートを折り畳む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color printing</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T124918Z" creationid="miurahr" creationdate="20160724T124918Z">
@@ -4162,6 +4194,14 @@ Exception message: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Expand all test suites</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T144759Z" creationid="miurahr" creationdate="20160724T144759Z">
+        <seg>すべてのテスト スイートを展開</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Expected</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T142646Z" creationid="miurahr" creationdate="20160724T142646Z">
@@ -4681,6 +4721,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T141506Z" creationid="miurahr" creationdate="20160724T141506Z">
         <seg>エラー箇所に移動する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to line which caused exception when opening test source</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T145055Z" creationid="miurahr" creationdate="20160724T145055Z">
+        <seg>テスト ソースを開いたときに例外が発生する行に移動</seg>
       </tuv>
     </tu>
     <tu>
@@ -6791,6 +6839,14 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open Source at Exception</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T145046Z" creationid="miurahr" creationdate="20160724T145046Z">
+        <seg>例外のソースを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open generated HTML in &amp;browser</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T124744Z" creationid="miurahr" creationdate="20160724T124744Z">
@@ -6803,6 +6859,14 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T142011Z" creationid="miurahr" creationdate="20160724T142011Z">
         <seg>実行/デバッグ設定ドロップダウンを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open selected test in editor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T145143Z" creationid="miurahr" creationdate="20160724T145143Z">
+        <seg>選択したテストをエディタで開く</seg>
       </tuv>
     </tu>
     <tu>
@@ -7318,6 +7382,14 @@ Would you like to stop at the breakpoint?</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T130318Z" creationid="miurahr" creationdate="20160724T130318Z">
         <seg>プロセスは中止しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Program a&amp;rguments:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T145156Z" creationid="miurahr" creationdate="20160724T145156Z">
+        <seg>プログラム パラメータ(&amp;R):</seg>
       </tuv>
     </tu>
     <tu>
@@ -7923,6 +7995,22 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scroll console to beginning of assertion or exception stacktrace</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T145039Z" creationid="miurahr" creationdate="20160724T145039Z">
+        <seg>コンソールをアサーションまたは例外スタックトレースの最初にスクロール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scroll to Stacktrace</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T145022Z" creationid="miurahr" creationdate="20160724T145022Z">
+        <seg>スタックトレースにスクロール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Searching For Tests...</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T142541Z" creationid="miurahr" creationdate="20160724T142541Z">
@@ -7943,6 +8031,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T140211Z" creationid="miurahr" creationdate="20160724T140211Z">
         <seg>詳細を確認して、レポートを送る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Alternative JRE</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T145233Z" creationid="miurahr" creationdate="20160724T145233Z">
+        <seg>代替 JRE の選択</seg>
       </tuv>
     </tu>
     <tu>
@@ -8011,6 +8107,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select First Failed Test When Finished</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T145011Z" creationid="miurahr" creationdate="20160724T145011Z">
+        <seg>終了時に最初の不合格テストを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select Font</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T124141Z" creationid="miurahr" creationdate="20160724T124141Z">
@@ -8071,6 +8175,22 @@ Code Style</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T140605Z" creationid="miurahr" creationdate="20160724T140605Z">
         <seg>このバージョンで変越したテキストと他で対応するものを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select currently running test in tree</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T144747Z" creationid="miurahr" creationdate="20160724T144747Z">
+        <seg>現在実行しているテストをツリーから選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select directory with JRE to run with</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T145241Z" creationid="miurahr" creationdate="20160724T145241Z">
+        <seg>実行する JRE のディレクトリ選択</seg>
       </tuv>
     </tu>
     <tu>
@@ -8971,6 +9091,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Terminating ''{0}''</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T145257Z" creationid="miurahr" creationdate="20160724T145257Z">
+        <seg>'{0}'' を中止しています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ternary operation</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T121151Z" creationid="miurahr" creationdate="20160724T121151Z">
@@ -9007,6 +9135,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T142553Z" creationid="miurahr" creationdate="20160724T142553Z">
         <seg>"{0}" のテスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tests in Progress</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T145120Z" creationid="miurahr" creationdate="20160724T145113Z">
+        <seg>テスト実行中</seg>
       </tuv>
     </tu>
     <tu>
@@ -10045,6 +10181,14 @@ Any JAR files created will be named after the name of the main module.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T003920Z" creationid="miurahr" creationdate="20160724T003920Z">
         <seg>プロジェクト ファイルからの JSDK 定義を使用する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use alternative &amp;JRE:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T145224Z" creationid="miurahr" creationdate="20160724T145224Z">
+        <seg>代替 JRE の使用(&amp;J):</seg>
       </tuv>
     </tu>
     <tu>
