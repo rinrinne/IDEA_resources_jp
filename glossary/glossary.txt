@@ -1,1 +1,4 @@
 collapse	折り畳む	origin: Eijiro
+shared memory	共有メモリ
+socket	ソケット
+applet	アプレット
