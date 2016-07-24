@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Command line arguments for running remote JVM</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T151523Z" creationid="miurahr" creationdate="20160724T151407Z">
+        <seg>次のコマンド ライン引数を使用してリモート JVM を実行します(&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Copy text to clipboard</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T133601Z" creationid="miurahr" creationdate="20160724T133601Z">
@@ -238,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Next Tip</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T152051Z" creationid="miurahr" creationdate="20160724T152051Z">
+        <seg>次のヒント(&amp;N)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;No</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T101313Z" creationid="miurahr" creationdate="20160724T101313Z">
@@ -282,6 +298,14 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T145601Z" creationid="miurahr" creationdate="20160724T145601Z">
         <seg>ポリシー ファイル(&amp;P):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Previous Tip</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T152056Z" creationid="miurahr" creationdate="20160724T152056Z">
+        <seg>前のヒント(&amp;P)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1951,6 +1975,14 @@ Escape the "!" character with a backslash ("\").</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T132600Z" creationid="miurahr" creationdate="20160724T132600Z">
         <seg>新規ローカル変数に自動スクロールする(&amp;L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Average usage frequency</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T151722Z" creationid="miurahr" creationdate="20160724T151722Z">
+        <seg>平均使用頻度</seg>
       </tuv>
     </tu>
     <tu>
@@ -3693,6 +3725,14 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Debugger mode:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T151030Z" creationid="miurahr" creationdate="20160724T151030Z">
+        <seg>デバッガ モード:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Debugging is not supported for JDK {0}</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T135125Z" creationid="miurahr" creationdate="20160724T135125Z">
@@ -4532,6 +4572,14 @@ Reason: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Feature</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T151655Z" creationid="miurahr" creationdate="20160724T151655Z">
+        <seg>機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Field &amp;modification</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T134626Z" creationid="miurahr" creationdate="20160724T134626Z">
@@ -4925,6 +4973,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Group</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T151700Z" creationid="miurahr" creationdate="20160724T151700Z">
+        <seg>グループ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Group by cl&amp;asses</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T134745Z" creationid="miurahr" creationdate="20160724T134745Z">
@@ -5081,6 +5137,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T141758Z" creationid="miurahr" creationdate="20160724T141758Z">
         <seg>JDK のホーム ディレクトリが指定されていません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Host:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T151304Z" creationid="miurahr" creationdate="20160724T151304Z">
+        <seg>ホスト:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5925,6 +5989,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Keep hints window opened when the process is finished</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T152104Z" creationid="miurahr" creationdate="20160724T152104Z">
+        <seg>処理が終了してもヒント ウィンドウを表示したままにする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Keep invalid tags</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T123738Z" creationid="miurahr" creationdate="20160724T123738Z">
@@ -5977,6 +6049,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T133612Z" creationid="miurahr" creationdate="20160724T133612Z">
         <seg>言語 :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Last used</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T151714Z" creationid="miurahr" creationdate="20160724T151714Z">
+        <seg>最後の使用</seg>
       </tuv>
     </tu>
     <tu>
@@ -6643,6 +6723,14 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T101653Z" creationid="miurahr" creationdate="20160724T101653Z">
         <seg>すべていいえ(&amp;O)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>N/A</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T152116Z" creationid="miurahr" creationdate="20160724T152116Z">
+        <seg>該当なし</seg>
       </tuv>
     </tu>
     <tu>
@@ -7706,6 +7794,30 @@ Would you like to stop at the breakpoint?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Productivity Features Guide</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T152007Z" creationid="miurahr" creationdate="20160724T151653Z">
+        <seg>製品機能ガイド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Productivity Guide</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T151957Z" creationid="miurahr" creationdate="20160724T151648Z">
+        <seg>製品ガイド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Productivity hints</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T152108Z" creationid="miurahr" creationdate="20160724T152108Z">
+        <seg>製品ヒント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Program a&amp;rguments:</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T145156Z" creationid="miurahr" creationdate="20160724T145156Z">
@@ -8227,6 +8339,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Run selected configuration</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T151415Z" creationid="miurahr" creationdate="20160724T151415Z">
+        <seg>選択した設定で実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Run the selected build file or selected target(s) with Ant</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T232629Z" creationid="miurahr" creationdate="20160723T232629Z">
@@ -8715,6 +8835,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shared memory</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T151110Z" creationid="miurahr" creationdate="20160724T151110Z">
+        <seg>共有メモリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shared memory address unspecified</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T131007Z" creationid="miurahr" creationdate="20160724T131007Z">
@@ -8839,6 +8967,22 @@ Code Style</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T122224Z" creationid="miurahr" creationdate="20160724T122224Z">
         <seg>メソッドセパレータを表示する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show productivity hints during startup or other lengthy processes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T152043Z" creationid="miurahr" creationdate="20160724T151953Z">
+        <seg>製品ヒントを起動時または他の長時間処理中に表示する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show productivity hints while compiling</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T152029Z" creationid="miurahr" creationdate="20160724T151737Z">
+        <seg>コンパイル中に製品ヒントを表示する</seg>
       </tuv>
     </tu>
     <tu>
@@ -9007,6 +9151,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T122154Z" creationid="miurahr" creationdate="20160724T122154Z">
         <seg>スクロールを滑らかにする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Socket</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T151035Z" creationid="miurahr" creationdate="20160724T151035Z">
+        <seg>ソケット</seg>
       </tuv>
     </tu>
     <tu>
@@ -11314,6 +11466,14 @@ Any JAR files created will be named after the name of the main module.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>idle time: {0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T152311Z" creationid="miurahr" creationdate="20160724T152257Z">
+        <seg>アイドル時間 : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>implicit ant properties</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T170510Z" creationid="miurahr" creationdate="20160723T170510Z">
@@ -11848,6 +12008,14 @@ Please enter pattern string in a new format.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T142638Z" creationid="miurahr" creationdate="20160724T142638Z">
         <seg>{0} テスト ケース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} uptime: {1}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T152251Z" creationid="miurahr" creationdate="20160724T152251Z">
+        <seg>{0} 稼動時間 : {1}</seg>
       </tuv>
     </tu>
     <tu>
