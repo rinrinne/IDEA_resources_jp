@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Add</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003131Z" creationid="miurahr" creationdate="20160724T003131Z">
+        <seg>追加(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Background</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T171123Z" creationid="miurahr" creationdate="20160723T171123Z">
@@ -14,10 +22,102 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Classpath:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003137Z" creationid="miurahr" creationdate="20160724T003137Z">
+        <seg>クラスパス(&amp;C):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Close message view if no error occurred</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003240Z" creationid="miurahr" creationdate="20160724T003240Z">
+        <seg>エラーがない場合はメッセージ ビューを閉じる(&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Home:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003144Z" creationid="miurahr" creationdate="20160724T003144Z">
+        <seg>ホーム(&amp;H):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Name:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T232851Z" creationid="miurahr" creationdate="20160723T232851Z">
+        <seg>名前(&amp;N):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Narrow down the list on typing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003642Z" creationid="miurahr" creationdate="20160724T003642Z">
+        <seg>入力時にリストを絞り込む(&amp;N)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Remove</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003123Z" creationid="miurahr" creationdate="20160724T003123Z">
+        <seg>削除(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Set Default...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003534Z" creationid="miurahr" creationdate="20160724T003534Z">
+        <seg>デフォルト設定(&amp;S)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>''{0}'' with errors</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T004015Z" creationid="miurahr" creationdate="20160724T004015Z">
+        <seg>''{0}'' にはエラーがあります</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>''{0}'' with no errors</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T004004Z" creationid="miurahr" creationdate="20160724T004004Z">
+        <seg>''{0}'' にはエラーがありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(actual attribute value''{0}'')</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T170518Z" creationid="miurahr" creationdate="20160723T170518Z">
         <seg>(実際の属性値 ''{0}'')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- negate the pattern (allowed only at the start of a pattern)
+Use ; (semicolon) to separate resource patterns;
+Escape the "!" character with a backslash ("\").</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T004511Z" creationid="miurahr" creationdate="20160724T004511Z">
+        <seg> - パターンの否定 (パターンの最初でのみ可)\nセミコロン (";") を使用してリソース パターンを分割。\nバックスラッシュ ("\") で "!" 文字をエスケープ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- one character
+* - zero or more characters
+!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T004430Z" creationid="miurahr" creationdate="20160724T004430Z">
+        <seg>- 1 文字\n* - ゼロまたはそれ以上の文字\n\!</seg>
       </tuv>
     </tu>
     <tu>
@@ -38,6 +138,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;The list of build files is empty&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T232825Z" creationid="miurahr" creationdate="20160723T232825Z">
+        <seg>&lt;ビルド ファイルのリストはありません&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;default target&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T170722Z" creationid="miurahr" creationdate="20160723T170722Z">
@@ -50,6 +158,62 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T143759Z" creationid="miurahr" creationdate="20160723T143759Z">
         <seg>&lt;f2&gt;これは、国際化された Java コード式 (例えば、&lt;/f2&gt;&lt;c3&gt;String s = MessageFormat.format(myResourceBundle.getString("hello {0}"), name);&lt;/c3&gt;&lt;f4&gt;) で&lt;f0&gt; 置換文字列結合 (例えば、&lt;/f0&gt;&lt;c1&gt;String s = "Hello " + name;&lt;/c1&gt;) に使用されるビルトイン テンプレートです。&lt;br5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ANT ''{0}'' is not configured</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T002952Z" creationid="miurahr" creationdate="20160724T002952Z">
+        <seg>ANT ''{0}'' は未設定です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T232549Z" creationid="miurahr" creationdate="20160723T232549Z">
+        <seg>追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add A&amp;ll in Directory</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003117Z" creationid="miurahr" creationdate="20160724T003117Z">
+        <seg>ディレクトリにすべて追加(&amp;L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add an existing Ant build file to the list</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T232556Z" creationid="miurahr" creationdate="20160723T232556Z">
+        <seg>リストに既存の Ant ビルド ファイルを追加します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add property definition ''{0}''</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003637Z" creationid="miurahr" creationdate="20160724T003637Z">
+        <seg>プロパティ定義 ''{0}'' の追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Additional Classpath</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003347Z" creationid="miurahr" creationdate="20160724T003347Z">
+        <seg>追加の クラスパス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After Compilation</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003013Z" creationid="miurahr" creationdate="20160724T003013Z">
+        <seg>コンパイル後</seg>
       </tuv>
     </tu>
     <tu>
@@ -142,6 +306,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ant Setup</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003559Z" creationid="miurahr" creationdate="20160724T003559Z">
+        <seg>Ant セットアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ant build aborted in {0} at {1}</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T170949Z" creationid="miurahr" creationdate="20160723T170949Z">
@@ -158,6 +330,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ant build files successfully generated:
+{0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T004044Z" creationid="miurahr" creationdate="20160724T004027Z">
+        <seg>Ant ビルド ファイルを正常に生成しました:\n{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ant build started</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T171246Z" creationid="miurahr" creationdate="20160723T171246Z">
@@ -166,10 +347,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ant command &amp;line:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003357Z" creationid="miurahr" creationdate="20160724T003357Z">
+        <seg>Ant コマンド ライン(&amp;L):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ant process from the same build file is active.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T170801Z" creationid="miurahr" creationdate="20160723T170754Z">
         <seg>同じビルド ファイルからの Ant プロセスはアクティブです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ant project name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003606Z" creationid="miurahr" creationdate="20160724T003606Z">
+        <seg>Ant プロジェクト名</seg>
       </tuv>
     </tu>
     <tu>
@@ -206,10 +403,98 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apache Ant version {0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T002926Z" creationid="miurahr" creationdate="20160724T002926Z">
+        <seg>Apache Ant バージョン {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Assign Shortcut...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T232815Z" creationid="miurahr" creationdate="20160723T232815Z">
+        <seg>ショートカットの割り当て...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Backup previously generated files</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003930Z" creationid="miurahr" creationdate="20160724T003930Z">
+        <seg>前回生成したファイルをバックアップする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Before Compilation</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003016Z" creationid="miurahr" creationdate="20160724T003016Z">
+        <seg>コンパイル前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Before Run/Debug</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003023Z" creationid="miurahr" creationdate="20160724T003023Z">
+        <seg>実行/デバッグ前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Before Run/Debug...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T232730Z" creationid="miurahr" creationdate="20160723T232730Z">
+        <seg>実行/デバッグの前に...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Build File Properties</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003309Z" creationid="miurahr" creationdate="20160724T003309Z">
+        <seg>ビルド ファイル プロパティ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Build initialization</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T004657Z" creationid="miurahr" creationdate="20160724T004657Z">
+        <seg>ビルドの初期化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Build sequence {0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003040Z" creationid="miurahr" creationdate="20160724T003040Z">
+        <seg>ビルド シーケンス {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Build:</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T171317Z" creationid="miurahr" creationdate="20160723T171317Z">
         <seg>ビルド:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bundled Ant</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003034Z" creationid="miurahr" creationdate="20160724T003034Z">
+        <seg>バンドルされた Ant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can''t read from {0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T002934Z" creationid="miurahr" creationdate="20160724T002934Z">
+        <seg>{0} から読み込めません</seg>
       </tuv>
     </tu>
     <tu>
@@ -247,6 +532,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot Add Files</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T232515Z" creationid="miurahr" creationdate="20160723T232515Z">
+        <seg>ファイルを追加できません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot Run ANT</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T171207Z" creationid="miurahr" creationdate="20160723T171207Z">
@@ -264,10 +557,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot add file {0}: {1}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T233021Z" creationid="miurahr" creationdate="20160723T233021Z">
+        <seg>ファイル {0} を追加できません: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot start {0}</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T170937Z" creationid="miurahr" creationdate="20160723T170937Z">
         <seg>{0} を開始できません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class&amp;path:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003107Z" creationid="miurahr" creationdate="20160724T003107Z">
+        <seg>クラスパス(&amp;P):</seg>
       </tuv>
     </tu>
     <tu>
@@ -280,10 +589,90 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Collapse all build file nodes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T232455Z" creationid="miurahr" creationdate="20160723T232455Z">
+        <seg>すべてのビルド ファイル ノードを収縮</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compilation aborted</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T004807Z" creationid="miurahr" creationdate="20160724T004807Z">
+        <seg>コンパイルは中断しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compile {0,choice, 1#module|2#modules} {1}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T004633Z" creationid="miurahr" creationdate="20160724T004633Z">
+        <seg>コンパイル {0,choice, 1\#module|2\#modules} {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compile {0,choice, 1#module|2#modules} {1}; production classes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T004643Z" creationid="miurahr" creationdate="20160724T004643Z">
+        <seg>コンパイル {0,choice, 1\#module|2\#modules} {1}; 製品クラス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compiler options</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T004234Z" creationid="miurahr" creationdate="20160724T004234Z">
+        <seg>コンパイラ オプション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compiling {0}...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003909Z" creationid="miurahr" creationdate="20160724T003903Z">
+        <seg>{0} をコンパイル中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Configure Ant</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003154Z" creationid="miurahr" creationdate="20160724T003154Z">
+        <seg>Ant の設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm Remove</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T232536Z" creationid="miurahr" creationdate="20160723T232536Z">
+        <seg>削除の確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Meta Target</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T232737Z" creationid="miurahr" creationdate="20160723T232737Z">
+        <seg>メタ ターゲットの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create Target</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T170532Z" creationid="miurahr" creationdate="20160723T170532Z">
         <seg>ターゲットの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create property</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003628Z" creationid="miurahr" creationdate="20160724T003628Z">
+        <seg>プロパティの作成</seg>
       </tuv>
     </tu>
     <tu>
@@ -296,10 +685,142 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cycle</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T004209Z" creationid="miurahr" creationdate="20160724T004209Z">
+        <seg>循環</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cyclic Module Dependencies</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T004055Z" creationid="miurahr" creationdate="20160724T004055Z">
+        <seg>循環モジュール依存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete selected Ant configuration?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003651Z" creationid="miurahr" creationdate="20160724T003651Z">
+        <seg>選択した Ant 設定を削除しますか ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete selected Ant configurations?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003716Z" creationid="miurahr" creationdate="20160724T003716Z">
+        <seg>選択した Ant 設定を削除しますか ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003328Z" creationid="miurahr" creationdate="20160724T003328Z">
+        <seg>説明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Detects assignments of a variable to itself, like: &lt;br0&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T162945Z" creationid="miurahr" creationdate="20160723T162945Z">
         <seg>次のような、自身への変数の代入を検出します :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you want to remove the reference to
+{0}?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T232530Z" creationid="miurahr" creationdate="20160723T232530Z">
+        <seg>{0}\nへの参照を削除しますか ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ERROR</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003740Z" creationid="miurahr" creationdate="20160724T003740Z">
+        <seg>エラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each resource pattern may contain the following wildcards:
+?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T004413Z" creationid="miurahr" creationdate="20160724T004413Z">
+        <seg>各リソース パターンには次のワイルドカードを含めることができます:\n?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable UI forms compilation (requires "javac2" ant task from IDEA distribution)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003950Z" creationid="miurahr" creationdate="20160724T003950Z">
+        <seg>UI フォーム コンパイルを許可 (IDEA の配布による "javac2" ant タスクが必要)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error copying {0}
+to {1}:
+{2}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003821Z" creationid="miurahr" creationdate="20160724T003821Z">
+        <seg>{0} の\n{1} へのコピーエラー:\n{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error: {0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T004732Z" creationid="miurahr" creationdate="20160724T004732Z">
+        <seg>エラー: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Execute Target Before Run/Debug</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T232909Z" creationid="miurahr" creationdate="20160723T232909Z">
+        <seg>実行/デバッグの前にターゲットを実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Execute on</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T232542Z" creationid="miurahr" creationdate="20160723T232542Z">
+        <seg>実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Executing task: {0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T232426Z" creationid="miurahr" creationdate="20160723T232426Z">
+        <seg>タスクの実行 : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Execution</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003337Z" creationid="miurahr" creationdate="20160724T003337Z">
+        <seg>実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expand all build file nodes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T232449Z" creationid="miurahr" creationdate="20160723T232449Z">
+        <seg>すべてのビルド ファイル ノードを展開</seg>
       </tuv>
     </tu>
     <tu>
@@ -316,6 +837,46 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T144507Z" creationid="miurahr" creationdate="20160723T144507Z">
         <seg>型 &lt;c0&gt;java.util.ResourceBundle&lt;/c0&gt; (このコンテキストで利用可能なインスタンス) の式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to backup file {0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T004050Z" creationid="miurahr" creationdate="20160724T004050Z">
+        <seg>ファイル {0} のバックアップに失敗しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to generate ant build script: {0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T004040Z" creationid="miurahr" creationdate="20160724T004040Z">
+        <seg>Ant ビルド スクリプトの生成に失敗しました: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File copying compiler</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003842Z" creationid="miurahr" creationdate="20160724T003842Z">
+        <seg>コンパイラにファイルをコピー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filter targets</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T232656Z" creationid="miurahr" creationdate="20160723T232656Z">
+        <seg>ターゲットをフィルタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filters</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003332Z" creationid="miurahr" creationdate="20160724T003332Z">
+        <seg>フィルタ</seg>
       </tuv>
     </tu>
     <tu>
@@ -344,10 +905,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Generate multiple-file ant build (requires ant 1.6 or later to execute)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003940Z" creationid="miurahr" creationdate="20160724T003940Z">
+        <seg>マルチ ファイル ant ビルドの生成 (ant 1.6 またはそれ以降が必要)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generate single-file ant build</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003934Z" creationid="miurahr" creationdate="20160724T003934Z">
+        <seg>シングル ファイルとビルドの生成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Global Libraries</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T004244Z" creationid="miurahr" creationdate="20160724T004244Z">
+        <seg>グローバル ライブラリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hardcoded string literals are probably errors in an internationalized environment.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T160631Z" creationid="miurahr" creationdate="20160723T160631Z">
         <seg>ハードコードされている文字列リテラルは、国際化環境でエラーになる場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>INFORMATION</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003750Z" creationid="miurahr" creationdate="20160724T003750Z">
+        <seg>情報</seg>
       </tuv>
     </tu>
     <tu>
@@ -360,10 +953,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In order to generate ant build script, please select the "main" (representative) module for each dependency cycle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T004114Z" creationid="miurahr" creationdate="20160724T004114Z">
+        <seg>ant ビルド スクリプトを生成するには、各依存関係の "main" (代表) モジュールを選択してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this template, you can specify a code fragment to be included into file templates (&lt;i0&gt;Templates&lt;/i0&gt; tab) with the help of the &lt;b1&gt;#parse&lt;/b1&gt; directive.&lt;br2&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T152746Z" creationid="miurahr" creationdate="20160723T152746Z">
         <seg>このテンプレートでは、&lt;b1&gt;#parse&lt;/b1&gt;ディレクティブを使用してファイル テンプレート (&lt;i0&gt;テンプレート&lt;/i0&gt;&gt; タブ) にインクルードするコード フラグメントを指定できます。&lt;br2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Increase the maximum heap size in Project Properties|Compiler settings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003848Z" creationid="miurahr" creationdate="20160724T003848Z">
+        <seg>最大ヒープ サイズは [プロジェクト設定] - [コンパイラ] で増加します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insert Macro</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003209Z" creationid="miurahr" creationdate="20160724T003209Z">
+        <seg>マクロの挿入</seg>
       </tuv>
     </tu>
     <tu>
@@ -376,10 +993,138 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>JDK definitions</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T004248Z" creationid="miurahr" creationdate="20160724T004248Z">
+        <seg>JDK 定義</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>JUnit assert calls, like in &lt;b0&gt;&lt;f1&gt;assertEquals(str, &lt;f2&gt;"message"&lt;/f2&gt;)&lt;/f1&gt;&lt;/b0&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T161043Z" creationid="miurahr" creationdate="20160723T161043Z">
         <seg>&lt;b0&gt;&lt;f1&gt;assertEquals(str, &lt;f2&gt;"メッセージ"&lt;/f2&gt;)のようなJUnit assert 呼び出し&lt;/f1&gt;&lt;/b0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loading classes...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003858Z" creationid="miurahr" creationdate="20160724T003858Z">
+        <seg>クラスを読み込んでいます...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Macrodef element</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003621Z" creationid="miurahr" creationdate="20160724T003621Z">
+        <seg>Macrodef 要素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Main Module</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T004216Z" creationid="miurahr" creationdate="20160724T004216Z">
+        <seg>メイン モジュール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make Selected _Modules</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T004222Z" creationid="miurahr" creationdate="20160724T004222Z">
+        <seg>選択したモジュールのメイク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make build in &amp;background</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003302Z" creationid="miurahr" creationdate="20160724T003302Z">
+        <seg>バックグラウンドでビルドをメイクする(&amp;B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Malformed Resource Patterns</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T004556Z" creationid="miurahr" creationdate="20160724T004556Z">
+        <seg>不正な形式のリソース パターン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maximum &amp;heap size (Mb):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003254Z" creationid="miurahr" creationdate="20160724T003249Z">
+        <seg>最大ヒープ サイズ (MB)(&amp;H):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Module ''{0}''</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003955Z" creationid="miurahr" creationdate="20160724T003955Z">
+        <seg>モジュール ''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Module {0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T004720Z" creationid="miurahr" creationdate="20160724T004720Z">
+        <seg>モジュール {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modules</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T004653Z" creationid="miurahr" creationdate="20160724T004653Z">
+        <seg>モジュール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move &amp;Down</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T232923Z" creationid="miurahr" creationdate="20160723T232923Z">
+        <seg>下へ移動(&amp;D)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move &amp;Up</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T232921Z" creationid="miurahr" creationdate="20160723T232921Z">
+        <seg>上へ移動(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003319Z" creationid="miurahr" creationdate="20160724T003319Z">
+        <seg>名前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next Error/Warning</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T232433Z" creationid="miurahr" creationdate="20160723T232433Z">
+        <seg>次のエラー/警告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No ANT configured</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T002940Z" creationid="miurahr" creationdate="20160724T002940Z">
+        <seg>ANT が未設定です</seg>
       </tuv>
     </tu>
     <tu>
@@ -400,10 +1145,66 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Out of memory.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003836Z" creationid="miurahr" creationdate="20160724T003836Z">
+        <seg>メモリ不足です。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Overwrite previously generated files</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003925Z" creationid="miurahr" creationdate="20160724T003925Z">
+        <seg>前回生成したファイルを上書きする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Parsing {0}...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003915Z" creationid="miurahr" creationdate="20160724T003915Z">
+        <seg>{0} の解析中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Path {0} does not exist</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T233029Z" creationid="miurahr" creationdate="20160723T233029Z">
+        <seg>パス {0} は存在しません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Paths to be included in compilation bootclasspath</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T004615Z" creationid="miurahr" creationdate="20160724T004615Z">
+        <seg>コンパイル ブートクラスパスに含まれるパス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pattern Conversion</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T004542Z" creationid="miurahr" creationdate="20160724T004542Z">
+        <seg>パターン変換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pause Output</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T170655Z" creationid="miurahr" creationdate="20160723T170655Z">
         <seg>出力の中断</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Perform any build initialization in this target</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T004707Z" creationid="miurahr" creationdate="20160724T004707Z">
+        <seg>このターゲットでビルドの初期化を実行</seg>
       </tuv>
     </tu>
     <tu>
@@ -416,10 +1217,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Press ''{2}'' to accept entered patterns, ''{3}'' to load default patterns in new format.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T004533Z" creationid="miurahr" creationdate="20160724T004533Z">
+        <seg>''{2}'' を押して入力したパターンを適用します。''{3}'' で新しいフォーマットにデフォルト パターンを読み込みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Previous Error/Warning</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T232441Z" creationid="miurahr" creationdate="20160723T232441Z">
+        <seg>前のエラー/警告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project JDK (not specified)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003228Z" creationid="miurahr" creationdate="20160724T003228Z">
+        <seg>プロジェクト JDK (指定なし)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project JDK ({0})</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003219Z" creationid="miurahr" creationdate="20160724T003219Z">
+        <seg>プロジェクト JDK ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Project JDK not specified</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T171019Z" creationid="miurahr" creationdate="20160723T171019Z">
         <seg>プロジェクト JDK が指定されていません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project Libraries</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T004239Z" creationid="miurahr" creationdate="20160724T004239Z">
+        <seg>プロジェクト ライブラリ</seg>
       </tuv>
     </tu>
     <tu>
@@ -458,8 +1299,48 @@
       <tuv lang="EN-US">
         <seg>Remove</seg>
       </tuv>
-      <tuv lang="JA" changeid="miurahr" changedate="20160723T170701Z" creationid="miurahr" creationdate="20160723T170701Z">
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T232603Z" creationid="miurahr" creationdate="20160723T170701Z">
         <seg>削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove Build File</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T232800Z" creationid="miurahr" creationdate="20160723T232800Z">
+        <seg>ビルド ファイルの削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove Meta Target</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T232753Z" creationid="miurahr" creationdate="20160723T232753Z">
+        <seg>メタ ターゲットの削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove Meta Targets</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T232806Z" creationid="miurahr" creationdate="20160723T232806Z">
+        <seg>メタ ターゲットの削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove selected meta target(s)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T232747Z" creationid="miurahr" creationdate="20160723T232747Z">
+        <seg>選択したメタ ターゲットを削除します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove the selected build file from the list</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T232615Z" creationid="miurahr" creationdate="20160723T232615Z">
+        <seg>リストから選択したビルド ファイルを削除します</seg>
       </tuv>
     </tu>
     <tu>
@@ -472,6 +1353,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Run</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T232620Z" creationid="miurahr" creationdate="20160723T232620Z">
+        <seg>実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Run ANT</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T171201Z" creationid="miurahr" creationdate="20160723T171201Z">
@@ -480,10 +1369,98 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Run Build</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T232640Z" creationid="miurahr" creationdate="20160723T232640Z">
+        <seg>ビルドの実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run Target</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T232644Z" creationid="miurahr" creationdate="20160723T232644Z">
+        <seg>ターゲットの実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run Targets</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T232646Z" creationid="miurahr" creationdate="20160723T232646Z">
+        <seg>ターゲットの実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run the selected build file or selected target(s) with Ant</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T232629Z" creationid="miurahr" creationdate="20160723T232629Z">
+        <seg>選択したビルド ファイルまたはターゲットを Ant で実行します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run under &amp;JDK:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003515Z" creationid="miurahr" creationdate="20160724T003515Z">
+        <seg>JDK で実行(&amp;J):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run with Ant:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003526Z" creationid="miurahr" creationdate="20160724T003526Z">
+        <seg>Ant で実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Running Ant: ''{0}''</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T171153Z" creationid="miurahr" creationdate="20160723T171153Z">
         <seg>Antの実行: ''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>STATISTICS</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003754Z" creationid="miurahr" creationdate="20160724T003754Z">
+        <seg>統計情報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save selected targets as a meta-target</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T232739Z" creationid="miurahr" creationdate="20160723T232739Z">
+        <seg>選択したターゲットをメタ ターゲットとして保存します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Ant build file</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T232502Z" creationid="miurahr" creationdate="20160723T232502Z">
+        <seg>Ant ビルド ファイルの選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select one or more build.xml files to be added to the list</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T232509Z" creationid="miurahr" creationdate="20160723T232509Z">
+        <seg>リストに追加する build.xml を 1 つ以上選択してください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selected Files</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003959Z" creationid="miurahr" creationdate="20160724T003959Z">
+        <seg>選択したファイル</seg>
       </tuv>
     </tu>
     <tu>
@@ -512,6 +1489,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some modules have cyclic dependencies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T004101Z" creationid="miurahr" creationdate="20160724T004101Z">
+        <seg>いくつかのモジュールは循環依存しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Starting Ant Build</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T170811Z" creationid="miurahr" creationdate="20160723T170811Z">
@@ -536,6 +1521,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Such sequence of targets already exists</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T232848Z" creationid="miurahr" creationdate="20160723T232848Z">
+        <seg>ターゲットのシーケンスは既に存在します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Such usages make code excessive and thus less readable.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T162604Z" creationid="miurahr" creationdate="20160723T162604Z">
@@ -556,6 +1549,14 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T171350Z" creationid="miurahr" creationdate="20160723T171350Z">
         <seg>ターゲット: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Targets:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T232907Z" creationid="miurahr" creationdate="20160723T232907Z">
+        <seg>ターゲット:</seg>
       </tuv>
     </tu>
     <tu>
@@ -588,6 +1589,32 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T160650Z" creationid="miurahr" creationdate="20160723T160650Z">
         <seg>この検査で以下の文字列を報告するには、該当するチェックボックスをオンにします :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following resource patterns are malformed:{0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T004550Z" creationid="miurahr" creationdate="20160724T004550Z">
+        <seg>次のリソース パターンは不正な形式です:{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The format of resource patterns has changed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T004321Z" creationid="miurahr" creationdate="20160724T004321Z">
+        <seg>リソース パターンのフォーマットが変更されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The source code for all modules in the cycle will be compiled into the main module's output folders;
+All modules in the cycle will use the JDK assigned to the main module;
+Any JAR files created will be named after the name of the main module.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T004202Z" creationid="miurahr" creationdate="20160724T004202Z">
+        <seg>循環内のすべてのモジュールのソース コードはメイン モジュールの出力フォルダにコンパイルされます。循環内のすべてのモジュールは、メイン モジュールに指定された JDK を使用します。作成された jar アーカイブは、メイン モジュールの名前より命名されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1010,6 +2037,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Uncomment the following property if no tests compilation is needed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T004229Z" creationid="miurahr" creationdate="20160724T004229Z">
+        <seg>テスト コンパイラが不要な場合は次のプロパティを非コメント化する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unknown version</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T232942Z" creationid="miurahr" creationdate="20160723T232942Z">
+        <seg>不明なバージョン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use JDK definitions from project files</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003920Z" creationid="miurahr" creationdate="20160724T003920Z">
+        <seg>プロジェクト ファイルからの JSDK 定義を使用する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use c&amp;ustom Ant:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003544Z" creationid="miurahr" creationdate="20160724T003544Z">
+        <seg>カスタム Ant を使用する(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use check boxes in the inspection options below, to define rules for the modifier change suggestions.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T164546Z" creationid="miurahr" creationdate="20160723T164546Z">
@@ -1034,6 +2093,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use project &amp;default Ant:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003551Z" creationid="miurahr" creationdate="20160724T003551Z">
+        <seg>プロジェクトのデフォルトの Ant を使用する(&amp;D)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use tabs and corresponding inspection options below, to define visibility scope where javadoc is required, as well as the required javadoc tags for classes, methods, fields and inner classes.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T161912Z" creationid="miurahr" creationdate="20160723T161912Z">
@@ -1050,10 +2117,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>User task</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003612Z" creationid="miurahr" creationdate="20160724T003612Z">
+        <seg>ユーザー タスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Value</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003322Z" creationid="miurahr" creationdate="20160724T003322Z">
+        <seg>値</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Variables used in the string concatenation, usually passed as arguments to the internationalized expression.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T144209Z" creationid="miurahr" creationdate="20160723T144209Z">
         <seg>文字列の結合に使用する変数であり、通常国際化された表現に対する引数として渡される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WARNING</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003749Z" creationid="miurahr" creationdate="20160724T003749Z">
+        <seg>警告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wrong name format: {0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T003049Z" creationid="miurahr" creationdate="20160724T003049Z">
+        <seg>不正な名前のフォーマット : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You might also need to modify template project settings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T004521Z" creationid="miurahr" creationdate="20160724T004521Z">
+        <seg>また、テンプレート プロジェクト設定を変更する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1066,10 +2173,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ant.jar not found in directory ''{0}''</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T002910Z" creationid="miurahr" creationdate="20160724T002910Z">
+        <seg>ant.jar がディレクトリ ''{0}'' に見つかりません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>assert statements, like in &lt;b0&gt;&lt;f1&gt;assert str.equals(&lt;f2&gt;"message"&lt;/f2&gt;)&lt;/f1&gt;&lt;/b0&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T160938Z" creationid="miurahr" creationdate="20160723T160805Z">
         <seg>&lt;b0&gt;&lt;f1&gt;assert str.equals(&lt;f2&gt;"メッセージ"&lt;/f2&gt;)のようなassert文&lt;/f1&gt;&lt;/b0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>build all</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T004715Z" creationid="miurahr" creationdate="20160724T004715Z">
+        <seg>すべてビルド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>cleanup all</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T004627Z" creationid="miurahr" creationdate="20160724T004627Z">
+        <seg>すべてクリーンアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>cleanup module</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T004626Z" creationid="miurahr" creationdate="20160724T004626Z">
+        <seg>モジュールのクリーンアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>compile {0,choice, 1#module|2#modules} {1}; test classes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T004648Z" creationid="miurahr" creationdate="20160724T004648Z">
+        <seg>コンパイル {0,choice, 1\#module|2\#modules} {1}; テスト クラス</seg>
       </tuv>
     </tu>
     <tu>
@@ -1150,6 +2297,22 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T170510Z" creationid="miurahr" creationdate="20160723T170510Z">
         <seg>暗黙的な ant プロパティ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>lib directory not found in {0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160723T233105Z" creationid="miurahr" creationdate="20160723T233105Z">
+        <seg>lib ディレクトリが {0} に見つかりません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>line ({0})</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T004603Z" creationid="miurahr" creationdate="20160724T004603Z">
+        <seg>行 ({0})</seg>
       </tuv>
     </tu>
     <tu>
@@ -1274,10 +2437,36 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>undefined</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T004607Z" creationid="miurahr" creationdate="20160724T004607Z">
+        <seg>未定義</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>value returned by the method by default</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T144804Z" creationid="miurahr" creationdate="20160723T144804Z">
         <seg>メソッドのデフォルトの戻り値</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} failed to convert existing regular expression patterns:
+{1}
+Please enter pattern string in a new format.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T004348Z" creationid="miurahr" creationdate="20160724T004348Z">
+        <seg>{0} は既存の正規表現パターンの変換に失敗しました:\n{1}\n新しいフォーマットのパターン文字列を入力してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} is directory</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160724T002919Z" creationid="miurahr" creationdate="20160724T002919Z">
+        <seg>{0} はディレクトリです</seg>
       </tuv>
     </tu>
     <tu>
