@@ -5,3 +5,4 @@ applet	アプレット
 refactoring	リファクタリング
 interface	インターフェイス
 implement	実装
+subtype	サブタイプ
