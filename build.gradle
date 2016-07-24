@@ -14,6 +14,11 @@ subprojects {
         delete new File(projectDir, "src")
     }
 
+    task copyDistFiles(type: Copy) {
+        from new File(project.buildDir, "libs")
+        into new File(rootDir, "build/distribution")
+    }
+
     task processPropertiesFile << {
         sourceSets.each { s ->
             s.resources.srcDirs.each { d ->
@@ -30,6 +35,8 @@ subprojects {
     }
     processResources.excludes = ['**/*.properties']
     processResources.dependsOn processPropertiesFile
+    build.dependsOn copyDistFiles
+    copyDistFiles.mustRunAfter jar
 }
 
 project(":resources-2016") {
@@ -85,16 +92,17 @@ project(":resources-15") {
     processResources.dependsOn processResourceFiles
     processPropertiesFile.dependsOn processResourceFiles
     clean.dependsOn removeDir
-    clean.dependsOn '::removeTargetDir'
+    clean.dependsOn '::cleanRootDirs'
 }
 
 def targetDir = new File(rootDir, "target")
 task createTargetDir << {
     targetDir.mkdir()
 }
-task removeTargetDir(type: Delete) {
+task cleanRootDirs(type: Delete) {
     delete target15Dir
     delete target16Dir
+    delete new File(rootDir, "build")
 }
 
 task translateResources(type: Exec, dependsOn: createTargetDir) {
@@ -103,8 +111,6 @@ task translateResources(type: Exec, dependsOn: createTargetDir) {
     inputs.dir new File(rootDir, "source")
     outputs.dir targetDir
 }
-
-task jar(overwrite: true) << {}
 
 task wrapper(type: Wrapper) {
   gradleVersion = '2.12'
