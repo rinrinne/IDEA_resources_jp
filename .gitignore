@@ -4,4 +4,5 @@ build/
 target/
 tmp/
 omegat/project_stats.txt
-resources-ja/
+omegat/*.bak
+/IDEA*tmx
