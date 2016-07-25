@@ -1,8 +1,37 @@
-IDEA resources ja
+IntelliJ IDEA translation resources for Japanese.
 =================
 
 This project is a community translation project to build a Japanese Resources
 for JetBrains IntelliJ IDEA, Integrated Development Environment tool for Java.
+
+JetBrains decided they don't provide Japanese translation resources for their
+product after it had released Japanese editions in 2006.
+
+How to generate resource file for IntelliJ IDEA
+--------------------------------------
+
+Please call Gradle build system `gradlew` command from console.
+
+```
+$ ./gradlew build
+```
+
+If you runs it on MS Windows platform, please call batch file.
+
+```
+$ .\gradlew build
+```
+
+Generator depends on a couple of libraries and applications, you need to connect
+your platform to internet. If you are behind proxy server or firewall, please
+refer Gradle documentation how to configure Gradle for network connections.
+It will download some jar files from https://jcenter.bintray.com repository.
+Then it convert source English resource files with translation result into
+Japanese resources.
+
+You will get the resource jar file as `build/distribution/resources_ja-<version>.jar`
+Currently we provide two resource files; for version 2016 and version 15.0.6.
+
 
 How to translate
 ----------------
@@ -14,21 +43,8 @@ It is a kind of a translation memory.
 The repository is designed to work with OmegaT team features. This means
 translators who work on the repository are collaborative team.
 
-If you want to use other tools you can generate TMX file by OmegaT and export 
+If you want to use other tools you can generate TMX file by OmegaT and export
 it at project root as `IDEA_resources_ja-level1.tmx`.
-
-How to generate resource file for IntelliJ IDEA
---------------------------------------
-
-Please call gradle command from console.
-You should have an omegat installed.
-
-```
-$ ./gradlew build
-```
-
-You will get resource jar file as `build/distribution/resources_ja-<version>.jar`
-Currently we provide two resource files; for version 2016 and version 15.0.6.
 
 
 Contributions
