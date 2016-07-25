@@ -19,7 +19,7 @@ $ ./gradlew build
 If you runs it on MS Windows platform, please call batch file.
 
 ```
-$ .\gradlew build
+$ .\gradlew.bat build
 ```
 
 Generator depends on a couple of libraries and applications, you need to connect
