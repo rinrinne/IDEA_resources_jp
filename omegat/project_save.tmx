@@ -382,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Mark All</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160725T155301Z" creationid="miurahr" creationdate="20160725T155301Z">
+        <seg>すべてマーク(&amp;M)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Module name:</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160725T150810Z" creationid="miurahr" creationdate="20160725T150810Z">
@@ -474,6 +482,14 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T101411Z" creationid="miurahr" creationdate="20160724T101411Z">
         <seg>パスワード (&amp;P):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Pattern:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160725T160038Z" creationid="miurahr" creationdate="20160725T160038Z">
+        <seg>パターン(&amp;P):</seg>
       </tuv>
     </tu>
     <tu>
@@ -626,6 +642,14 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T145425Z" creationid="miurahr" creationdate="20160724T145425Z">
         <seg>URL(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Unmark All</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160725T155508Z" creationid="miurahr" creationdate="20160725T155508Z">
+        <seg>すべてのマークを解除(&amp;U)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4349,6 +4373,14 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Configure...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160725T160016Z" creationid="miurahr" creationdate="20160725T160016Z">
+        <seg>設定...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Confirm Exit</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T124611Z" creationid="miurahr" creationdate="20160724T124611Z">
@@ -4473,6 +4505,14 @@ Escape the "!" character with a backslash ("\").</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T135512Z" creationid="miurahr" creationdate="20160724T135512Z">
         <seg>継続</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Continue Searching</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160725T155543Z" creationid="miurahr" creationdate="20160725T155543Z">
+        <seg>検索の続行</seg>
       </tuv>
     </tu>
     <tu>
@@ -5237,6 +5277,14 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do Not Mark</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160725T155627Z" creationid="miurahr" creationdate="20160725T155627Z">
+        <seg>マークしない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not Indent Children Of</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T120509Z" creationid="miurahr" creationdate="20160724T120509Z">
@@ -5695,6 +5743,14 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter a file name to create a new {0} {1}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160725T155737Z" creationid="miurahr" creationdate="20160725T155737Z">
+        <seg>新しく作成する {0} プロジェクトのファイル名を入力してください{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter a new @interface name:</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T232134Z" creationid="miurahr" creationdate="20160724T232134Z">
@@ -5819,6 +5875,14 @@ Escape the "!" character with a backslash ("\").</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T133243Z" creationid="miurahr" creationdate="20160724T133243Z">
         <seg>式の入力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter {0} file location</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160725T155744Z" creationid="miurahr" creationdate="20160725T155744Z">
+        <seg>プロジェクト ファイルの場所を入力してください</seg>
       </tuv>
     </tu>
     <tu>
@@ -8277,6 +8341,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Its content may be overwritten.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160725T155955Z" creationid="miurahr" creationdate="20160725T155955Z">
+        <seg>内容は上書きされるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>J2SDK 1.4.0 documented bugs may cause unstable debugger behavior.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T131025Z" creationid="miurahr" creationdate="20160724T131025Z">
@@ -9041,6 +9113,22 @@ Code Style</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T124948Z" creationid="miurahr" creationdate="20160724T124948Z">
         <seg>余白 (インチ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mark</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160725T155630Z" creationid="miurahr" creationdate="20160725T155622Z">
+        <seg>マークする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mark Source Directory</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160725T155616Z" creationid="miurahr" creationdate="20160725T155616Z">
+        <seg>ソース ディレクトリのマーク</seg>
       </tuv>
     </tu>
     <tu>
@@ -10143,6 +10231,14 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note: the program will recognize only those source files, that are located under source directories.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160725T155422Z" creationid="miurahr" creationdate="20160725T155422Z">
+        <seg>注意 : プログラムは、ソースディレクトリに位置する Java ソース ファイルのみを認識します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note: the program will recognize only those source files, that are located under this directory.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160725T151355Z" creationid="miurahr" creationdate="20160725T151355Z">
@@ -10831,6 +10927,15 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please choose directories that will
+be marked as source paths.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160725T155446Z" creationid="miurahr" creationdate="20160725T155446Z">
+        <seg>ソース パスとしてマークする\nディレクトリを選択してください。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please enter a file name</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T161537Z" creationid="miurahr" creationdate="20160724T161537Z">
@@ -10931,6 +11036,14 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T161623Z" creationid="miurahr" creationdate="20160724T161623Z">
         <seg>テンプレート名を指定してください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please wait.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160725T155659Z" creationid="miurahr" creationdate="20160725T155659Z">
+        <seg>しばらくお待ちください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11395,6 +11508,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Question</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160725T155543Z" creationid="miurahr" creationdate="20160725T155543Z">
+        <seg>質問</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Quick Definition in lookup lists</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T153545Z" creationid="miurahr" creationdate="20160724T153545Z">
@@ -11647,6 +11768,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T121627Z" creationid="miurahr" creationdate="20160724T121627Z">
         <seg>比較演算子 (&lt;、&gt;、&lt;=、&gt;=)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Relative path to sources is empty.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160725T155600Z" creationid="miurahr" creationdate="20160725T155600Z">
+        <seg>ソースへの相対パスがありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12427,6 +12556,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Searching for sources in {0}.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160725T155653Z" creationid="miurahr" creationdate="20160725T155653Z">
+        <seg>{0} のソースを検索しています。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Searching in {0}...</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T154253Z" creationid="miurahr" creationdate="20160724T154253Z">
@@ -12563,6 +12700,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select JDK</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160725T160010Z" creationid="miurahr" creationdate="20160725T160010Z">
+        <seg>JDK の選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select Methods to Generate Delegates for</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T114009Z" creationid="miurahr" creationdate="20160724T114009Z">
@@ -12607,6 +12752,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T160359Z" creationid="miurahr" creationdate="20160724T160359Z">
         <seg>ブラウザのパス選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Source Directory</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160725T155706Z" creationid="miurahr" creationdate="20160725T155706Z">
+        <seg>ソース ディレクトリを選択してください</seg>
       </tuv>
     </tu>
     <tu>
@@ -13411,6 +13564,22 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Source directory should be under module content root directory</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160725T155640Z" creationid="miurahr" creationdate="20160725T155640Z">
+        <seg>ソース ディレクトリは、モジュール コンテント ディレクトリに格納する必要があります</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Source files for your module have been found.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160725T155456Z" creationid="miurahr" creationdate="20160725T155456Z">
+        <seg>モジュールの Java ソース ファイルが見つかりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sources do not correspond to code being executed</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T130023Z" creationid="miurahr" creationdate="20160724T130023Z">
@@ -13607,6 +13776,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T170716Z" creationid="miurahr" creationdate="20160723T170716Z">
         <seg>停止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stop Searching</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160725T155550Z" creationid="miurahr" creationdate="20160725T155550Z">
+        <seg>検索の中止</seg>
       </tuv>
     </tu>
     <tu>
@@ -14350,6 +14527,14 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following directory will be marked as a source directory:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160725T155500Z" creationid="miurahr" creationdate="20160725T155500Z">
+        <seg>次のディレクトリをソース ディレクトリとしてマークします :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following resource patterns are malformed:{0}</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T004550Z" creationid="miurahr" creationdate="20160724T004550Z">
@@ -14576,6 +14761,24 @@ Any JAR files created will be named after the name of the main module.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The {0} directory</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160725T155839Z" creationid="miurahr" creationdate="20160725T155839Z">
+        <seg>ディレクトリ{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The {1} file 
+''{0}''
+already exists.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160725T155859Z" creationid="miurahr" creationdate="20160725T155859Z">
+        <seg>{1} ファイル\n''{0}''\nは既に存在します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are no more files.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T113009Z" creationid="miurahr" creationdate="20160724T113009Z">
@@ -14628,6 +14831,14 @@ Any JAR files created will be named after the name of the main module.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160725T131317Z" creationid="miurahr" creationdate="20160725T131317Z">
         <seg>ID のないプラグインがありました。それらすべてのプラグインはスキップされました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These paths correspond to default (root, unnamed, top level) packages.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160725T155337Z" creationid="miurahr" creationdate="20160725T155337Z">
+        <seg>これらのパスはデフォルト (ルート、名称未設定、トップレベル) パッケージに対応する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16058,6 +16269,16 @@ Any JAR files created will be named after the name of the main module.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Would you like to mark the module content root
+"{0}"
+as a source directory?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160725T155611Z" creationid="miurahr" creationdate="20160725T155611Z">
+        <seg>モジュール コンテント ルート\n"{0}"\nをソース ディレクトリとしてマークしますか ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Would you like to overwrite it?</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T133404Z" creationid="miurahr" creationdate="20160724T133404Z">
@@ -16070,6 +16291,14 @@ Any JAR files created will be named after the name of the main module.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T231247Z" creationid="miurahr" creationdate="20160724T231247Z">
         <seg>このコンピュータで再アクティベートしますか ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Would you like to stop the search?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160725T155526Z" creationid="miurahr" creationdate="20160725T155526Z">
+        <seg> 検索を中止しますか ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -17077,6 +17306,22 @@ Please enter pattern string in a new format.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{0} folder already exists in {1}.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160725T155930Z" creationid="miurahr" creationdate="20160725T155930Z">
+        <seg>フォルダ{0}は既に{1}に存在します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} is currently searching for sources.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160725T155525Z" creationid="miurahr" creationdate="20160725T155516Z">
+        <seg>{0} がソースを検索しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{0} is directory</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T002919Z" creationid="miurahr" creationdate="20160724T002919Z">
@@ -17113,6 +17358,14 @@ Please enter pattern string in a new format.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160725T133254Z" creationid="miurahr" creationdate="20160725T133254Z">
         <seg>{0} ライブラリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} location path should be absolute</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160725T155822Z" creationid="miurahr" creationdate="20160725T155822Z">
+        <seg>{0} 場所の指定は、絶対パスでなければなりません</seg>
       </tuv>
     </tu>
     <tu>
