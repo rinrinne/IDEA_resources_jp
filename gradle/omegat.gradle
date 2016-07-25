@@ -1,18 +1,27 @@
 apply plugin: 'java'
 
 configurations {
-    dependency
+    dependency {
+        description = "Dependencies for OmegaT"
+    }
 }
 
 repositories {
     jcenter()
 }
 
-task translateResources(type: JavaExec, dependsOn: createTargetDir, classes) {
+task translateResources(type: JavaExec, dependsOn: classes) {
     classpath = configurations.dependency
     main = 'org.omegat.Main'
     workingDir = rootDir
     args = [rootDir, '--mode=console-translate']
+}
+
+task omegat(type: JavaExec, dependsOn: classes) {
+    classpath = configurations.dependency
+    main = 'org.omegat.Main'
+    workingDir = rootDir
+    args = [rootDir]
 }
 
 dependencies {

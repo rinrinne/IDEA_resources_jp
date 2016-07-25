@@ -1,9 +1,18 @@
+
+apply from: "$rootDir/gradle/omegat.gradle"
+
 allprojects {
      ext {
         target15Dir = new File(rootDir, 'target/15')
         target16Dir = new File(rootDir, 'target/2016')
     }
-} 
+}
+
+task cleanRootDirs(type: Delete) {
+    delete target15Dir
+    delete target16Dir
+    delete new File(rootDir, "build")
+}
 
 subprojects {
     apply plugin: 'java'
@@ -94,18 +103,6 @@ project(":resources-15") {
     clean.dependsOn removeDir
     clean.dependsOn '::cleanRootDirs'
 }
-
-def targetDir = new File(rootDir, "target")
-task createTargetDir << {
-    targetDir.mkdir()
-}
-task cleanRootDirs(type: Delete) {
-    delete target15Dir
-    delete target16Dir
-    delete new File(rootDir, "build")
-}
-
-apply from: "$rootDir/gradle/omegat.gradle"
 
 task wrapper(type: Wrapper) {
   gradleVersion = '2.12'
