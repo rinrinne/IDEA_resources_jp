@@ -105,12 +105,7 @@ task cleanRootDirs(type: Delete) {
     delete new File(rootDir, "build")
 }
 
-task translateResources(type: Exec, dependsOn: createTargetDir) {
-    workingDir rootDir
-    commandLine 'omegat', rootDir, '--mode=console-translate'
-    inputs.dir new File(rootDir, "source")
-    outputs.dir targetDir
-}
+apply from: "$rootDir/gradle/omegat.gradle"
 
 task wrapper(type: Wrapper) {
   gradleVersion = '2.12'
