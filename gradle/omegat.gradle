@@ -17,13 +17,6 @@ task translateResources(type: JavaExec, dependsOn: classes) {
     args = [rootDir, '--mode=console-translate']
 }
 
-task omegat(type: JavaExec, dependsOn: classes) {
-    classpath = configurations.dependency
-    main = 'org.omegat.Main'
-    workingDir = rootDir
-    args = [rootDir]
-}
-
 dependencies {
     dependency 'org.languagetool:languagetool-core:3.3'
     dependency ('org.languagetool:language-all:3.3') {
