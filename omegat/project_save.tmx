@@ -8583,6 +8583,14 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Module source path</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160725T003333Z" creationid="miurahr" creationdate="20160725T003333Z">
+        <seg>モジュール ソース パス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Module {0}</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T004720Z" creationid="miurahr" creationdate="20160724T004720Z">
