@@ -53,7 +53,6 @@ Contributions
 There are two way to contirbute to the project.
 
 Translation
-^^^^^^^^^^^
 
 Translation updates are not supporeted to merge with PR. Instead of push a request,
 please ask us to join as a member who can write a repository.
@@ -64,9 +63,8 @@ onto github repository.
 If you want to join, please leave a issue to express your will.
 
 
-
 Build scripts
-^^^^^^^^^^^^^^
+
 You are welcome to fork project and to ask PR.
 
 
