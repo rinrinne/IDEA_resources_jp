@@ -50,7 +50,6 @@ project(":resources-2016") {
             copy {
                 from new File(target16Dir, src)
                 into new File(sourceSets.main.resources.srcDirs[0], src)
-                rename '(.*).properties', '$1_ja.properties'
             }
         }
 
