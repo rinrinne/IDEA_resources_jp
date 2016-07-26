@@ -14,3 +14,15 @@ paired parens	小括弧	( )
 paired parens	小括弧	( )
 Project	プロジェクト
 Package	パッケージ
+constructor	コンストラクタ
+method	メソッド
+object	オブジェクト
+type	タイプ
+default	デフォルト	ex. default package デフォルトパッケージ
+implicit	暗黙的な
+parameter	パラメータ
+annotate	注釈
+API	API
+override	オーバーライド
+derivable	派生
+cast	キャスト
