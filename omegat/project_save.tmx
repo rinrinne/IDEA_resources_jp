@@ -446,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Module ''{0}''</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T144452Z" creationid="miurahr" creationdate="20160726T144452Z">
+        <seg>モジュール ''{0}''(&amp;M)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Module Scope</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T045337Z" creationid="miurahr" creationdate="20160726T045337Z">
@@ -5691,6 +5699,14 @@ Escape the "!" character with a backslash ("\").</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T122638Z" creationid="miurahr" creationdate="20160724T122638Z">
         <seg>未変更のファイルを最初に閉じる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Close thumbnails</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T144409Z" creationid="miurahr" creationdate="20160726T144409Z">
+        <seg>thumbnailsを閉じる</seg>
       </tuv>
     </tu>
     <tu>
@@ -11296,6 +11312,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T143526Z" creationid="miurahr" creationdate="20160726T143526Z">
         <seg>前の分割ウィンドウへ移動します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Grid</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T144351Z" creationid="miurahr" creationdate="20160726T144351Z">
+        <seg>グリッド</seg>
       </tuv>
     </tu>
     <tu>
@@ -25212,6 +25236,14 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whole &amp;project</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T144442Z" creationid="miurahr" creationdate="20160726T144442Z">
+        <seg>プロジェクト全体(&amp;P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whole wo&amp;rds only (may be faster)</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T155415Z" creationid="miurahr" creationdate="20160724T155415Z">
@@ -25492,6 +25524,22 @@ as a source directory?</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T232853Z" creationid="miurahr" creationdate="20160724T232853Z">
         <seg>設定を正常にエクスポートしました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zoom In</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T144354Z" creationid="miurahr" creationdate="20160726T144354Z">
+        <seg>拡大</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zoom Out</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T144358Z" creationid="miurahr" creationdate="20160726T144358Z">
+        <seg>縮小</seg>
       </tuv>
     </tu>
     <tu>
@@ -27505,6 +27553,14 @@ Please enter pattern string in a new format.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T142758Z" creationid="miurahr" creationdate="20160724T142758Z">
         <seg>{0} 秒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} scope</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T144433Z" creationid="miurahr" creationdate="20160726T144433Z">
+        <seg>{0}スコープ</seg>
       </tuv>
     </tu>
     <tu>
