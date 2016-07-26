@@ -1,36 +1,50 @@
-collapse	折り畳む	origin: Eijiro
-shared memory	共有メモリ
-socket	ソケット
+API	API
+AWT	AWT	Abstract Window Toolkit (AWT) 
+abstract	アブストラクト
+abstract class	アブストラクトクラス
+abstract method	abstract メソッド
+assertion	アサーション
+Boolean object	Booleanオブジェクト
+boolean value	boolean値
+Package	パッケージ
+Project	プロジェクト
+annotate	注釈
 applet	アプレット
-refactoring	リファクタリング
-interface	インターフェイス
+cast	キャスト
+collapse	折り畳む	origin: Eijiro
+constructor	コンストラクタ
+declaration	宣言
+default	デフォルト	ex. default package デフォルトパッケージ
+derivable	派生
+final	final	最終的としない
+final modifier	final修飾子
 implement	実装
-subtype	サブタイプ
-postfix	接尾辞
-prefix	接頭辞
+implicit	暗黙的な
+initializer	初期化子
+inner class	内部クラス
+interface	インターフェイス
+instance method	インスタンスメソッド
+iterator	反復子
+method	メソッド
+method declaration	メソッド宣言
+modifier	修飾子
+object	オブジェクト
+override	オーバーライド
 paired braces	中括弧
 paired brackets	大括弧	[ ]
 paired parens	小括弧	( )
 paired parens	小括弧	( )
-Project	プロジェクト
-Package	パッケージ
-constructor	コンストラクタ
-method	メソッド
-object	オブジェクト
-type	タイプ
-default	デフォルト	ex. default package デフォルトパッケージ
-implicit	暗黙的な
 parameter	パラメータ
-annotate	注釈
-API	API
-override	オーバーライド
-derivable	派生
-cast	キャスト
+postfix	接尾辞
+prefix	接頭辞
+quickfix	クイックフィックス
+refactoring	リファクタリング
+shared memory	共有メモリ
+socket	ソケット
+subtype	サブタイプ
+super class	スーパークラス
 throws clause	throws句
 throws declaration	throws宣言
-declaration	宣言
-modifier	修飾子
-final modifier	final修飾子
-final	final	最終的としない
-quickfix	クイックフィックス
-initializer	初期化子
+type	タイプ
+
+
