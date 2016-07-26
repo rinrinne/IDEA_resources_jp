@@ -12325,6 +12325,14 @@ Would you like to stop at the breakpoint?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Problem resolution</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T010753Z" creationid="miurahr" creationdate="20160726T010753Z">
+        <seg>問題の解決策</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Problem synopsis</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T002955Z" creationid="miurahr" creationdate="20160726T002955Z">
@@ -18382,6 +18390,14 @@ as a source directory?</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T170510Z" creationid="miurahr" creationdate="20160723T170510Z">
         <seg>暗黙的な ant プロパティ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>implicit constructor of</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T010743Z" creationid="miurahr" creationdate="20160726T010743Z">
+        <seg>の暗黙的なコンストラクタ</seg>
       </tuv>
     </tu>
     <tu>
