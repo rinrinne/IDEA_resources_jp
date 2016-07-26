@@ -11226,6 +11226,14 @@ Do you want overwrite it or to append?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, start typing a class name and press &lt;s0&gt;&amp;shortcut:CodeCompletion;&lt;/s0&gt; to complete it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T225139Z" creationid="miurahr" creationdate="20160726T225139Z">
+        <seg>例えば、クラス名の入力を開始して&lt;s0&gt; &amp;shortcut:CodeCompletion;&lt;/s0&gt; を押すと、入力が完了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example:</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T155028Z" creationid="miurahr" creationdate="20160723T155028Z">
@@ -13316,6 +13324,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IntelliJ IDEA has analyzed which of its features you are using and has found some that you have probably missed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T224505Z" creationid="miurahr" creationdate="20160726T224352Z">
+        <seg>IntelliJ IDEA は、使用されている機能を分析して、活用されていない機能を見つけます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Interface</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T010659Z" creationid="miurahr" creationdate="20160726T010659Z">
@@ -14834,6 +14850,14 @@ JavaDoc を生成できません。</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T003254Z" creationid="miurahr" creationdate="20160724T003249Z">
         <seg>最大ヒープ サイズ (MB)(&amp;H):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>May we suggest some hints that will increase your productivity!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T224517Z" creationid="miurahr" creationdate="20160726T224517Z">
+        <seg>そして、より生産性を高めるヒントを表示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20142,6 +20166,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Right-clicking on a breakpoint marker (on the bar to the left from the text) invokes the speedmenu where you can quickly enable/disable the breakpoint or adjust its properties.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T224652Z" creationid="miurahr" creationdate="20160726T224652Z">
+        <seg> (テキストの左のバーで) ブレークポイント マーカーを右クリックすると、ブレークポイントの有効/無効の切り替えとプロパティの調整を行うメニューが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rollback</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T143812Z" creationid="miurahr" creationdate="20160726T143812Z">
@@ -23720,6 +23752,14 @@ is not an {1} module file (.iml)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Code Completion feature lets you quickly complete different kinds of statements in the code.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T225126Z" creationid="miurahr" creationdate="20160726T225126Z">
+        <seg>コード補完機能を使用すると、コード中の異なる種類の文をすばやく完了できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The access code is invalid.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T102235Z" creationid="miurahr" creationdate="20160724T102235Z">
@@ -24254,6 +24294,14 @@ already exists.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160725T155337Z" creationid="miurahr" creationdate="20160725T155337Z">
         <seg>これらのパスはデフォルト (ルート、名称未設定、トップレベル) パッケージに対応する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These tips will be shown while the start up process is going on.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T224420Z" creationid="miurahr" creationdate="20160726T224420Z">
+        <seg>これらのヒントは、スタートアップ プロセス中に表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25964,6 +26012,14 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use the &lt;s0&gt;&amp;shortcut:PasteMultiple;&lt;/s0&gt; shortcut to choose and insert recent clipboard contents into the text.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T225050Z" creationid="miurahr" creationdate="20160726T225050Z">
+        <seg>最近のクリップボードの内容を選択してテキストに挿入するには、&lt;s0&gt;&amp;shortcut:PasteMultiple; &lt;/s0&gt;ショートカットを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use transparent mode for floating windows</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160725T145744Z" creationid="miurahr" creationdate="20160725T145744Z">
@@ -25976,6 +26032,14 @@ already exists.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T003612Z" creationid="miurahr" creationdate="20160724T003612Z">
         <seg>ユーザー タスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using &lt;s0&gt;&amp;shortcut:Generate;&lt;/s0&gt; (&lt;s1&gt;Code | Generate&lt;/s1&gt;) in the editor, you can easily generate getter and setter methods for any fields of your class.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T224631Z" creationid="miurahr" creationdate="20160726T224631Z">
+        <seg>エディタで &lt;s0&gt;&amp;shortcut:Generate;&lt;/s0&gt; (&lt;s1&gt;[コード] - [生成...]&lt;/s1&gt;) を使用すると、クラスのフィールド用の getter および setter メソッドを簡単に作成できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26340,6 +26404,14 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Welcome to &lt;s0&gt;IntelliJ IDEA&lt;/s0&gt; Productivity Guide</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T224336Z" creationid="miurahr" creationdate="20160726T224336Z">
+        <seg>&lt;s0&gt;IntelliJ IDEA&lt;/0&gt; 製品ガイドへようこそ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What's _New</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T143539Z" creationid="miurahr" creationdate="20160726T143539Z">
@@ -26360,6 +26432,30 @@ already exists.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T132844Z" creationid="miurahr" creationdate="20160724T132844Z">
         <seg>ノードを展開するとき</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When in the &lt;s0&gt;Go to Class&lt;/s0&gt;, &lt;s1&gt;Go to Symbol&lt;/s1&gt;, or &lt;s2&gt;Go to File&lt;/s2&gt; popup, you can ease the search by filtering the lookup list with the help of the "camel words" prefixes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T224935Z" creationid="miurahr" creationdate="20160726T224935Z">
+        <seg>&lt;s0&gt;クラスに移動&lt;/s0&gt;、&lt;s1&gt;シンボルに移動&lt;/s1&gt;または、&lt;s2&gt;ファイルに移動&lt;/s2&gt;ポップアップでは、キャメル ケースを使用してリストをフィルタすることで、検索を容易に行えるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When in the Code Completion lookup, you can ease the search by filtering the list with the help of the "camel words" prefixes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T224748Z" creationid="miurahr" creationdate="20160726T224748Z">
+        <seg>コード補完ルックアップでは、キャメル ケースを使用してリストをフィルタすることで、検索を容易に行えるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When multiple choices are available, they are shown in the lookup list.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T225143Z" creationid="miurahr" creationdate="20160726T225143Z">
+        <seg>選択肢が複数ある場合は、ルックアップ リストに表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26612,6 +26708,22 @@ as a source directory?</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160725T150115Z" creationid="miurahr" creationdate="20160725T150115Z">
         <seg>ツールバーへのアイコンを指定せずにアクションを追加しようとしています。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can always get back to them by selecting &lt;s0&gt;Help | Productivity Guide&lt;/s0&gt; from the menu bar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T224536Z" creationid="miurahr" creationdate="20160726T224536Z">
+        <seg>ヒントは、メニューから &lt;s0&gt;[ヘルプ] - [製品ガイド]&lt;/s0&gt; を選択して表示することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can comment or uncomment lines and blocks of code using &lt;s0&gt;&amp;shortcut:CommentByLineComment;&lt;/s0&gt; and &lt;s1&gt;&amp;shortcut:CommentByBlockComment;&lt;/s1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T225357Z" creationid="miurahr" creationdate="20160726T225357Z">
+        <seg>&lt;s0&gt;&amp;shortcut:CommentByLineComment;&lt;/s0&gt; および &lt;s1&gt;&amp;shortcut:CommentByBlockComment;&lt;/s1&gt;を使用してコードの行またはブロックをコメント化/非コメント化できます。</seg>
       </tuv>
     </tu>
     <tu>
