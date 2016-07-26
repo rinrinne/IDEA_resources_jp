@@ -1650,6 +1650,22 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&amp;shortcut:CommentByBlockComment;&lt;/s0&gt; encloses the selected block in a block comment (&lt;s1&gt;/*...*/&lt;/s1&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T225548Z" creationid="miurahr" creationdate="20160726T225548Z">
+        <seg>&lt;s0&gt;&amp;shortcut:CommentByBlockComment;&lt;/s0&gt;は、選択したブロックをブロック コメント  (&lt;s1&gt;/*...*/&lt;/s1&gt;)で囲みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&amp;shortcut:CommentByLineComment;&lt;/s0&gt; comments or uncomments the current line or selected block with single line comments (&lt;s1&gt;//...&lt;/s1&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T225515Z" creationid="miurahr" creationdate="20160726T225515Z">
+        <seg>&lt;s0&gt;&amp;shortcut:CommentByLineComment;&lt;/s0&gt;は、現在の行または選択したブロックを単一行コメント(&lt;s1&gt;//...&lt;/s1&gt;)でコメント化/非コメント化します。&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;unknown&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T134815Z" creationid="miurahr" creationdate="20160724T134815Z">
@@ -11226,6 +11242,14 @@ Do you want overwrite it or to append?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, go to the &lt;s0&gt;java.util.Collections&lt;/s0&gt; JDK class, place the cursor within the &lt;s1&gt;EMPTY-MAP&lt;/s1&gt; field and press &lt;s2&gt;&amp;shortcut:CopyReference;&lt;/s2&gt;:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T230624Z" creationid="miurahr" creationdate="20160726T230624Z">
+        <seg>例えば、&lt;s0&gt;java.util.Collections&lt;/s0&gt; JDK クラスに移動して&lt;s1&gt;EMPTY-MAP&lt;/s1&gt; フィールドで  &lt;s2&gt;&amp;shortcut:CopyReference;&lt;/s2&gt;:を押します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, start typing a class name and press &lt;s0&gt;&amp;shortcut:CodeCompletion;&lt;/s0&gt; to complete it.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T225139Z" creationid="miurahr" creationdate="20160726T225139Z">
@@ -13866,6 +13890,14 @@ JavaDoc を生成できません。</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T143652Z" creationid="miurahr" creationdate="20160726T143652Z">
         <seg>オブジェクト ソースに移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Just press &lt;s1&gt;&amp;shortcut:$Copy;&lt;/s1&gt; on any element in the lookup list.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T230730Z" creationid="miurahr" creationdate="20160726T230730Z">
+        <seg>ルックアップ リストの要素の上で &lt;s1&gt;&amp;shortcut:$Copy;&lt;/s1&gt; を押すだけでコピーできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18202,6 +18234,14 @@ be marked as source paths.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T004533Z" creationid="miurahr" creationdate="20160724T004533Z">
         <seg>''{2}'' を押して入力したパターンを適用します。''{3}'' で新しいフォーマットにデフォルト パターンを読み込みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press &lt;s0&gt;&amp;shortcut:EditorContextInfo;&lt;/s0&gt; (&lt;s1&gt;View | Context Info&lt;/s1&gt;) to see the declaration of the current method without the need to scroll to it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T230301Z" creationid="miurahr" creationdate="20160726T230301Z">
+        <seg>現在のメソッドの宣言へスクロールせず、その場に表示するには &lt;s0&gt;&amp;shortcut:EditorContextInfo;&lt;/s0&gt; (&lt;s1&gt;[表示] - [コンテキスト情報]&lt;/s1&gt;)を押します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23752,6 +23792,14 @@ is not an {1} module file (.iml)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;s0&gt;Edit | Copy Reference&lt;/s0&gt; action can be used to insert a reference to a field/method/class/file into the current position in the editor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T230545Z" creationid="miurahr" creationdate="20160726T230545Z">
+        <seg>&lt;s0&gt;[編集] - [参照のコピー]&lt;/s0&gt;アクションはエディタの現在の位置にフィールド/メソッド/クラス/ファイルへの参照を挿入するために使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Code Completion feature lets you quickly complete different kinds of statements in the code.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T225126Z" creationid="miurahr" creationdate="20160726T225126Z">
@@ -24234,6 +24282,14 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then return to your source code and press &lt;s0&gt;&amp;shortcut:$Paste;&lt;/s0&gt;:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T230906Z" creationid="miurahr" creationdate="20160726T230906Z">
+        <seg>その後ソースに戻り &lt;s0&gt;&amp;shortcut:$Paste;&lt;/s0&gt;:を押します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are no more files.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T113009Z" creationid="miurahr" creationdate="20160724T113009Z">
@@ -24310,6 +24366,14 @@ already exists.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T225700Z" creationid="miurahr" creationdate="20160724T225700Z">
         <seg>このクラス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This can be useful, for example, when you need to create a class which has much in common with some existing class and it's not feasible to put the shared functionality in a common superclass.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T230505Z" creationid="miurahr" creationdate="20160726T230505Z">
+        <seg>これは、例えば、いくつかの既存のクラスと共通なクラスを作成するときで、共通のスーパークラスへ共通な機能を導入できないような場合に有用です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24856,6 +24920,14 @@ already exists.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T133708Z" creationid="miurahr" creationdate="20160724T133708Z">
         <seg>JPDA ライブラリを入手するには次を参照してください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To uncomment a commented block press &lt;s0&gt;&amp;shortcut:CommentByBlockComment;&lt;/s0&gt; anywhere inside it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T225614Z" creationid="miurahr" creationdate="20160726T225614Z">
+        <seg>ブロック コメントを非コメント化するには、コメントの内側で &lt;s0&gt;&amp;shortcut:CommentByBlockComment;&lt;/s0&gt; を押します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25804,6 +25876,22 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use &lt;s0&gt;&amp;shortcut:EditorCompleteStatement;&lt;/s0&gt; to complete a current statement such as &lt;s1&gt;if&lt;/s1&gt;, &lt;s2&gt;do-while&lt;/s2&gt;, &lt;s3&gt;try-catch&lt;/s3&gt;, &lt;s4&gt;return&lt;/s4&gt; (or a method call) into a syntactically correct construct (e.g. add curly braces).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T225902Z" creationid="miurahr" creationdate="20160726T225902Z">
+        <seg> &lt;s1&gt;if&lt;/s1&gt;, &lt;s2&gt;do-while&lt;/s2&gt;, &lt;s3&gt;try-catch&lt;/s3&gt;, &lt;s4&gt;return&lt;/s4&gt; (またはメソッド呼び出し) のような現在の文を構造上正しい式にするには、&lt;s0&gt;&amp;shortcut:EditorCompleteStatement;&lt;/s0&gt;を使用します。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use &lt;s0&gt;Refactor | Copy&lt;/s0&gt; to create a class which is a copy of the selected class.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T230330Z" creationid="miurahr" creationdate="20160726T230330Z">
+        <seg>選択したクラスの "コピー" を作成するには、&lt;s0&gt;[リファクタリング] - [コピー...]&lt;/s0&gt;を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use @throws rather than @exception</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T123801Z" creationid="miurahr" creationdate="20160724T123801Z">
@@ -26712,6 +26800,14 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also copy references in the &lt;s0&gt;GotoClass/GotoSymbol/GotoFile&lt;/s0&gt; dialogs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T230736Z" creationid="miurahr" creationdate="20160726T230736Z">
+        <seg>&lt;s0&gt;クラスに移動/シンボルに移動/ファイルに移動&lt;/s0&gt; ダイアログで参照をコピーすることもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can always get back to them by selecting &lt;s0&gt;Help | Productivity Guide&lt;/s0&gt; from the menu bar.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T224536Z" creationid="miurahr" creationdate="20160726T224536Z">
@@ -26740,6 +26836,22 @@ as a source directory?</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T115215Z" creationid="miurahr" creationdate="20160724T115215Z">
         <seg>IntelliJ IDEA の旧バージョン{0}から設定をインポートできます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can start referring to an Ant property or target even if it is not defined yet.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T231001Z" creationid="miurahr" creationdate="20160726T231001Z">
+        <seg>Ant プロパティがまだ定義されていない場合でも、プロパティへの参照を開始できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can use &lt;s0&gt;Basic Completion&lt;/s0&gt; (&lt;s1&gt;&amp;shortcut:CodeCompletion;&lt;/s1&gt;) in HTML, CSS and JavaScript files, for completing attributes, parameters, tags, selectors, etc.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T230105Z" creationid="miurahr" creationdate="20160726T230105Z">
+        <seg>HTML、CSS および JavaScript ファイルで&lt;s0&gt;ベーシック補完&lt;/s0&gt;     (&lt;s1&gt;&amp;shortcut:CodeCompletion;&lt;/s1&gt;)を使用すると、属性、パラメータ、タグ、セレクタ、その他の入力が補完されます。</seg>
       </tuv>
     </tu>
     <tu>
