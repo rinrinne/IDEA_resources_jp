@@ -5527,6 +5527,14 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose the class from a drop-down list that appears.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T232938Z" creationid="miurahr" creationdate="20160726T232938Z">
+        <seg>表示されるドロップダウン リストからクラスを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chop down if long.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T124107Z" creationid="miurahr" creationdate="20160724T124107Z">
@@ -21286,6 +21294,17 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select an element you want to navigate to and press the &lt;s0&gt;Enter&lt;/s0&gt; key or the &lt;s1&gt;&amp;shortcut:EditSource;&lt;/s1&gt; key.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T232530Z" creationid="miurahr" creationdate="20160726T232530Z">
+        <seg> 要素を選択して、
+      &lt;s0&gt;Enter&lt;/s0&gt; キーまたは &lt;s1&gt;&amp;sho
+rtcut:EditSource;&lt;/s1&gt; キーを押します。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select applet policy file</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T142032Z" creationid="miurahr" creationdate="20160724T142032Z">
@@ -25005,10 +25024,44 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To easily locate an item in the list, just start typing its name.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T232537Z" creationid="miurahr" creationdate="20160726T232537Z">
+        <seg>リストの項目を簡単に見つけるには、その名前を入力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To get JPDA libraries please visit</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T133708Z" creationid="miurahr" creationdate="20160724T133708Z">
         <seg>JPDA ライブラリを入手するには次を参照してください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To navigate to the declaration of a class, method or variable used somewhere in the code, position the caret at the usage and press &lt;s0&gt;&amp;shortcut:GotoDeclaration;&lt;/s0&gt; (&lt;s1&gt;Navigate | Declaration&lt;/s1&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T233046Z" creationid="miurahr" creationdate="20160726T233046Z">
+        <seg>コードで使用されているクラス、メソッドまたは変数の宣言に移動するには、使用箇所にキャレットを移動して、
+    &lt;s0&gt;&amp;shortcut:GotoDeclaration;&lt;/s0&gt;を押します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To navigate to the implementation(s) of an abstract method, position the caret at its usage or its name in the declaration and press &lt;s0&gt;&amp;shortcut:GotoImplementation;&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T233140Z" creationid="miurahr" creationdate="20160726T233140Z">
+        <seg>抽象メソッドの実装に移動するには、その使用箇所または宣言中の名前にキャレットを移動して、&lt;s0&gt;&amp;shortcut:GotoImplementation;&lt;/s0&gt;を押します。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To open any class in the editor quickly, press &lt;s0&gt;&amp;shortcut:GotoClass;&lt;/s0&gt; (&lt;s1&gt;Navigate | Class&lt;/s1&gt;) and start typing the name of the class.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T232934Z" creationid="miurahr" creationdate="20160726T232934Z">
+        <seg>エディタでクラスをすばやく開くには&lt;s0&gt;&amp;shortcut:GotoClass;&lt;/s0&gt;   (&lt;s1&gt;[移動] - [クラス...]&lt;/s1&gt;)  を押してクラス名の入力を開始します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26916,6 +26969,14 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also click the mouse on usages with the &lt;s2&gt;Ctrl&lt;/s2&gt; key pressed to jump to declarations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T233104Z" creationid="miurahr" creationdate="20160726T233104Z">
+        <seg>&lt;s1&gt;Ctrl&lt;/s1&gt;を押したまま使用箇所でマウスをクリックして宣言にジャンプすることもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also copy references in the &lt;s0&gt;GotoClass/GotoSymbol/GotoFile&lt;/s0&gt; dialogs.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T230736Z" creationid="miurahr" creationdate="20160726T230736Z">
@@ -26952,6 +27013,14 @@ as a source directory?</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T115215Z" creationid="miurahr" creationdate="20160724T115215Z">
         <seg>IntelliJ IDEA の旧バージョン{0}から設定をインポートできます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can quickly find all places where a particular class, method or variable is used in the whole project by positioning the caret at the symbol's name or at its usage in code and pressing &lt;s0&gt;&amp;shortcut:FindUsages;&lt;/s0&gt; (&lt;s1&gt;Edit | Find | Find Usages&lt;/s1&gt; in the popup menu).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T232823Z" creationid="miurahr" creationdate="20160726T232737Z">
+        <seg>シンボルの名前またはコード中の使用箇所にキャレットを移動して &lt;s0&gt;&amp;shortcut:FindUsages;&lt;/s0&gt;        (ポップアップメニューの&lt;s1&gt;[編集]-[検索]-[使用箇所の検索...]&lt;/s1&gt;)   を押すことで、特定のクラス、メソッドまたは変数のプロジェクト全体で使用されているすべての場所をすばやく検索できます。</seg>
       </tuv>
     </tu>
     <tu>
