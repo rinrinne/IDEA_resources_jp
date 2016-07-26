@@ -49,3 +49,4 @@ type	タイプ
 hierarchy tree	階層ツリー
 navigation bar	ナビゲーションバー
 Locale	ロケール
+ attribute	属性
