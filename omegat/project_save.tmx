@@ -3177,6 +3177,14 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Base Ctr call</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T081731Z" creationid="miurahr" creationdate="20160726T081643Z">
+        <seg>ベース コンストラクタ呼び出し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Base on This Class</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T225847Z" creationid="miurahr" creationdate="20160724T225847Z">
@@ -6472,8 +6480,8 @@ Escape the "!" character with a backslash ("\").</seg>
       <tuv lang="EN-US">
         <seg>Delete Catch</seg>
       </tuv>
-      <tuv lang="JA" changeid="miurahr" changedate="20160726T080226Z" creationid="miurahr" creationdate="20160726T080226Z">
-        <seg>キャッチの削除</seg>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T081534Z" creationid="miurahr" creationdate="20160726T080226Z">
+        <seg>Catch句の削除</seg>
       </tuv>
     </tu>
     <tu>
@@ -6486,10 +6494,26 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete catch for ''{0}''</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T081546Z" creationid="miurahr" creationdate="20160726T081214Z">
+        <seg>'{0}'' のcatch句を削除する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delete it anyway?</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160725T162203Z" creationid="miurahr" creationdate="20160725T162203Z">
         <seg>強制的に削除しますか ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete method body</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T081511Z" creationid="miurahr" creationdate="20160726T081218Z">
+        <seg>メソッド本体の削除</seg>
       </tuv>
     </tu>
     <tu>
@@ -9015,6 +9039,22 @@ Do you want overwrite it or to append?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Generalize Catch</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T081236Z" creationid="miurahr" creationdate="20160726T081236Z">
+        <seg>キャッチの一般化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generalize catch for ''{0}'' to ''{1}''</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T081240Z" creationid="miurahr" creationdate="20160726T081240Z">
+        <seg>''{0}'' のキャッチを ''{1}'' に一般化する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Generate</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T114215Z" creationid="miurahr" creationdate="20160724T114215Z">
@@ -9147,6 +9187,14 @@ Do you want overwrite it or to append?</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T045707Z" creationid="miurahr" creationdate="20160726T045707Z">
         <seg>Javadoc の生成オプションが指定されていません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generify File</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T081244Z" creationid="miurahr" creationdate="20160726T081244Z">
+        <seg>ファイルの一般化</seg>
       </tuv>
     </tu>
     <tu>
@@ -9873,6 +9921,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Import class</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T081359Z" creationid="miurahr" creationdate="20160726T081359Z">
+        <seg>クラスのインポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Import...</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T124009Z" creationid="miurahr" creationdate="20160724T124009Z">
@@ -10217,6 +10273,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Insert 'super();'</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T081720Z" creationid="miurahr" creationdate="20160726T081720Z">
+        <seg>'super();' の挿入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insert @&amp;Override</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160725T161739Z" creationid="miurahr" creationdate="20160725T161739Z">
@@ -10245,6 +10309,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T120734Z" creationid="miurahr" creationdate="20160724T120734Z">
         <seg>インナークラスのインポートを挿入する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insert new</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T081403Z" creationid="miurahr" creationdate="20160726T081403Z">
+        <seg>新規の挿入</seg>
       </tuv>
     </tu>
     <tu>
@@ -19157,6 +19229,14 @@ already exists.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T101341Z" creationid="miurahr" creationdate="20160724T101341Z">
         <seg>再試行してください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Try to generify ''{0}''</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T081316Z" creationid="miurahr" creationdate="20160726T081316Z">
+        <seg>''{0}'' を一般化する</seg>
       </tuv>
     </tu>
     <tu>
