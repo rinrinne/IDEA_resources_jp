@@ -1783,6 +1783,14 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add ''{0}'' to ''{1}'' throws list</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T082259Z" creationid="miurahr" creationdate="20160726T082229Z">
+        <seg>''{1}'' throwsリストに ''{0}'' を追加する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add 'catch' clause(s)</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T053332Z" creationid="miurahr" creationdate="20160726T053332Z">
@@ -2579,6 +2587,14 @@ Escape the "!" character with a backslash ("\").</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T053116Z" creationid="miurahr" creationdate="20160726T053116Z">
         <seg>匿名クラス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Anonymous class derived from {0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T082351Z" creationid="miurahr" creationdate="20160726T082351Z">
+        <seg>{0} から派生した匿名クラス</seg>
       </tuv>
     </tu>
     <tu>
@@ -4492,6 +4508,14 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change Inheritors</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T082422Z" creationid="miurahr" creationdate="20160726T082422Z">
+        <seg>継承の変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change bound field type</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T053712Z" creationid="miurahr" creationdate="20160726T053712Z">
@@ -4520,6 +4544,22 @@ Escape the "!" character with a backslash ("\").</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T053804Z" creationid="miurahr" creationdate="20160726T053804Z">
         <seg>''{0}'' のシグネチャを ''{1}({2})'' に変更する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change to ''!({0})''</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T082630Z" creationid="miurahr" creationdate="20160726T082630Z">
+        <seg>''\!({0})'' に変更する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change {0} ''{1}'' type to ''{2}''</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T083053Z" creationid="miurahr" creationdate="20160726T083053Z">
+        <seg>''{0}'' の型を ''{1}'' に変更する</seg>
       </tuv>
     </tu>
     <tu>
@@ -5640,6 +5680,14 @@ Escape the "!" character with a backslash ("\").</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160725T161731Z" creationid="miurahr" creationdate="20160725T161731Z">
         <seg>JavaDoc をコピーする(&amp;J)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy ''{0}'' to temp final variable</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T083041Z" creationid="miurahr" creationdate="20160726T083041Z">
+        <seg>''{0}'' を temp final 変数にコピーする</seg>
       </tuv>
     </tu>
     <tu>
@@ -6915,6 +6963,14 @@ Escape the "!" character with a backslash ("\").</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T053345Z" creationid="miurahr" creationdate="20160726T053345Z">
         <seg>メソッド階層全体でメソッド シグネチャに例外を追加しますか ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you want to change inheritors' visibility to visibility of the base method?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T082417Z" creationid="miurahr" creationdate="20160726T082417Z">
+        <seg>継承の可視性をベース メソッドの可視性に変更しますか ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -8899,6 +8955,54 @@ Do you want overwrite it or to append?</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T053606Z" creationid="miurahr" creationdate="20160726T053606Z">
         <seg>Javadoc の修復</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fix Modifiers</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T082330Z" creationid="miurahr" creationdate="20160726T082330Z">
+        <seg>修飾子の修復</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fix Parameter Type</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T081851Z" creationid="miurahr" creationdate="20160726T081851Z">
+        <seg>パラメータの型の修復</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fix Return Type</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T081934Z" creationid="miurahr" creationdate="20160726T081934Z">
+        <seg>戻り型の修復</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fix Super Method Return Type</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T082941Z" creationid="miurahr" creationdate="20160726T082941Z">
+        <seg>スーパー メソッドの戻り型の修復</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fix Throws List</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T082234Z" creationid="miurahr" creationdate="20160726T082104Z">
+        <seg>Throws リストの修復</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fix Variable Type</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T083048Z" creationid="miurahr" creationdate="20160726T083048Z">
+        <seg>変数の型の修復</seg>
       </tuv>
     </tu>
     <tu>
@@ -11627,6 +11731,70 @@ JavaDoc を生成できません。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make ''{0}'' a class</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T081803Z" creationid="miurahr" creationdate="20160726T081803Z">
+        <seg>クラスをクラスにする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make ''{0}'' an interface</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T081750Z" creationid="miurahr" creationdate="20160726T081750Z">
+        <seg>''{0}'' をインターフェイスにする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make ''{0}'' not {1}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T082403Z" creationid="miurahr" creationdate="20160726T082403Z">
+        <seg>''{0}'' を {1} でないようにする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make ''{0}'' return ''{1}''</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T082049Z" creationid="miurahr" creationdate="20160726T082049Z">
+        <seg>''{0}'' が ''{1}'' を返すようにする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make ''{0}'' take parameter of type ''{1}'' here</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T081859Z" creationid="miurahr" creationdate="20160726T081859Z">
+        <seg>''{0}'' が型 ''{1}'' のパラメータをここで使用するようにする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make ''{0}'' {1}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T082408Z" creationid="miurahr" creationdate="20160726T082408Z">
+        <seg>''{0}'' を {1} にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make Class an Interface</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T081742Z" creationid="miurahr" creationdate="20160726T081742Z">
+        <seg>クラスをインターフェイスにする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make Final</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T083010Z" creationid="miurahr" creationdate="20160726T083010Z">
+        <seg>Final にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make Selected _Modules</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T004222Z" creationid="miurahr" creationdate="20160724T004222Z">
@@ -11687,6 +11855,22 @@ JavaDoc を生成できません。</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160725T160503Z" creationid="miurahr" creationdate="20160725T160503Z">
         <seg>{1}が正常にインストールされていることを確認してください。&lt;/body&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make vararg parameter last</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T081813Z" creationid="miurahr" creationdate="20160726T081813Z">
+        <seg>vararg パラメータを最後にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make {0} final</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T083021Z" creationid="miurahr" creationdate="20160726T083021Z">
+        <seg>''{0}'' を final にする</seg>
       </tuv>
     </tu>
     <tu>
@@ -12215,6 +12399,46 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move ''{0}'' to the end of the list</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T081819Z" creationid="miurahr" creationdate="20160726T081819Z">
+        <seg>''{0}'' をリストの最後に移動する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move Catch Up</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T082520Z" creationid="miurahr" creationdate="20160726T082446Z">
+        <seg>catch句を上に移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move Class in Extend list</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T082429Z" creationid="miurahr" creationdate="20160726T082429Z">
+        <seg>拡張リストのクラスの移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move Class to Package</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T082558Z" creationid="miurahr" creationdate="20160726T082558Z">
+        <seg>パッケージへのクラスの移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move Class to Separate File</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T082536Z" creationid="miurahr" creationdate="20160726T082536Z">
+        <seg>クラスを別ファイルに移動する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move Cursor</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T141559Z" creationid="miurahr" creationdate="20160724T141559Z">
@@ -12223,10 +12447,34 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move bound ''{0}'' to the beginning of the bounds list of type parameter ''{1}''</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T082434Z" creationid="miurahr" creationdate="20160726T082434Z">
+        <seg>境界 ''{0}'' を型パラメータ ''{1}'' の境界リストの先頭に移動する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move caret</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T141519Z" creationid="miurahr" creationdate="20160724T141519Z">
         <seg>キャレットの移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move catch for ''{0}'' before ''{1}''</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T082513Z" creationid="miurahr" creationdate="20160726T082456Z">
+        <seg>''{0}'' のcatch句を ''{1}'' の前に移動する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move class ''{0}'' to ''{0}.java''</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T082547Z" creationid="miurahr" creationdate="20160726T082547Z">
+        <seg>クラス ''{0}'' を ''{0}.java'' に移動する</seg>
       </tuv>
     </tu>
     <tu>
@@ -12267,6 +12515,14 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T141608Z" creationid="miurahr" creationdate="20160724T141608Z">
         <seg>選択範囲の移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move to package ''{0}''</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T082603Z" creationid="miurahr" creationdate="20160726T082603Z">
+        <seg>パッケージ ''{0}'' に移動する</seg>
       </tuv>
     </tu>
     <tu>
@@ -12363,6 +12619,14 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T153802Z" creationid="miurahr" creationdate="20160724T153802Z">
         <seg>ナビゲーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Negation Broader Scope</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T082637Z" creationid="miurahr" creationdate="20160726T082637Z">
+        <seg>否定を広いスコープに変更する</seg>
       </tuv>
     </tu>
     <tu>
@@ -13250,6 +13514,14 @@ for this anonymous class.</seg>
         <seg>Optimize Imports</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T113732Z" creationid="miurahr" creationdate="20160724T113732Z">
+        <seg>インポートの最適化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Optimize imports</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T082657Z" creationid="miurahr" creationdate="20160726T082657Z">
         <seg>インポートの最適化</seg>
       </tuv>
     </tu>
@@ -14987,6 +15259,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove ''{0}'' from ''{1}'' throws list</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T082324Z" creationid="miurahr" creationdate="20160726T082324Z">
+        <seg>''{1}'' throwsリストから ''{0}'' を削除する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove Action</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T160817Z" creationid="miurahr" creationdate="20160724T160817Z">
@@ -15067,10 +15347,42 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove field ''{0}''</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T082742Z" creationid="miurahr" creationdate="20160726T082742Z">
+        <seg>フィールド ''{0}'' の削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove new line before:</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T120639Z" creationid="miurahr" creationdate="20160724T120639Z">
         <seg>次のタグの直前の新規行は削除する :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove parameter ''{0}''</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T082728Z" creationid="miurahr" creationdate="20160726T082728Z">
+        <seg>パラメータ ''{0}'' の削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove qualifier</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T082712Z" creationid="miurahr" creationdate="20160726T082712Z">
+        <seg>限定子の削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove redundant 'else'</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T082718Z" creationid="miurahr" creationdate="20160726T082718Z">
+        <seg>冗長な 'else' の削除</seg>
       </tuv>
     </tu>
     <tu>
@@ -15123,6 +15435,30 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove unused parameter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T082723Z" creationid="miurahr" creationdate="20160726T082723Z">
+        <seg>未使用パラメータの削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove unused variable</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T082733Z" creationid="miurahr" creationdate="20160726T082733Z">
+        <seg>未使用変数の削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove variable ''{0}''</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T082737Z" creationid="miurahr" creationdate="20160726T082737Z">
+        <seg>変数 ''{0}'' の削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rename</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T153708Z" creationid="miurahr" creationdate="20160724T153708Z">
@@ -15151,6 +15487,22 @@ Code Style</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160725T133051Z" creationid="miurahr" creationdate="20160725T133051Z">
         <seg>モジュールの名前変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename Wrong Reference</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T082746Z" creationid="miurahr" creationdate="20160726T082746Z">
+        <seg>不正な参照名の変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename reference</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T082757Z" creationid="miurahr" creationdate="20160726T082757Z">
+        <seg>参照名の変更</seg>
       </tuv>
     </tu>
     <tu>
@@ -15467,6 +15819,22 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reuse previous variable ''{0}'' declaration</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T082837Z" creationid="miurahr" creationdate="20160726T082837Z">
+        <seg>以前の変数 ''{0}'' 宣言の再使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reuse variable declaration</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T082822Z" creationid="miurahr" creationdate="20160726T082822Z">
+        <seg>変数の宣言を再使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Right</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T122139Z" creationid="miurahr" creationdate="20160724T122139Z">
@@ -15655,6 +16023,22 @@ Code Style</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160725T162420Z" creationid="miurahr" creationdate="20160725T162420Z">
         <seg>セーフ デリート (使用箇所の検索) (&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Safe delete</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T082842Z" creationid="miurahr" creationdate="20160726T082842Z">
+        <seg>セーフ デリート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Safe delete ''{0}''</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T082902Z" creationid="miurahr" creationdate="20160726T082902Z">
+        <seg>''{0}'' のセーフ デリート</seg>
       </tuv>
     </tu>
     <tu>
@@ -16435,6 +16819,22 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Setup JDK</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T082911Z" creationid="miurahr" creationdate="20160726T082911Z">
+        <seg>JDK の設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setup JDK Location</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T082907Z" creationid="miurahr" creationdate="20160726T082907Z">
+        <seg>JDK の場所の設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shared &amp;memory</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T133633Z" creationid="miurahr" creationdate="20160724T133633Z">
@@ -16907,10 +17307,34 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Side Effects Found</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T082915Z" creationid="miurahr" creationdate="20160726T082915Z">
+        <seg>見つかった副作用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simplify ''{0}'' to {1}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T082936Z" creationid="miurahr" creationdate="20160726T082936Z">
+        <seg>''{0}'' を {1} に簡略化する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Simplify Boolean Expression</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T003412Z" creationid="miurahr" creationdate="20160726T003412Z">
         <seg>Boolean 式を簡素化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simplify boolean expression</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T082920Z" creationid="miurahr" creationdate="20160726T082920Z">
+        <seg>Boolean 式を簡略化する</seg>
       </tuv>
     </tu>
     <tu>
@@ -17567,6 +17991,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T153610Z" creationid="miurahr" creationdate="20160724T153610Z">
         <seg>文を囲む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Surround with try/catch</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T083014Z" creationid="miurahr" creationdate="20160726T083003Z">
+        <seg>try/catch句 で囲む</seg>
       </tuv>
     </tu>
     <tu>
@@ -19201,6 +19633,14 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Transform {0} into final one element array</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T083042Z" creationid="miurahr" creationdate="20160726T083042Z">
+        <seg>''{0}'' を final の 1 つの要素配列に変形する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Transparency</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160725T145733Z" creationid="miurahr" creationdate="20160725T145733Z">
@@ -20253,6 +20693,14 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wrap Expression</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T083058Z" creationid="miurahr" creationdate="20160726T083058Z">
+        <seg>式の折り返し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wrap at right margin</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T123807Z" creationid="miurahr" creationdate="20160724T123807Z">
@@ -20281,6 +20729,14 @@ as a source directory?</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T120521Z" creationid="miurahr" creationdate="20160724T120521Z">
         <seg>テキストを折り返す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wrap using ''{0}''</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T083117Z" creationid="miurahr" creationdate="20160726T083117Z">
+        <seg>''{1}'' を使用して ''' を折り返す</seg>
       </tuv>
     </tu>
     <tu>
@@ -21538,6 +21994,14 @@ as a source directory?</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T231637Z" creationid="miurahr" creationdate="20160724T231637Z">
         <seg>{0} 評価版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} class initializer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T082345Z" creationid="miurahr" creationdate="20160726T082345Z">
+        <seg>{0} クラス初期化子</seg>
       </tuv>
     </tu>
     <tu>
