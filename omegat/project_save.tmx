@@ -1666,6 +1666,30 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&amp;shortcut:EditorDuplicate;&lt;/s0&gt; in the editor duplicates the selected block or the current line when no block is selected.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T231127Z" creationid="miurahr" creationdate="20160726T231127Z">
+        <seg>エディタの&lt;s0&gt;&amp;shortcut:EditorDuplicate;&lt;/s0&gt;は、選択したブロック (ブロックが選択されていない場合は現在の行) を複製します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&amp;shortcut:EditorSelectWord;&lt;/s0&gt; (extend selection) in the editor selects the word at the caret and then selects expanding areas of the source code.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T231405Z" creationid="miurahr" creationdate="20160726T231405Z">
+        <seg>エディタの &lt;s0&gt;&amp;shortcut:EditorSelectWord;&lt;/s0&gt; は、キャレット位置の文字を選択してから、ソースコードの拡張領域を選択します。例えば、メソッド名、このメソッドを呼び出す式、文全体、含んでいるブロック、その他を選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&amp;shortcut:HideActiveWindow;&lt;/s0&gt; moves the focus to the editor and also hides the current (or last active) tool window.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T231644Z" creationid="miurahr" creationdate="20160726T231644Z">
+        <seg>&lt;s0&gt;&amp;shortcut:HideActiveWindow;&lt;/s0&gt;キーは、フォーカスをエディタから最後にフォーカスされていたツール ウィンドウに移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;unknown&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T134815Z" creationid="miurahr" creationdate="20160724T134815Z">
@@ -13596,6 +13620,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It shows the list of members of the current class.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T232504Z" creationid="miurahr" creationdate="20160726T232504Z">
+        <seg>このショートカットは、現在のクラスのメンバのリストを表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It will be created by {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160725T150503Z" creationid="miurahr" creationdate="20160725T150503Z">
@@ -19158,6 +19190,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Refer to a non-existing target tag in your Ant build file, and IntelliJ IDEA will suggest you to automatically create the corresponding tag.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T231035Z" creationid="miurahr" creationdate="20160726T231035Z">
+        <seg>ビルド ファイルに存在していないターゲット タグを参照すると、IDEA は対応するタグを自動的に作成するように推奨します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reference to ''{0}'' has been copied.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T232108Z" creationid="miurahr" creationdate="20160724T232108Z">
@@ -23792,10 +23832,34 @@ is not an {1} module file (.iml)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;s0&gt;&amp;shortcut:EditorEscape;&lt;/s0&gt; key in any tool window moves the focus to the editor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T231638Z" creationid="miurahr" creationdate="20160726T231638Z">
+        <seg>ツール ウィンドウの &lt;s0&gt;&amp;shortcut:EditorEscape;&lt;/s0&gt; キーはフォーカスをエディタに移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;s0&gt;&amp;shortcut:JumpToLastWindow;&lt;/s0&gt; key moves the focus from the editor to the last focused tool window.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T231658Z" creationid="miurahr" creationdate="20160726T231658Z">
+        <seg> &lt;s0&gt;&amp;shortcut:JumpToLastWindow;&lt;/s0&gt; キーは、フォーカスをエディタから最後にフォーカスされていたツール ウィンドウに移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;s0&gt;Edit | Copy Reference&lt;/s0&gt; action can be used to insert a reference to a field/method/class/file into the current position in the editor.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T230545Z" creationid="miurahr" creationdate="20160726T230545Z">
         <seg>&lt;s0&gt;[編集] - [参照のコピー]&lt;/s0&gt;アクションはエディタの現在の位置にフィールド/メソッド/クラス/ファイルへの参照を挿入するために使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;s0&gt;Quick Definition Viewer&lt;/s0&gt; (&lt;s1&gt;&amp;shortcut:QuickImplementations;&lt;/s1&gt;) can also be used for items in lookup lists that appear on code completion and class/file/symbol navigaton commands.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T231308Z" creationid="miurahr" creationdate="20160726T231308Z">
+        <seg>&lt;s0&gt;クイック定義ビューア&lt;/s0&gt;  (&lt;s1&gt;&amp;shortcut:QuickImplementations;&lt;/s1&gt;) は、コード補完とクラス/ファイル/シンボル ナビゲーション コマンドで表示されるルックアップ リストの項目にも使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24112,6 +24176,14 @@ already exists.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T052851Z" creationid="miurahr" creationdate="20160726T052851Z">
         <seg>プロジェクト ファイルが読み取り専用です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The selected name is automatically entered in the editor followed by the entered character.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T231513Z" creationid="miurahr" creationdate="20160726T231513Z">
+        <seg>選択された名前は、エディタで、入力した名前に続いて自動的に入力されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24595,6 +24667,14 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This intention action will not even make you change your current editing location.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T231104Z" creationid="miurahr" creationdate="20160726T231104Z">
+        <seg>このインテンション アクションは、現在の編集位置を変更しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This intention adds @Nullable/@NotNull annotation on the selected element (externally in case of library)</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T165053Z" creationid="miurahr" creationdate="20160723T165053Z">
@@ -24916,10 +24996,28 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To easily evaluate the value of any expression while debugging the program, select its text in the editor (you may press a &lt;s0&gt;&amp;shortcut:EditorSelectWord;&lt;/s0&gt; a few times to efficiently perform this operation) and press &lt;s1&gt;&amp;shortcut:EvaluateExpression;&lt;/s1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T231813Z" creationid="miurahr" creationdate="20160726T231813Z">
+        <seg>プログラムのデバッグ中に式の値を簡単に評価するには、エディタでテキストを選択して ( &lt;s0&gt;&amp;shortcut:EditorSelectWord;&lt;/s0&gt;を何度か押して)
+&lt;s1&gt;&amp;shortcut:EvaluateExpression;&lt;/s1&gt;を押します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To get JPDA libraries please visit</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T133708Z" creationid="miurahr" creationdate="20160724T133708Z">
         <seg>JPDA ライブラリを入手するには次を参照してください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To open your browser with documentation for the element at the editor's caret, press &lt;s0&gt;&amp;shortcut:ExternalJavaDoc;&lt;/s0&gt; (&lt;s1&gt;View | External Documentation&lt;/s1&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T232054Z" creationid="miurahr" creationdate="20160726T232054Z">
+        <seg>エディタのキャレットで使用されているクラスまたはメソッドの Javadoc をブラウザで開くには、    &lt;s0&gt;&amp;shortcut:ExternalJavaDoc;&lt;/s0&gt;      (&lt;s1&gt;[表示] - [外部 JavaDoc]&lt;/s1&gt;) を押します。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -25884,6 +25982,14 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use &lt;s0&gt;&amp;shortcut:QuickImplementations;&lt;/s0&gt; (&lt;s1&gt;View | Quick Definition&lt;/s1&gt;), to quickly review definition or content of the symbol at caret, without the need to open it in a new editor tab.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T231228Z" creationid="miurahr" creationdate="20160726T231228Z">
+        <seg>&lt;s0&gt;&amp;shortcut:QuickImplementations;&lt;/s0&gt;   (&lt;s1&gt;[表示] - [クイック定義ルックアップ]&lt;/s1&gt;)を使用すると、新しいエディタ タブを開くことなく、キャレット位置のシンボルの定義または内容をすばやくレビューできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use &lt;s0&gt;Refactor | Copy&lt;/s0&gt; to create a class which is a copy of the selected class.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T230330Z" creationid="miurahr" creationdate="20160726T230330Z">
@@ -26556,6 +26662,16 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When using Code Completion, you can accept the currently highlighted selection in the popup list with the period character (&lt;s0&gt;.&lt;/s0&gt;), comma (&lt;s1&gt;,&lt;/s1&gt;), semicolon (&lt;s2&gt;;&lt;/s2&gt;), space and other characters.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T231503Z" creationid="miurahr" creationdate="20160726T231503Z">
+        <seg>コード補完を使用すると、ポップアップ リストでピリオド
+         (&lt;s0&gt;.&lt;/s0&gt;), カンマ (&lt;s1&gt;,&lt;/s1&gt;),
+        セミコロン (&lt;s2&gt;;&lt;/s2&gt;) 、スペースおよびその他の文字で現在強調表示されているセクションを選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whole &amp;project</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T144442Z" creationid="miurahr" creationdate="20160726T144442Z">
@@ -26840,6 +26956,16 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can quickly navigate in the currently edited file with &lt;s0&gt;&amp;shortcut:FileStructurePopup;&lt;/s0&gt; (&lt;s1&gt;Navigate | File Structure&lt;/s1&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T232457Z" creationid="miurahr" creationdate="20160726T232457Z">
+        <seg>&lt;s0&gt;&amp;shortcut:FileStructurePopup;&lt;/s0&gt;  (&lt;s1&gt;[表示] - [ファイル構造ポップアップ]&lt;&lt;/s1&gt;)を使用
+して、現在編集しているファイル内をすばやく移動できます。
+      </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can start referring to an Ant property or target even if it is not defined yet.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T231001Z" creationid="miurahr" creationdate="20160726T231001Z">
@@ -26884,6 +27010,15 @@ as a source directory?</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160725T162257Z" creationid="miurahr" creationdate="20160725T162257Z">
         <seg>この処理はやり直しできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must have the path to your browser set in the &lt;s0&gt;File | Settings | Web Browsers&lt;/s0&gt; options and paths to documentation files added to your project (&lt;s1&gt;File | Project Structure...&lt;/s1&gt;) to use this feature.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T232342Z" creationid="miurahr" creationdate="20160726T232342Z">
+        <seg>この機能を使用するには、&lt;s0&gt;[ファイル]-[設定]-[Webブラウザ]&lt;/0&gt; オプションでブラウザへのパスを設定し、プロジェクトに Javadoc 生成ファイルへのパスを追加する (&lt;s1&gt;[ファイル] - [プロジェクト構造]...&lt;/s1&gt;) 必要があります。
+</seg>
       </tuv>
     </tu>
     <tu>
