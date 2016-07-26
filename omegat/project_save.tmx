@@ -5788,6 +5788,14 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create Getter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T054442Z" creationid="miurahr" creationdate="20160726T054442Z">
+        <seg>Getter の作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create Local Var from instanceof Usage</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T054327Z" creationid="miurahr" creationdate="20160726T054327Z">
@@ -5864,6 +5872,14 @@ Escape the "!" character with a backslash ("\").</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T141923Z" creationid="miurahr" creationdate="20160724T141923Z">
         <seg>実行時設定の作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Setter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T054449Z" creationid="miurahr" creationdate="20160726T054449Z">
+        <seg>Setter の作成</seg>
       </tuv>
     </tu>
     <tu>
@@ -5996,6 +6012,22 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create method ''{0}''</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T054405Z" creationid="miurahr" creationdate="20160726T054405Z">
+        <seg>メソッド ''{0}'' の作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create method from usage</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T054400Z" creationid="miurahr" creationdate="20160726T054400Z">
+        <seg>使用箇所からのメソッドの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create new directory or package</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T232333Z" creationid="miurahr" creationdate="20160724T232333Z">
@@ -6028,10 +6060,34 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create parameter ''{0}''</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T054422Z" creationid="miurahr" creationdate="20160726T054422Z">
+        <seg>パラメータ ''{0}'' の作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create parameter from Usage</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T054417Z" creationid="miurahr" creationdate="20160726T054417Z">
+        <seg>使用箇所からのパラメータの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create property</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T003628Z" creationid="miurahr" creationdate="20160724T003628Z">
         <seg>プロパティの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create property From Usage</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T054437Z" creationid="miurahr" creationdate="20160726T054437Z">
+        <seg>使用箇所からのプロパティの作成</seg>
       </tuv>
     </tu>
     <tu>
@@ -6374,6 +6430,22 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Defer assignment to ''{0}'' using temp variable</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T054505Z" creationid="miurahr" creationdate="20160726T054505Z">
+        <seg>temp 変数を使用して ''{0}'' への代入を延期する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Defer final assignment with temp</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T054458Z" creationid="miurahr" creationdate="20160726T054458Z">
+        <seg>temp を使用して最終代入を延期する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delay (ms):</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160725T145802Z" creationid="miurahr" creationdate="20160725T145802Z">
@@ -6394,6 +6466,14 @@ Escape the "!" character with a backslash ("\").</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T161507Z" creationid="miurahr" creationdate="20160724T161507Z">
         <seg>"{0}"以外のお気に入りリストをすべて削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete Catch</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T080226Z" creationid="miurahr" creationdate="20160726T080226Z">
+        <seg>キャッチの削除</seg>
       </tuv>
     </tu>
     <tu>
@@ -10101,6 +10181,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T140617Z" creationid="miurahr" creationdate="20160724T140617Z">
         <seg>挿入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insert ''({0}){1}'' declaration</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T054337Z" creationid="miurahr" creationdate="20160726T054337Z">
+        <seg>''({0}){1}'' 宣言を挿入する</seg>
       </tuv>
     </tu>
     <tu>
