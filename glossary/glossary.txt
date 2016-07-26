@@ -45,7 +45,6 @@ subtype	サブタイプ
 super class	スーパークラス
 throws clause	throws句
 throws declaration	throws宣言
-type	タイプ
 hierarchy tree	階層ツリー
 navigation bar	ナビゲーションバー
 Locale	ロケール
@@ -53,3 +52,8 @@ Locale	ロケール
 Generalize	一般化
 method body	メソッド本体
 catch	catch句
+type	型
+Return Type	戻り型
+throws list	throwsリスト
+import	インポート
+qualifier	限定子
