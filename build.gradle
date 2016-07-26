@@ -5,7 +5,7 @@ allprojects {
      ext {
         target15Dir = new File(rootDir, 'target/15')
         target16Dir = new File(rootDir, 'target/2016')
-        targetAndDir = new File(rootDir, 'target/and')
+        targetAndDir = new File(rootDir, 'target/and-143.2915847')
     }
 }
 
@@ -50,7 +50,7 @@ subprojects {
     copyDistFiles.mustRunAfter jar
 }
 
-project(":resource-and") {
+project(":resources-and") {
     apply plugin: 'java'
     defaultTasks 'jar'
     jar.baseName = 'resources_ja'
