@@ -26,3 +26,11 @@ API	API
 override	オーバーライド
 derivable	派生
 cast	キャスト
+throws clause	throws句
+throws declaration	throws宣言
+declaration	宣言
+modifier	修飾子
+final modifier	final修飾子
+final	final	最終的としない
+quickfix	クイックフィックス
+initializer	初期化子
