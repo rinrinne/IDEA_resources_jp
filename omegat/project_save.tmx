@@ -758,6 +758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Transform</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T083135Z" creationid="miurahr" creationdate="20160726T083135Z">
+        <seg>変形(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;URL</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T145425Z" creationid="miurahr" creationdate="20160724T145425Z">
@@ -1315,6 +1323,17 @@ Escape the "!" character with a backslash ("\").</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T121334Z" creationid="miurahr" creationdate="20160724T121334Z">
         <seg>&lt;html&gt;&lt;body&gt;現在のプロジェクトは、独自のコード スタイルを使用するように設定されています。&lt;br&gt;グローバル コード スタイル設定への変更は、現在のプロジェクトに反映しません。&lt;br&gt;[プロジェクト設定] - [コード スタイル] を参照してください。&lt;br&gt;グローバル設定を編集するには、以下の \\&amp;quot;Edit Global Settings&amp;quot; ボタンを押してください。&lt;/body&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;&lt;body&gt;There are possible side effects found in expressions assigned to the variable ''{0}''&lt;br&gt;You can:&lt;ul&gt;&lt;li&gt;&lt;b&gt;Remove&lt;/b&gt; variable usages along with all expressions involved&lt;/li&gt;&lt;/body&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T083213Z" creationid="miurahr" creationdate="20160726T083213Z">
+        <seg>&lt;html&gt;&lt;body&gt;
+  変数 ''{0}'' に代入された式で可能性のある副作用が見つかりました。&lt;br&gt;
+  次のことができます :&lt;ul&gt;&lt;li&gt;含まれているすべての式と共に変数の使用箇所を&lt;b&gt;削除&lt;/b&gt;する。&lt;/li&gt;
+ &lt;/body&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4512,6 +4531,14 @@ Escape the "!" character with a backslash ("\").</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T082422Z" creationid="miurahr" creationdate="20160726T082422Z">
         <seg>継承の変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change Parameter Class</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T083309Z" creationid="miurahr" creationdate="20160726T083309Z">
+        <seg>パラメータ クラスの変更</seg>
       </tuv>
     </tu>
     <tu>
@@ -8293,6 +8320,14 @@ Exception message: {1}</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T130110Z" creationid="miurahr" creationdate="20160724T130110Z">
         <seg>式のタイプが不明です : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extend Class from</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T083324Z" creationid="miurahr" creationdate="20160726T083324Z">
+        <seg>クラスの拡張</seg>
       </tuv>
     </tu>
     <tu>
@@ -20735,8 +20770,8 @@ as a source directory?</seg>
       <tuv lang="EN-US">
         <seg>Wrap using ''{0}''</seg>
       </tuv>
-      <tuv lang="JA" changeid="miurahr" changedate="20160726T083117Z" creationid="miurahr" creationdate="20160726T083117Z">
-        <seg>''{1}'' を使用して ''' を折り返す</seg>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T083127Z" creationid="miurahr" creationdate="20160726T083117Z">
+        <seg>''{0}'' を使用して折り返す</seg>
       </tuv>
     </tu>
     <tu>
