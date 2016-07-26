@@ -5654,6 +5654,14 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deprecated symbol</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T035509Z" creationid="miurahr" creationdate="20160726T035509Z">
+        <seg>非推奨のシンボル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Derived Classes</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T155109Z" creationid="miurahr" creationdate="20160724T155109Z">
@@ -8243,6 +8251,22 @@ Code Style</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T161403Z" creationid="miurahr" creationdate="20160724T161403Z">
         <seg>空の中間パッケージの非表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide Global Inspections</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T035448Z" creationid="miurahr" creationdate="20160726T035448Z">
+        <seg>グローバル検査の非表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide Global Inspections Settings</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T035502Z" creationid="miurahr" creationdate="20160726T035502Z">
+        <seg>グローバル検査設定の非表示</seg>
       </tuv>
     </tu>
     <tu>
@@ -15658,6 +15682,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T230421Z" creationid="miurahr" creationdate="20160724T230421Z">
         <seg>組になる大括弧 [ ] をサポート(&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Suppress all inspections for class</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T035434Z" creationid="miurahr" creationdate="20160726T035434Z">
+        <seg>クラスのすべての検査を抑止</seg>
       </tuv>
     </tu>
     <tu>
