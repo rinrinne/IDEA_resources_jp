@@ -990,6 +990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(INVALID)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T005904Z" creationid="miurahr" creationdate="20160726T005904Z">
+        <seg>(不正)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Read-only)</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T141110Z" creationid="miurahr" creationdate="20160724T141110Z">
@@ -1070,6 +1078,14 @@ Escape the "!" character with a backslash ("\").</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T231331Z" creationid="miurahr" creationdate="20160724T231331Z">
         <seg>1 年間の学校教育向けライセンス。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;% page content %&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T010114Z" creationid="miurahr" creationdate="20160726T010114Z">
+        <seg>&lt;% ページ内容 %&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1454,6 +1470,22 @@ Escape the "!" character with a backslash ("\").</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T123352Z" creationid="miurahr" creationdate="20160724T123352Z">
         <seg>絶対ラベル インデント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Abstract\&amp;nbsp;class</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T010727Z" creationid="miurahr" creationdate="20160726T010711Z">
+        <seg>Abstract\&amp;nbsp;クラス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Accept Resolution</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T005959Z" creationid="miurahr" creationdate="20160726T005959Z">
+        <seg>解決策の適用</seg>
       </tuv>
     </tu>
     <tu>
@@ -2407,6 +2439,22 @@ Escape the "!" character with a backslash ("\").</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T142104Z" creationid="miurahr" creationdate="20160724T142104Z">
         <seg>アプリケーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apply a quickfix</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T005946Z" creationid="miurahr" creationdate="20160726T005946Z">
+        <seg>クイックフィックスの適用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apply an inspection quickfix</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T005953Z" creationid="miurahr" creationdate="20160726T005953Z">
+        <seg>検査クイックフィックスの適用</seg>
       </tuv>
     </tu>
     <tu>
@@ -4061,6 +4109,14 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Class</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T005621Z" creationid="miurahr" creationdate="20160726T005621Z">
+        <seg>クラス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Class ''{0}'' is not loaded</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T130125Z" creationid="miurahr" creationdate="20160724T130125Z">
@@ -4425,6 +4481,14 @@ Escape the "!" character with a backslash ("\").</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T120450Z" creationid="miurahr" creationdate="20160724T120450Z">
         <seg>コード生成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Code Inspection results</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T010245Z" creationid="miurahr" creationdate="20160726T010245Z">
+        <seg>コード検査結果</seg>
       </tuv>
     </tu>
     <tu>
@@ -5333,6 +5397,22 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Declaration has Javadoc problems</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T010408Z" creationid="miurahr" creationdate="20160726T010408Z">
+        <seg>宣言には javadoc に問題があります</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Declaration has problems in Javadoc references</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T010436Z" creationid="miurahr" creationdate="20160726T010436Z">
+        <seg>宣言には javadocの参照に問題があります</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Decrease Font Size</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160725T130605Z" creationid="miurahr" creationdate="20160725T130605Z">
@@ -5498,6 +5578,14 @@ Escape the "!" character with a backslash ("\").</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T003328Z" creationid="miurahr" creationdate="20160724T003328Z">
         <seg>説明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Description is missing in {0} tag for parameter {1}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T010604Z" creationid="miurahr" creationdate="20160726T010604Z">
+        <seg>説明がパラメータ {1} の {0} タグにありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5863,6 +5951,38 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dumping XML...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T010326Z" creationid="miurahr" creationdate="20160726T010326Z">
+        <seg>XML出力中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Duplicate @param tag for parameter ''{0}''</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T010619Z" creationid="miurahr" creationdate="20160726T010619Z">
+        <seg>パラメータ ''{0}'' の @param タグの重複</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Duplicate @throws or @exception tag for exception ''{0}''</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T010627Z" creationid="miurahr" creationdate="20160726T010627Z">
+        <seg>例外 ''{0}'' の @throws または @exception タグの重複</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Duplicate @{0} tag</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T010640Z" creationid="miurahr" creationdate="20160726T010640Z">
+        <seg>@{0} タグの重複</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Duplicates</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T141244Z" creationid="miurahr" creationdate="20160724T141244Z">
@@ -5996,6 +6116,14 @@ Escape the "!" character with a backslash ("\").</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160725T133622Z" creationid="miurahr" creationdate="20160725T133622Z">
         <seg>パターンの編集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit Settings</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T010056Z" creationid="miurahr" creationdate="20160726T010056Z">
+        <seg>設定の編集</seg>
       </tuv>
     </tu>
     <tu>
@@ -6498,6 +6626,14 @@ to {1}:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Error writing to {0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T010228Z" creationid="miurahr" creationdate="20160726T010228Z">
+        <seg>{0} への書き込みエラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Error: {0}</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T004732Z" creationid="miurahr" creationdate="20160724T004732Z">
@@ -6699,6 +6835,14 @@ Exception message: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Export</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T005713Z" creationid="miurahr" creationdate="20160726T005713Z">
+        <seg>エクスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Export Complete</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T232905Z" creationid="miurahr" creationdate="20160724T232905Z">
@@ -6735,6 +6879,14 @@ Exception message: {1}</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T133320Z" creationid="miurahr" creationdate="20160724T133320Z">
         <seg>スレッドのエクスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Export To</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T010335Z" creationid="miurahr" creationdate="20160726T010335Z">
+        <seg>エクスポート先</seg>
       </tuv>
     </tu>
     <tu>
@@ -6913,6 +7065,14 @@ Reason: {1}</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T151655Z" creationid="miurahr" creationdate="20160724T151655Z">
         <seg>機能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Field</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T005624Z" creationid="miurahr" creationdate="20160726T005624Z">
+        <seg>フィールド</seg>
       </tuv>
     </tu>
     <tu>
@@ -7606,6 +7766,22 @@ Do you want overwrite it or to append?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Generating HTML...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T010312Z" creationid="miurahr" creationdate="20160726T010312Z">
+        <seg>HTML を生成中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generating HTML:{0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T010236Z" creationid="miurahr" creationdate="20160726T010236Z">
+        <seg>HTML を生成しています :{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Generating file: {0}</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T124806Z" creationid="miurahr" creationdate="20160724T124806Z">
@@ -7635,6 +7811,22 @@ Code Style</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T123939Z" creationid="miurahr" creationdate="20160724T123939Z">
         <seg> グローバル コード スタイルは&lt;br&gt;[IDE 設定] - [グローバル コード スタイル] で設定できます。&lt;/body&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go Next Problem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T005846Z" creationid="miurahr" creationdate="20160726T005846Z">
+        <seg>次の問題へ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go Prev Problem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T005851Z" creationid="miurahr" creationdate="20160726T005851Z">
+        <seg>前の問題へ</seg>
       </tuv>
     </tu>
     <tu>
@@ -8183,10 +8375,26 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ignore elements marked as @deprecated</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T010447Z" creationid="miurahr" creationdate="20160726T010447Z">
+        <seg>@deprecated としてマークされた要素を無視する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ignore files and folders</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T160443Z" creationid="miurahr" creationdate="20160724T160443Z">
         <seg>次のファイルとフォルダは無視する:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ignore period problems</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T010537Z" creationid="miurahr" creationdate="20160726T010537Z">
+        <seg>ピリオド問題の無視</seg>
       </tuv>
     </tu>
     <tu>
@@ -8495,6 +8703,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Inner class</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T005627Z" creationid="miurahr" creationdate="20160726T005627Z">
+        <seg>内部クラス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Inner classes</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T115800Z" creationid="miurahr" creationdate="20160724T115800Z">
@@ -8631,6 +8847,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Inspection Results Export</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T010219Z" creationid="miurahr" creationdate="20160726T010219Z">
+        <seg>検査結果のエクスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Inspection disabled</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T002946Z" creationid="miurahr" creationdate="20160726T002946Z">
@@ -8715,6 +8939,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T132046Z" creationid="miurahr" creationdate="20160724T132046Z">
         <seg>Integer 値が必要です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interface</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T010659Z" creationid="miurahr" creationdate="20160726T010659Z">
+        <seg>インターフェイス</seg>
       </tuv>
     </tu>
     <tu>
@@ -9689,8 +9921,8 @@ Code Style</seg>
       <tuv lang="EN-US">
         <seg>Make final</seg>
       </tuv>
-      <tuv lang="JA" changeid="miurahr" changedate="20160726T003113Z" creationid="miurahr" creationdate="20160726T003113Z">
-        <seg>推奨する final 修飾子を適用する</seg>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T005450Z" creationid="miurahr" creationdate="20160726T003113Z">
+        <seg> final 修飾子を適用する</seg>
       </tuv>
     </tu>
     <tu>
@@ -9827,6 +10059,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T141103Z" creationid="miurahr" creationdate="20160724T141103Z">
         <seg>マージ カラー オプション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Method</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T005623Z" creationid="miurahr" creationdate="20160726T005623Z">
+        <seg>メソッド</seg>
       </tuv>
     </tu>
     <tu>
@@ -10953,6 +11193,14 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nothing left to show</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T005902Z" creationid="miurahr" creationdate="20160726T005902Z">
+        <seg>表示する内容がありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nothing to reload</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T132317Z" creationid="miurahr" creationdate="20160724T132317Z">
@@ -11141,6 +11389,14 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T145143Z" creationid="miurahr" creationdate="20160724T145143Z">
         <seg>選択したテストをエディタで開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open source</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T010252Z" creationid="miurahr" creationdate="20160726T010252Z">
+        <seg>ソースを開く</seg>
       </tuv>
     </tu>
     <tu>
@@ -11637,6 +11893,14 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T004707Z" creationid="miurahr" creationdate="20160724T004707Z">
         <seg>このターゲットでビルドの初期化を実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Period in the documentation is missing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T010517Z" creationid="miurahr" creationdate="20160726T010517Z">
+        <seg>ドキュメントにピリオドがありません。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -13046,6 +13310,22 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Required Javadoc is absent</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T010503Z" creationid="miurahr" creationdate="20160726T010503Z">
+        <seg>必要な javadoc がありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Required Tags</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T010458Z" creationid="miurahr" creationdate="20160726T010458Z">
+        <seg>必要なタグ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Required parameters: &lt;old_file&gt; &lt;new_file&gt; [&lt;delta_file_name&gt;]</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T002905Z" creationid="miurahr" creationdate="20160726T002905Z">
@@ -13066,6 +13346,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T145343Z" creationid="miurahr" creationdate="20160724T145343Z">
         <seg>{0} を返す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rerun Inspection</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T010010Z" creationid="miurahr" creationdate="20160726T010010Z">
+        <seg>検査の再実行</seg>
       </tuv>
     </tu>
     <tu>
@@ -15785,6 +16073,14 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The period is used by the Javadoc tool to generate the comment for the overview page</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T010544Z" creationid="miurahr" creationdate="20160726T010544Z">
+        <seg>ピリオドは javadoc tool により使用され、概要ページのコメントを生成します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The port to attach to unspecified</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T131003Z" creationid="miurahr" creationdate="20160724T131003Z">
@@ -16795,6 +17091,14 @@ already exists.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T004229Z" creationid="miurahr" creationdate="20160724T004229Z">
         <seg>テスト コンパイラが不要な場合は次のプロパティを非コメント化する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Under construction</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T010344Z" creationid="miurahr" creationdate="20160726T010344Z">
+        <seg>準備中</seg>
       </tuv>
     </tu>
     <tu>
@@ -17825,6 +18129,30 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>abstract\&amp;nbsp;class</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T010730Z" creationid="miurahr" creationdate="20160726T010730Z">
+        <seg>Abstract\&amp;nbsp;クラス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>anonymous</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T010218Z" creationid="miurahr" creationdate="20160726T010218Z">
+        <seg>匿名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>anonymous ({0})</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T010100Z" creationid="miurahr" creationdate="20160726T010100Z">
+        <seg>匿名 ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ant.jar not found in directory ''{0}''</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T002910Z" creationid="miurahr" creationdate="20160724T002910Z">
@@ -18130,6 +18458,14 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>initializer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T010659Z" creationid="miurahr" creationdate="20160726T010659Z">
+        <seg>初期化子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>interface</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T003100Z" creationid="miurahr" creationdate="20160726T003100Z">
@@ -18342,6 +18678,14 @@ as a source directory?</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T144841Z" creationid="miurahr" creationdate="20160723T144841Z">
         <seg>メソッドが継承されたクラスの非修飾名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>noname</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T010106Z" creationid="miurahr" creationdate="20160726T010106Z">
+        <seg>名前なし</seg>
       </tuv>
     </tu>
     <tu>
