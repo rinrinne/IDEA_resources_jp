@@ -1514,6 +1514,14 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Access static member via instance reference</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T045105Z" creationid="miurahr" creationdate="20160726T045105Z">
+        <seg>インスタンス参照を通した静的メンバへのアクセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Across modu&amp;le dependencies</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T145902Z" creationid="miurahr" creationdate="20160724T145902Z">
@@ -8547,6 +8555,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T010537Z" creationid="miurahr" creationdate="20160726T010537Z">
         <seg>ピリオド問題の無視</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Illegal package dependencies</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T045047Z" creationid="miurahr" creationdate="20160726T045047Z">
+        <seg>不正なパッケージ依存関係</seg>
       </tuv>
     </tu>
     <tu>
@@ -17447,6 +17463,14 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unchecked warning</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T045053Z" creationid="miurahr" creationdate="20160726T045053Z">
+        <seg>未チェックの警告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Uncomment the following property if no tests compilation is needed</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T004229Z" creationid="miurahr" creationdate="20160724T004229Z">
@@ -17591,10 +17615,34 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unused import (editor light)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T045136Z" creationid="miurahr" creationdate="20160726T045136Z">
+        <seg>未使用の import (editor light)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unused import statement</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T045126Z" creationid="miurahr" creationdate="20160726T045126Z">
+        <seg>未使用の import 文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unused method parameters</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T004808Z" creationid="miurahr" creationdate="20160726T004718Z">
         <seg>未使用のメソッド パラメータ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unused symbol</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T045110Z" creationid="miurahr" creationdate="20160726T045110Z">
+        <seg>未使用のシンボル</seg>
       </tuv>
     </tu>
     <tu>
@@ -18293,6 +18341,14 @@ as a source directory?</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T003049Z" creationid="miurahr" creationdate="20160724T003049Z">
         <seg>不正な名前のフォーマット : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wrong package statement</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T045042Z" creationid="miurahr" creationdate="20160726T045042Z">
+        <seg>不正な package 文</seg>
       </tuv>
     </tu>
     <tu>
