@@ -4415,6 +4415,22 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Capture Memory Snapshot</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T105319Z" creationid="miurahr" creationdate="20160726T105319Z">
+        <seg>メモリ スナップショットのキャプチャ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Capture memory snapshot</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T105325Z" creationid="miurahr" creationdate="20160726T105325Z">
+        <seg>メモリ スナップショットをキャプチャします</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Captured snapshot ''{0}'' is placed in user home directory.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T113313Z" creationid="miurahr" creationdate="20160724T113304Z">
