@@ -46,6 +46,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;All</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153146Z" creationid="miurahr" creationdate="20160726T153146Z">
+        <seg>すべて(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;All Files</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153138Z" creationid="miurahr" creationdate="20160726T153138Z">
+        <seg>すべてのファイル(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;All files in directory {0}</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T113708Z" creationid="miurahr" creationdate="20160724T113708Z">
@@ -138,6 +154,14 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T151523Z" creationid="miurahr" creationdate="20160724T151407Z">
         <seg>次のコマンド ライン引数を使用してリモート JVM を実行します(&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Comment:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T154037Z" creationid="miurahr" creationdate="20160726T154037Z">
+        <seg>コメント(&amp;C)</seg>
       </tuv>
     </tu>
     <tu>
@@ -410,6 +434,14 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T152618Z" creationid="miurahr" creationdate="20160726T152618Z">
         <seg>インクルード(&amp;I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Include into commit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T154019Z" creationid="miurahr" creationdate="20160726T154019Z">
+        <seg>コミットにインクルードします(&amp;I)</seg>
       </tuv>
     </tu>
     <tu>
@@ -694,6 +726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Reformat code</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153727Z" creationid="miurahr" creationdate="20160726T153727Z">
+        <seg>コードの再フォーマット(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Remember password</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T101422Z" creationid="miurahr" creationdate="20160724T101422Z">
@@ -706,6 +746,14 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T003123Z" creationid="miurahr" creationdate="20160724T003123Z">
         <seg>削除(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Replace</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153048Z" creationid="miurahr" creationdate="20160726T153048Z">
+        <seg>置換(&amp;R)</seg>
       </tuv>
     </tu>
     <tu>
@@ -786,6 +834,14 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160725T150223Z" creationid="miurahr" creationdate="20160725T150223Z">
         <seg>アイコンの設定(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Skip</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153055Z" creationid="miurahr" creationdate="20160726T153055Z">
+        <seg>スキップ(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1166,6 +1222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(none)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153030Z" creationid="miurahr" creationdate="20160726T153030Z">
+        <seg>(なし)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(not specified)</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160725T131424Z" creationid="miurahr" creationdate="20160725T131424Z">
@@ -1290,6 +1354,14 @@ Escape the "!" character with a backslash ("\").</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T232825Z" creationid="miurahr" creationdate="20160723T232825Z">
         <seg>&lt;ビルド ファイルのリストはありません&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;UNKNOWN&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T152731Z" creationid="miurahr" creationdate="20160726T152731Z">
+        <seg>&lt;不明&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1538,6 +1610,14 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;no name&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T152721Z" creationid="miurahr" creationdate="20160726T152721Z">
+        <seg>&lt;名前なし&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;no-name&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T150511Z" creationid="miurahr" creationdate="20160724T150511Z">
@@ -1550,6 +1630,14 @@ Escape the "!" character with a backslash ("\").</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T160719Z" creationid="miurahr" creationdate="20160724T160719Z">
         <seg>&lt;名前なし&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;none&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153643Z" creationid="miurahr" creationdate="20160726T153643Z">
+        <seg>&lt;なし&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1662,6 +1750,14 @@ Escape the "!" character with a backslash ("\").</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T161355Z" creationid="miurahr" creationdate="20160724T161355Z">
         <seg>パッケージ名の略称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Abort</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153620Z" creationid="miurahr" creationdate="20160726T153620Z">
+        <seg>中断</seg>
       </tuv>
     </tu>
     <tu>
@@ -2230,6 +2326,14 @@ Escape the "!" character with a backslash ("\").</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T053556Z" creationid="miurahr" creationdate="20160726T053556Z">
         <seg>カスタム タグに {0} を追加する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Added</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153913Z" creationid="miurahr" creationdate="20160726T153913Z">
+        <seg>追加</seg>
       </tuv>
     </tu>
     <tu>
@@ -5079,6 +5183,14 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Changed &amp;Files</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T154029Z" creationid="miurahr" creationdate="20160726T154029Z">
+        <seg>変更されたファイル(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Changed Files</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160725T160401Z" creationid="miurahr" creationdate="20160725T160401Z">
@@ -5607,6 +5719,14 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click to go to line</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153258Z" creationid="miurahr" creationdate="20160726T153258Z">
+        <seg>クリックして行に移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Clipboard vs Editor</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T140514Z" creationid="miurahr" creationdate="20160724T140514Z">
@@ -5627,6 +5747,14 @@ Escape the "!" character with a backslash ("\").</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T035217Z" creationid="miurahr" creationdate="20160726T035217Z">
         <seg>クローン問題</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Close</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153454Z" creationid="miurahr" creationdate="20160726T153454Z">
+        <seg>閉じる</seg>
       </tuv>
     </tu>
     <tu>
@@ -5819,6 +5947,14 @@ Escape the "!" character with a backslash ("\").</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T161613Z" creationid="miurahr" creationdate="20160724T161613Z">
         <seg>コード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Code Analysis</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153958Z" creationid="miurahr" creationdate="20160726T153958Z">
+        <seg>コードの分析</seg>
       </tuv>
     </tu>
     <tu>
@@ -6163,6 +6299,14 @@ Escape the "!" character with a backslash ("\").</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T142032Z" creationid="miurahr" creationdate="20160726T142032Z">
         <seg>選択した 2 つのファイルを比較します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compare versions</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153856Z" creationid="miurahr" creationdate="20160726T153856Z">
+        <seg>バージョンの比較</seg>
       </tuv>
     </tu>
     <tu>
@@ -6935,6 +7079,14 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create New Folder</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153347Z" creationid="miurahr" creationdate="20160726T153347Z">
+        <seg>新規フォルダの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create New Interface</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T232706Z" creationid="miurahr" creationdate="20160724T232706Z">
@@ -7279,6 +7431,14 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Created</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153805Z" creationid="miurahr" creationdate="20160726T153805Z">
+        <seg>作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creating class {0}</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T232305Z" creationid="miurahr" creationdate="20160724T232305Z">
@@ -7475,6 +7635,14 @@ Escape the "!" character with a backslash ("\").</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T050226Z" creationid="miurahr" creationdate="20160726T050226Z">
         <seg>削除(&amp;L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Debug</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153223Z" creationid="miurahr" creationdate="20160726T153223Z">
+        <seg>デバッグ</seg>
       </tuv>
     </tu>
     <tu>
@@ -7833,6 +8001,14 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deleted:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T154047Z" creationid="miurahr" creationdate="20160726T154047Z">
+        <seg>削除:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deleting</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T160937Z" creationid="miurahr" creationdate="20160724T160937Z">
@@ -8062,6 +8238,14 @@ Escape the "!" character with a backslash ("\").</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T142027Z" creationid="miurahr" creationdate="20160726T142027Z">
         <seg>ディレクトリ/パッケージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Directory: {0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T154136Z" creationid="miurahr" creationdate="20160726T154136Z">
+        <seg>ディレクトリ: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -8758,6 +8942,14 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Edit filter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T152841Z" creationid="miurahr" creationdate="20160726T152841Z">
+        <seg>フィルタの編集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit source</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T143822Z" creationid="miurahr" creationdate="20160726T143822Z">
@@ -9434,6 +9626,14 @@ to {1}:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exception</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153549Z" creationid="miurahr" creationdate="20160726T153549Z">
+        <seg>例外</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exception  ''{0}'' in thread ''{1}''</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T130653Z" creationid="miurahr" creationdate="20160724T130653Z">
@@ -9876,6 +10076,14 @@ Exception message: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>External tool ''{0}''</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153017Z" creationid="miurahr" creationdate="20160726T153017Z">
+        <seg>外部ツール "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Extract interface from the selected class</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T143117Z" creationid="miurahr" creationdate="20160726T143117Z">
@@ -9992,6 +10200,14 @@ Reason: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Favorites</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153220Z" creationid="miurahr" creationdate="20160726T153220Z">
+        <seg>お気に入り</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Favorites View Popup Menu</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T045914Z" creationid="miurahr" creationdate="20160726T045914Z">
@@ -10100,6 +10316,14 @@ Reason: {1}</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T142027Z" creationid="miurahr" creationdate="20160726T142027Z">
         <seg>ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File ''{0}'' is read-only.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153200Z" creationid="miurahr" creationdate="20160726T153200Z">
+        <seg>ファイル {0} は読み取り専用です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10338,6 +10562,14 @@ Do you want overwrite it or to append?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>File: {0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T154140Z" creationid="miurahr" creationdate="20160726T154140Z">
+        <seg>ファイル: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Files</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T161611Z" creationid="miurahr" creationdate="20160724T161611Z">
@@ -10374,6 +10606,22 @@ Do you want overwrite it or to append?</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T233347Z" creationid="miurahr" creationdate="20160724T233347Z">
         <seg>このタイプのファイルは {0} で開けません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Files {0} are read-only.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153209Z" creationid="miurahr" creationdate="20160726T153209Z">
+        <seg>ファイル {0} は読み取り専用です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T152843Z" creationid="miurahr" creationdate="20160726T152843Z">
+        <seg>フィルタ</seg>
       </tuv>
     </tu>
     <tu>
@@ -11516,6 +11764,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Group by Packages</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153924Z" creationid="miurahr" creationdate="20160726T153924Z">
+        <seg>パッケージ別にグループ化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Group by Scope Type</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160725T160250Z" creationid="miurahr" creationdate="20160725T160250Z">
@@ -11544,6 +11800,30 @@ Code Style</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T134751Z" creationid="miurahr" creationdate="20160724T134751Z">
         <seg>メソッド単位でグループ化する(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Group by module</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153448Z" creationid="miurahr" creationdate="20160726T153448Z">
+        <seg>モジュール別にグループ化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Group by package</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153451Z" creationid="miurahr" creationdate="20160726T153451Z">
+        <seg>パッケージ別にグループ化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Group:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T152853Z" creationid="miurahr" creationdate="20160726T152853Z">
+        <seg>グループ:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11700,6 +11980,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hide</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153245Z" creationid="miurahr" creationdate="20160726T153245Z">
+        <seg>非表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hide All _Tool Windows</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T143423Z" creationid="miurahr" creationdate="20160726T143423Z">
@@ -11788,6 +12076,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hierarchy</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153228Z" creationid="miurahr" creationdate="20160726T153228Z">
+        <seg>階層</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hierarchy of {0}</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160725T160349Z" creationid="miurahr" creationdate="20160725T160349Z">
@@ -11832,6 +12128,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T141619Z" creationid="miurahr" creationdate="20160724T141619Z">
         <seg>強調表示レベル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>History is empty</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153703Z" creationid="miurahr" creationdate="20160726T153703Z">
+        <seg>履歴は空です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12064,6 +12368,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T010537Z" creationid="miurahr" creationdate="20160726T010537Z">
         <seg>ピリオド問題の無視</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ignored</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153637Z" creationid="miurahr" creationdate="20160726T153637Z">
+        <seg>無視</seg>
       </tuv>
     </tu>
     <tu>
@@ -12604,6 +12916,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Insert &amp;macro...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T152911Z" creationid="miurahr" creationdate="20160726T152907Z">
+        <seg>マクロの挿入(&amp;M)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insert ''({0}){1}'' declaration</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T054337Z" creationid="miurahr" creationdate="20160726T054337Z">
@@ -12680,6 +13000,22 @@ Code Style</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T120734Z" creationid="miurahr" creationdate="20160724T120734Z">
         <seg>インナークラスのインポートを挿入する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insert m&amp;acro...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T152919Z" creationid="miurahr" creationdate="20160726T152919Z">
+        <seg>マクロの挿入(&amp;a)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insert ma&amp;cro...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T152930Z" creationid="miurahr" creationdate="20160726T152930Z">
+        <seg>マクロの挿入(&amp;C)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -14326,6 +14662,14 @@ JavaDoc を生成できません。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mask: {0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T154148Z" creationid="miurahr" creationdate="20160726T154148Z">
+        <seg>マスク: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Maximum &amp;heap size (Mb):</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T003254Z" creationid="miurahr" creationdate="20160724T003249Z">
@@ -14378,6 +14722,14 @@ JavaDoc を生成できません。</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T141103Z" creationid="miurahr" creationdate="20160724T141103Z">
         <seg>マージ カラー オプション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merged</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153634Z" creationid="miurahr" creationdate="20160726T153634Z">
+        <seg>マージ</seg>
       </tuv>
     </tu>
     <tu>
@@ -14594,10 +14946,26 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Modified</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153807Z" creationid="miurahr" creationdate="20160726T153807Z">
+        <seg>変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Modified Lines</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T122027Z" creationid="miurahr" creationdate="20160724T122027Z">
         <seg>変更行のみ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modified:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T154043Z" creationid="miurahr" creationdate="20160726T154043Z">
+        <seg>変更:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14766,6 +15134,14 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T004720Z" creationid="miurahr" creationdate="20160724T004720Z">
         <seg>モジュール {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Module:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153531Z" creationid="miurahr" creationdate="20160726T153531Z">
+        <seg>モジュール:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15014,6 +15390,14 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T141559Z" creationid="miurahr" creationdate="20160724T141559Z">
         <seg>カーソルの移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move D&amp;own</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T152822Z" creationid="miurahr" creationdate="20160726T152822Z">
+        <seg>下へ移動(&amp;O)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15642,6 +16026,14 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>New:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T154045Z" creationid="miurahr" creationdate="20160726T154045Z">
+        <seg>新規:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Next C_hange</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T142917Z" creationid="miurahr" creationdate="20160726T142917Z">
@@ -15810,6 +16202,14 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No external tools configured</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153002Z" creationid="miurahr" creationdate="20160726T153002Z">
+        <seg>外部ツールは設定されていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No fields to display</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T134927Z" creationid="miurahr" creationdate="20160724T134927Z">
@@ -15918,6 +16318,14 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T141700Z" creationid="miurahr" creationdate="20160724T141700Z">
         <seg>モジュールが定義されていません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T152809Z" creationid="miurahr" creationdate="20160726T152809Z">
+        <seg>名前なし</seg>
       </tuv>
     </tu>
     <tu>
@@ -16066,6 +16474,14 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No usages found in {0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153613Z" creationid="miurahr" creationdate="20160726T153613Z">
+        <seg>{0}に使用箇所は見つかりません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No wrap</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T124937Z" creationid="miurahr" creationdate="20160724T124937Z">
@@ -16182,6 +16598,14 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T133818Z" creationid="miurahr" creationdate="20160724T133818Z">
         <seg>再読み込み対象がありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nothing to show</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153419Z" creationid="miurahr" creationdate="20160726T153419Z">
+        <seg>表示する内容がありません</seg>
       </tuv>
     </tu>
     <tu>
@@ -16602,10 +17026,26 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Output &amp;Filters...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T152900Z" creationid="miurahr" creationdate="20160726T152900Z">
+        <seg>出力フィルタ(&amp;F)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Output &amp;directory:</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T045547Z" creationid="miurahr" creationdate="20160726T045547Z">
         <seg>出力ディレクトリ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Output Filters</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T152838Z" creationid="miurahr" creationdate="20160726T152838Z">
+        <seg>出力フィルタ</seg>
       </tuv>
     </tu>
     <tu>
@@ -16952,6 +17392,14 @@ Do you want to create it?</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T151339Z" creationid="miurahr" creationdate="20160726T151339Z">
         <seg>パラメータ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Parameters:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T152913Z" creationid="miurahr" creationdate="20160726T152913Z">
+        <seg>パラメータ:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17606,6 +18054,14 @@ be marked as source paths.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Preview {0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153600Z" creationid="miurahr" creationdate="20160726T153600Z">
+        <seg>プレビュー{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Previous Ch_ange</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T142921Z" creationid="miurahr" creationdate="20160726T142921Z">
@@ -18238,6 +18694,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>RUNNING</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T152737Z" creationid="miurahr" creationdate="20160726T152737Z">
+        <seg>実行中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>R_ecent Changes</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T142811Z" creationid="miurahr" creationdate="20160726T142811Z">
@@ -18298,6 +18762,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160725T145553Z" creationid="miurahr" creationdate="20160725T145553Z">
         <seg>削除(&amp;M)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Read-only</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153527Z" creationid="miurahr" creationdate="20160726T153527Z">
+        <seg>読み取り専用</seg>
       </tuv>
     </tu>
     <tu>
@@ -18586,6 +19058,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T233536Z" creationid="miurahr" creationdate="20160724T233536Z">
         <seg>ファイルの再読み込み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reload From Disk</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153338Z" creationid="miurahr" creationdate="20160726T153338Z">
+        <seg>ディスクからの再読み込み</seg>
       </tuv>
     </tu>
     <tu>
@@ -19062,6 +19542,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Replace All in This &amp;File</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153129Z" creationid="miurahr" creationdate="20160726T153129Z">
+        <seg>このファイルの全てを置き換え(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Replace By when using lookup</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T153317Z" creationid="miurahr" creationdate="20160724T153317Z">
@@ -19306,6 +19794,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T010010Z" creationid="miurahr" creationdate="20160726T010010Z">
         <seg>検査の再実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rerun search</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153506Z" creationid="miurahr" creationdate="20160726T153506Z">
+        <seg>検索の再実行</seg>
       </tuv>
     </tu>
     <tu>
@@ -20606,6 +21102,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Selected {0} files</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T154211Z" creationid="miurahr" creationdate="20160726T154201Z">
+        <seg>選択した{0}このファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Selection</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160725T160326Z" creationid="miurahr" creationdate="20160725T160326Z">
@@ -21646,10 +22150,26 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Skip To &amp;Next File</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153118Z" creationid="miurahr" creationdate="20160726T153114Z">
+        <seg>次のファイルまでスキップ(&amp;N)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Skip simple &amp;getters</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T133054Z" creationid="miurahr" creationdate="20160724T133054Z">
         <seg>シンプルな getter はスキップする(&amp;G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Skipped</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153811Z" creationid="miurahr" creationdate="20160726T153811Z">
+        <seg>スキップ</seg>
       </tuv>
     </tu>
     <tu>
@@ -22046,6 +22566,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Status</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153653Z" creationid="miurahr" creationdate="20160726T153653Z">
+        <seg>ステータス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Step Ou_t</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T143225Z" creationid="miurahr" creationdate="20160726T143225Z">
@@ -22250,6 +22778,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T122746Z" creationid="miurahr" creationdate="20160724T122746Z">
         <seg>保存時に行末のスペースを削除する:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Structure</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153217Z" creationid="miurahr" creationdate="20160726T153217Z">
+        <seg>構造</seg>
       </tuv>
     </tu>
     <tu>
@@ -22622,6 +23158,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TERMINATED</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T152740Z" creationid="miurahr" creationdate="20160726T152740Z">
+        <seg>中止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tab Appearance</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T122503Z" creationid="miurahr" creationdate="20160724T122503Z">
@@ -22714,6 +23258,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T171350Z" creationid="miurahr" creationdate="20160723T171350Z">
         <seg>ターゲット: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Targets</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153428Z" creationid="miurahr" creationdate="20160726T153428Z">
+        <seg>ターゲット</seg>
       </tuv>
     </tu>
     <tu>
@@ -24316,6 +24868,30 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tool settings</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T152945Z" creationid="miurahr" creationdate="20160726T152945Z">
+        <seg>ツール設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tools</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T152942Z" creationid="miurahr" creationdate="20160726T152942Z">
+        <seg>ツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tools:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T152950Z" creationid="miurahr" creationdate="20160726T152950Z">
+        <seg>ツール:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Top</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T122133Z" creationid="miurahr" creationdate="20160724T122133Z">
@@ -24464,6 +25040,14 @@ already exists.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T130119Z" creationid="miurahr" creationdate="20160724T130119Z">
         <seg>タイプの不一致</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type parameter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153554Z" creationid="miurahr" creationdate="20160726T153554Z">
+        <seg>型パラメータ</seg>
       </tuv>
     </tu>
     <tu>
@@ -24716,6 +25300,14 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unknown external tool</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153009Z" creationid="miurahr" creationdate="20160726T153009Z">
+        <seg>未知の外部ツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unknown version</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T232942Z" creationid="miurahr" creationdate="20160723T232942Z">
@@ -24844,10 +25436,34 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Update</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153657Z" creationid="miurahr" creationdate="20160726T153657Z">
+        <seg>アップデート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Update Plugin</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160725T131459Z" creationid="miurahr" creationdate="20160725T131459Z">
         <seg>プラグインのアップデート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update {0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153946Z" creationid="miurahr" creationdate="20160726T153946Z">
+        <seg>アップデート{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Updated</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153738Z" creationid="miurahr" creationdate="20160726T153738Z">
+        <seg>アップデート</seg>
       </tuv>
     </tu>
     <tu>
@@ -25592,6 +26208,14 @@ already exists.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T120945Z" creationid="miurahr" creationdate="20160724T120945Z">
         <seg>サブパッケージを含む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Working directory:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T152925Z" creationid="miurahr" creationdate="20160726T152925Z">
+        <seg>作業ディレクトリ:</seg>
       </tuv>
     </tu>
     <tu>
@@ -26612,6 +27236,14 @@ as a source directory?</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T142045Z" creationid="miurahr" creationdate="20160726T142045Z">
         <seg>プロジェクトの更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>_Update {0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153937Z" creationid="miurahr" creationdate="20160726T153937Z">
+        <seg>更新(&amp;U) {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -27649,6 +28281,14 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>usage</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153436Z" creationid="miurahr" creationdate="20160726T153436Z">
+        <seg>使用箇所</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>usages</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T151303Z" creationid="miurahr" creationdate="20160726T151303Z">
@@ -27809,6 +28449,14 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{0} chars</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153313Z" creationid="miurahr" creationdate="20160726T153313Z">
+        <seg>{0}文字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{0} class initializer</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T082345Z" creationid="miurahr" creationdate="20160726T082345Z">
@@ -27921,6 +28569,14 @@ Please enter pattern string in a new format.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160725T133254Z" creationid="miurahr" creationdate="20160725T133254Z">
         <seg>{0} ライブラリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} lines</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160726T153308Z" creationid="miurahr" creationdate="20160726T153308Z">
+        <seg>{0}行</seg>
       </tuv>
     </tu>
     <tu>
