@@ -5,12 +5,14 @@ allprojects {
      ext {
         target15Dir = new File(rootDir, 'target/15')
         target16Dir = new File(rootDir, 'target/2016')
+        targetAndDir = new File(rootDir, 'target/and')
     }
 }
 
 task cleanRootDirs(type: Delete) {
     delete target15Dir
     delete target16Dir
+    delete targetAndDir
     delete new File(rootDir, "build")
 }
 
@@ -46,6 +48,33 @@ subprojects {
     processResources.dependsOn processPropertiesFile
     build.dependsOn copyDistFiles
     copyDistFiles.mustRunAfter jar
+}
+
+project(":resource-and") {
+    apply plugin: 'java'
+    defaultTasks 'jar'
+    jar.baseName = 'resources_ja'
+    jar.appendix = 'and'
+
+    task processResourceFiles(dependsOn: [prepareDir, '::translateResources']) << {
+        ["search", "messages"].each { src ->
+            copy {
+                from new File(targetAndDir, src)
+                into new File(sourceSets.main.resources.srcDirs[0], src)
+            }
+        }
+
+        ["fileTemplates", "inspectionDescriptions", "intentionDescriptions",
+         "postfixTemplates", "tips"].each { src ->
+            copy {
+                from new File(targetAndDir, src)
+                into new File(sourceSets.main.resources.srcDirs[0], src + "_ja")
+            }
+        }
+    }
+    processResources.dependsOn processResourceFiles
+    processPropertiesFile.dependsOn processResourceFiles
+    clean.dependsOn removeDir
 }
 
 project(":resources-2016") {
