@@ -50,3 +50,6 @@ hierarchy tree	階層ツリー
 navigation bar	ナビゲーションバー
 Locale	ロケール
  attribute	属性
+Generalize	一般化
+method body	メソッド本体
+catch	catch句
