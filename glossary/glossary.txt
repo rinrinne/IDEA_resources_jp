@@ -46,5 +46,6 @@ super class	スーパークラス
 throws clause	throws句
 throws declaration	throws宣言
 type	タイプ
-
-
+hierarchy tree	階層ツリー
+navigation bar	ナビゲーションバー
+Locale	ロケール
