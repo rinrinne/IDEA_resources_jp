@@ -1674,6 +1674,16 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&amp;shortcut:EditorJoinLines;&lt;/s0&gt; shortcut joins two lines into one and removes unnecessary space to match your code style.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T004921Z" creationid="miurahr" creationdate="20160727T004921Z">
+        <seg>&lt;s0&gt;&amp;shortcut:EditorJoinLines;&lt;/s0&gt;ショートカットは
+、コード スタイルと一致するように、2 つの行を結合して不必要なスペースを削除します。&lt;/p&gt;
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;&amp;shortcut:EditorSelectWord;&lt;/s0&gt; (extend selection) in the editor selects the word at the caret and then selects expanding areas of the source code.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T231405Z" creationid="miurahr" creationdate="20160726T231405Z">
@@ -1686,6 +1696,31 @@ Escape the "!" character with a backslash ("\").</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T231644Z" creationid="miurahr" creationdate="20160726T231644Z">
         <seg>&lt;s0&gt;&amp;shortcut:HideActiveWindow;&lt;/s0&gt;キーは、フォーカスをエディタから最後にフォーカスされていたツール ウィンドウに移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&amp;shortcut:JumpToLastChange;&lt;/s0&gt; (&lt;s1&gt;Navigate | Last Edit Location&lt;/s1&gt;) brings you back to the last place where you made changes in the code.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T005010Z" creationid="miurahr" creationdate="20160727T005010Z">
+        <seg>&lt;s0&gt;&amp;shortcut:JumpToLastChange;&lt;/s0&gt; (&lt;s1&gt;[移動] - [最後の編集位置]&lt;/s1&gt;)      は、コードで変更した最後の位置に移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;&amp;shortcut:RecentFiles;&lt;/s0&gt; (&lt;s1&gt;View | Recent Files&lt;/s1&gt;) brings a popup list of the recently visited files.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T124531Z" creationid="miurahr" creationdate="20160727T124531Z">
+        <seg>&lt;s0&gt;&amp;shortcut:RecentFiles;&lt;/s0&gt; (&lt;s1&gt;[表示] - [最近使ったファイル...]&lt;/s1&gt;)は、最近使ったファイルのポップアップ リストを表示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;*&lt;/s0&gt; stands for any symbol.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T214058Z" creationid="miurahr" creationdate="20160727T214058Z">
+        <seg>&lt;s0&gt;*&lt;/s0&gt; は任意のシンボルを表します。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -2726,6 +2761,14 @@ Escape the "!" character with a backslash ("\").</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T145848Z" creationid="miurahr" creationdate="20160723T145848Z">
         <seg> &lt;i0&gt;ファイルヘッダー&lt;/i0&gt; テンプレートからの事前定義された変数全て (tab&lt;i1&gt;を含め&lt;/i1&gt; ) は (例えば &lt;f2&gt;&lt;b3&gt;${USER}&lt;/b3&gt;&lt;/f2&gt;, &lt;f4&gt;&lt;b5&gt;${DATE}&lt;/b5&gt;&lt;/f4&gt;など)としても有効です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All the words from the current file that start with the typed prefix will appear in the lookup list.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T214256Z" creationid="miurahr" creationdate="20160727T214256Z">
+        <seg>入力した接頭辞ではじまる現在のファイルに含まれている用語がルックアップ リストに表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4244,6 +4287,15 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By pressing &lt;s0&gt;&amp;shortcut:ChooseRunConfiguration;&lt;/s0&gt; you can access the Run/Debug dropdown on the main toolbar, without the need to use your mouse.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T125635Z" creationid="miurahr" creationdate="20160727T125635Z">
+        <seg>&lt;s0&gt;&amp;shortcut:ChooseRunConfiguration;&lt;/s0&gt; を押すと
+、マウスを使用しないで、メイン ツールバーの [実行/デバッグ] ドロップダウンにアクセスできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>C&amp;lass</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T150020Z" creationid="miurahr" creationdate="20160724T150020Z">
@@ -4855,6 +4907,14 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot perform refactoring operation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T214422Z" creationid="miurahr" creationdate="20160727T214422Z">
+        <seg>リファクタリング操作を実施できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot pop bottom frame</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T131421Z" creationid="miurahr" creationdate="20160724T131421Z">
@@ -4987,6 +5047,74 @@ Escape the "!" character with a backslash ("\").</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T122302Z" creationid="miurahr" creationdate="20160724T122302Z">
         <seg>キャレットの点滅間隔（ミリ秒）:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Caret should be positioned at the name of element to be refactored</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T214911Z" creationid="miurahr" creationdate="20160727T214911Z">
+        <seg>キャレットはリファクタリングするメソッドまたはローカル変数の
+名前で使用してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Caret should be positioned at the name of local variable or expression to be refactored</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T215004Z" creationid="miurahr" creationdate="20160727T215004Z">
+        <seg>キャレットはリファクタリングするローカル変数または、表現の名前で使用してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Caret should be positioned at the name of local variable to be refactored</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T214922Z" creationid="miurahr" creationdate="20160727T214922Z">
+        <seg>キャレットはリファクタリングするローカル変数の名前で使用してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Caret should be positioned at the name of method or class to be refactored</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T214636Z" creationid="miurahr" creationdate="20160727T214636Z">
+        <seg>キャレットはリファクタリングする
+メソッドまたはクラスの名前で使用してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Caret should be positioned inside anonymous class to be refactored</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T214817Z" creationid="miurahr" creationdate="20160727T214701Z">
+        <seg>キャレットはリファクタリングする匿名クラスの内部で使用してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Caret should be positioned inside class to be refactored</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T214808Z" creationid="miurahr" creationdate="20160727T214808Z">
+        <seg>キャレットはリファクタリングするクラスの内部で使用してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Caret should be positioned inside constructor to be refactored</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T214629Z" creationid="miurahr" creationdate="20160727T214629Z">
+        <seg>キャレットはリファクタリングするコンスト
+ラクタの内部で使用してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Caret should be positioned inside method to be refactored</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T214621Z" creationid="miurahr" creationdate="20160727T214621Z">
+        <seg>キャレットはリファクタリングするメソッドの内部
+で使用してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5527,10 +5655,27 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose symbol from the drop-down list that appears.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T001510Z" creationid="miurahr" creationdate="20160727T001510Z">
+        <seg>表示されるドロップダウン リストからシンボルを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose the class from a drop-down list that appears.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T232938Z" creationid="miurahr" creationdate="20160726T232938Z">
         <seg>表示されるドロップダウン リストからクラスを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose the desired file and press &lt;s2&gt;Enter&lt;/s2&gt; to open it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T124607Z" creationid="miurahr" creationdate="20160727T124545Z">
+        <seg> リストでファイルを選択して &lt;s2&gt;Enter&lt;/s2&gt;を押すと、そのファイルが表示されます。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -5691,6 +5836,15 @@ Escape the "!" character with a backslash ("\").</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T233735Z" creationid="miurahr" creationdate="20160724T233735Z">
         <seg>クラス名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class name should be specified</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T214537Z" creationid="miurahr" creationdate="20160727T214537Z">
+        <seg>クラス名を指定してください
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -6743,6 +6897,14 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Constructor Parameters</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T214615Z" creationid="miurahr" creationdate="20160727T214615Z">
+        <seg>コンストラクタ パラメータ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Constructors</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T115715Z" creationid="miurahr" creationdate="20160724T115715Z">
@@ -6867,6 +7029,14 @@ Escape the "!" character with a backslash ("\").</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T143138Z" creationid="miurahr" creationdate="20160726T143138Z">
         <seg>匿名クラスを内部クラスに変換(_Y)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Convert Anonymous to Inner</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T214529Z" creationid="miurahr" creationdate="20160727T214529Z">
+        <seg>匿名を内部に変換</seg>
       </tuv>
     </tu>
     <tu>
@@ -11282,10 +11452,44 @@ Do you want overwrite it or to append?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, in the code fragment below, you can select an expression in the code:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T004650Z" creationid="miurahr" creationdate="20160727T004650Z">
+        <seg>例えば、次のコード フラグメントで式を選択します。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, start typing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T213450Z" creationid="miurahr" creationdate="20160727T213450Z">
+        <seg>例えば、
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, start typing a class name and press &lt;s0&gt;&amp;shortcut:CodeCompletion;&lt;/s0&gt; to complete it.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T225139Z" creationid="miurahr" creationdate="20160726T225139Z">
         <seg>例えば、クラス名の入力を開始して&lt;s0&gt; &amp;shortcut:CodeCompletion;&lt;/s0&gt; を押すと、入力が完了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, type</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T005306Z" creationid="miurahr" creationdate="20160727T005306Z">
+        <seg>例えば、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, type &lt;s2&gt;it&lt;/s2&gt; and press &lt;s3&gt;&amp;shortcut:InsertLiveTemplate;&lt;/s3&gt; to see what happens.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T004615Z" creationid="miurahr" creationdate="20160727T004615Z">
+        <seg>例えば、&lt;s2&gt;it&lt;/s2&gt; と入力し&lt;s3&gt;&amp;shortcut:InsertLiveTemplate;&lt;/s3&gt;  を押してみてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11302,6 +11506,14 @@ Do you want overwrite it or to append?</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T121201Z" creationid="miurahr" creationdate="20160724T121201Z">
         <seg>ステートメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the pattern search in the &lt;s0&gt;Go to Class&lt;/s0&gt;, &lt;s1&gt;Go to Symbol&lt;/s1&gt; and &lt;s2&gt;Go to File&lt;/s2&gt; pop-up frames, use &lt;s3&gt;*&lt;/s3&gt; and space symbols.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T214043Z" creationid="miurahr" creationdate="20160727T214043Z">
+        <seg>&lt;s0&gt;クラスに移動&lt;/s0&gt; 、      &lt;s1&gt;シンボルに移動&lt;/s1&gt; および、      &lt;s2&gt;ファイルに移動&lt;/s2&gt; ポップアップでは、パターン検索用に      &lt;s3&gt;*&lt;/s3&gt; およびスペース シンボルを使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12516,6 +12728,15 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you close the dialog, you can always get back to it from the &lt;s0&gt;Help | Tip of the Day&lt;/s0&gt; main menu item.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T213835Z" creationid="miurahr" creationdate="20160727T213835Z">
+        <seg>ダイアログを閉じた場合、&lt;s0&gt;[ヘルプ] - [ヒント]&lt;/s0&gt;
+を選択すると、ダイアログが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ignore</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T141015Z" creationid="miurahr" creationdate="20160724T141015Z">
@@ -13056,6 +13277,17 @@ Code Style</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T005627Z" creationid="miurahr" creationdate="20160726T005627Z">
         <seg>内部クラス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inner class named ''{0}'' is already defined
+in class ''{1}''</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T214551Z" creationid="miurahr" creationdate="20160727T214551Z">
+        <seg>内部クラス ''{0}'' は既に
+クラス ''{1}'' で定義されています
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -13628,6 +13860,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is possible to rename CSS selectors directly from HTML.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T125121Z" creationid="miurahr" creationdate="20160727T125121Z">
+        <seg>HTML から CSS セレクタの名前を直接変更することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It shows the list of members of the current class.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T232504Z" creationid="miurahr" creationdate="20160726T232504Z">
@@ -13934,10 +14174,27 @@ JavaDoc を生成できません。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Just press &lt;s0&gt;&amp;shortcut:QuickChangeScheme;&lt;/s0&gt; (&lt;s1&gt;View | Quick Switch Scheme&lt;/s1&gt;), to specify the scheme you want to change.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T124427Z" creationid="miurahr" creationdate="20160727T124427Z">
+        <seg>  &lt;s0&gt;&amp;shortcut:QuickChangeScheme;&lt;/s0&gt;    (&lt;s1&gt;[表示] - [スキームのクイック切り替え]&lt;/s1&gt;)を押して、変更するスキームを指定するだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Just press &lt;s1&gt;&amp;shortcut:$Copy;&lt;/s1&gt; on any element in the lookup list.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T230730Z" creationid="miurahr" creationdate="20160726T230730Z">
         <seg>ルックアップ リストの要素の上で &lt;s1&gt;&amp;shortcut:$Copy;&lt;/s1&gt; を押すだけでコピーできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Just press &lt;s1&gt;&amp;shortcut:IntroduceVariable;&lt;/s1&gt;, and choose the desired expression:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T004841Z" creationid="miurahr" creationdate="20160727T004814Z">
+        <seg>エディタで該当するブロックを選択して、&lt;s1&gt;&amp;shortcut:I
+ntroduceVariable;&lt;/s1&gt;を押してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14382,6 +14639,14 @@ JavaDoc を生成できません。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Live Templates allow you to generate many typical code constructs in seconds!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T005251Z" creationid="miurahr" creationdate="20160727T005251Z">
+        <seg>ライブ テンプレートを使用すると、さまざまな一般的なコード構造を瞬時に生成できます！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Load File</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T113534Z" creationid="miurahr" creationdate="20160724T113534Z">
@@ -14578,6 +14843,14 @@ JavaDoc を生成できません。</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160725T133512Z" creationid="miurahr" creationdate="20160725T133512Z">
         <seg>TODO の検索...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Looking for Usages</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T214351Z" creationid="miurahr" creationdate="20160727T214351Z">
+        <seg>使用箇所を検索</seg>
       </tuv>
     </tu>
     <tu>
@@ -14786,6 +15059,15 @@ JavaDoc を生成できません。</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T003302Z" creationid="miurahr" creationdate="20160724T003302Z">
         <seg>バックグラウンドでビルドをメイクする(&amp;B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make class &amp;static</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T214602Z" creationid="miurahr" creationdate="20160727T214602Z">
+        <seg>クラスを静的にする(&amp;S)
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -16586,6 +16868,14 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No occurrences found</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T214519Z" creationid="miurahr" creationdate="20160727T214519Z">
+        <seg>対象が見つかりません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No problems found</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T125705Z" creationid="miurahr" creationdate="20160724T125705Z">
@@ -18006,6 +18296,15 @@ be marked as source paths.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please perform usage search again.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T214500Z" creationid="miurahr" creationdate="20160727T214500Z">
+        <seg>使用箇所を再検索してください。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please select previous {0} config folder or installation home</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T115100Z" creationid="miurahr" creationdate="20160724T115026Z">
@@ -18222,6 +18521,14 @@ be marked as source paths.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Position the caret at the selector to be renamed and press &lt;s0&gt;&amp;shortcut:RenameElement;&lt;/s0&gt; (&lt;s1&gt;Refactor | Rename&lt;/s1&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T125224Z" creationid="miurahr" creationdate="20160727T125113Z">
+        <seg>名前を変更するセレクタにエディタのキャレットを移動して&lt;s0&gt;&amp;shortcut:RenameElement;&lt;/s0&gt; (&lt;s1&gt;[リファクタリング] - [名前の変更...]&lt;&lt;/s1&gt;)を押します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Potentially confusing code constructs</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T035011Z" creationid="miurahr" creationdate="20160726T035011Z">
@@ -18282,6 +18589,23 @@ be marked as source paths.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T230301Z" creationid="miurahr" creationdate="20160726T230301Z">
         <seg>現在のメソッドの宣言へスクロールせず、その場に表示するには &lt;s0&gt;&amp;shortcut:EditorContextInfo;&lt;/s0&gt; (&lt;s1&gt;[表示] - [コンテキスト情報]&lt;/s1&gt;)を押します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press &lt;s0&gt;&amp;shortcut:EditorEscape;&lt;/s0&gt; to remove highlighting.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T003000Z" creationid="miurahr" creationdate="20160727T003000Z">
+        <seg>強調表示を削除するには、 &lt;s0&gt;&amp;shortcut:EditorEscape;&lt;/s0&gt; を押します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pressing &lt;s0&gt;&amp;shortcut:JumpToLastChange;&lt;/s0&gt; a few times moves you deeper into your changes history.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T005021Z" creationid="miurahr" creationdate="20160727T005021Z">
+        <seg>&lt;s0&gt;&amp;shortcut:JumpToLastChange;&lt;/s0&gt; を複
+数回押すと、押した回数に応じて変更履歴でより以前の位置に移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19194,6 +19518,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T153832Z" creationid="miurahr" creationdate="20160724T153832Z">
         <seg>リファクタリング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refactoring Preview</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T214406Z" creationid="miurahr" creationdate="20160727T214406Z">
+        <seg>リファクタリングプレビュー</seg>
       </tuv>
     </tu>
     <tu>
@@ -21014,6 +21346,15 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See &lt;s1&gt;File | Settings | Live Templates&lt;/s1&gt; for more details.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T005412Z" creationid="miurahr" creationdate="20160727T005412Z">
+        <seg>詳細は、&lt;s1&gt;[ファイル] - [設定] - [ライブ テンプレート]&lt;/s1&gt;
+     を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See Details and Submit Report</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T140211Z" creationid="miurahr" creationdate="20160724T140211Z">
@@ -21274,6 +21615,15 @@ Code Style</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T154350Z" creationid="miurahr" creationdate="20160726T154350Z">
         <seg>ブレークポイントの選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select a code fragment and press &lt;s0&gt;&amp;shortcut:MoveStatementUp;&lt;/s0&gt; or &lt;s1&gt;&amp;shortcut:MoveStatementDown;&lt;/s1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T122912Z" creationid="miurahr" creationdate="20160727T122912Z">
+        <seg>例えば、2 つの行を選択して、 &lt;s0&gt;&amp;shortcut:MoveStatem
+entUp;&lt;/s0&gt;や &lt;s1&gt;&amp;shortcut:MoveStatementDown;&lt;/s1&gt;を押してみてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22649,6 +22999,14 @@ rtcut:EditSource;&lt;/s1&gt; キーを押します。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Space at the end means the end of a pattern, and the preceding string will be considered not just a prefix but a whole pattern.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T214110Z" creationid="miurahr" creationdate="20160727T214110Z">
+        <seg>最後のスペースはパターンの最後を意味し、先行する文字列は接頭辞ではなくパターン全体であると見なされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spaces</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T120549Z" creationid="miurahr" creationdate="20160724T120549Z">
@@ -23867,6 +24225,15 @@ is not an {1} module file (.iml)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;s0&gt;Code | Move Statement Up/Down&lt;/s0&gt; action is useful for reorganizing the code lines in your file, e.g., for bringing a variable declaration closer to variable usage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T122824Z" creationid="miurahr" creationdate="20160727T122824Z">
+        <seg>&lt;s0&gt;[コード] - [ステートメントを上/下へ移動]&lt;/s0&gt;アクションは、変数の宣言文を変数の使用箇所の近くに移動する場合など、ファイルのコード行を再構成する際に役立ちます。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;s0&gt;Edit | Copy Reference&lt;/s0&gt; action can be used to insert a reference to a field/method/class/file into the current position in the editor.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T230545Z" creationid="miurahr" creationdate="20160726T230545Z">
@@ -23891,6 +24258,46 @@ is not an {1} module file (.iml)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The CodeCompletion feature can suggest a name for a variable when you declare it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T213437Z" creationid="miurahr" creationdate="20160727T213437Z">
+        <seg>コード補完機能は、変数を宣言するときに変数の名前を提案することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Extract Variable refactoring helps you simplify complicated statements in your code.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T004638Z" creationid="miurahr" creationdate="20160727T004638Z">
+        <seg>リファクタリングを使用すると、コードの複雑な文が簡素化されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The SmartType code completion greatly helps to find methods and variables that are suitable in the current context, by analyzing the expected type of the whole expression.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T130025Z" creationid="miurahr" creationdate="20160727T130025Z">
+        <seg>SmartType コード補完は、全体の式から予想される型を分析して、現在のコンテキストに合ったメソッドおよび変数を示す機能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The SmartType code completion may be used after the &lt;s0&gt;new&lt;/s0&gt; keyword, to instantiate an object of the expected type.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T125825Z" creationid="miurahr" creationdate="20160727T125805Z">
+        <seg>SmartType コード補完は、&lt;s0&gt;new&lt;/s0&gt; キーワードの後で使用され、予想される型のオブジェクトを示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The SmartType completion also works after the &lt;s0&gt;&lt;s1&gt;return&lt;/s1&gt;&lt;/s0&gt; keyword, in an assignment, in an argument list of a method call and other places.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T130118Z" creationid="miurahr" creationdate="20160727T130118Z">
+        <seg>SmartType コード補完は、&lt;s0&gt;&lt;s1&gt;return&lt;/s1&gt;&lt;/s0&gt;キーワードの後、代入内、メソッド呼び出しの引数リスト内、その他の場所でも使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The access code is invalid.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T102235Z" creationid="miurahr" creationdate="20160724T102235Z">
@@ -23903,6 +24310,16 @@ is not an {1} module file (.iml)</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T131215Z" creationid="miurahr" creationdate="20160724T131215Z">
         <seg>アプリケーションが実行中です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The catch blocks for all the exceptions thrown inside the block will be generated automatically.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T212946Z" creationid="miurahr" creationdate="20160727T212851Z">
+        <seg>
+      ブロック内でスローされたすべての例外のcatch句 ブロックが自動的に生成されます。&lt;/p&gt;
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -24095,6 +24512,14 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The list of the suggested names will be reduced accordingly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T214135Z" creationid="miurahr" creationdate="20160727T214135Z">
+        <seg>推奨名のリストは内容に従って決まります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The media is write protected.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T113014Z" creationid="miurahr" creationdate="20160724T113014Z">
@@ -24257,6 +24682,14 @@ Any JAR files created will be named after the name of the main module.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The speed search is available in all the tree views: just start typing and you'll quickly locate the necessary item.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T130140Z" creationid="miurahr" creationdate="20160727T130140Z">
+        <seg>スピード検索は、すべてのツリー ビューで利用できます。ツリーで文字の入力を開始すると、該当する項目をすばやく特定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The storage control block address is invalid.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T102219Z" creationid="miurahr" creationdate="20160724T102219Z">
@@ -24325,6 +24758,14 @@ Any JAR files created will be named after the name of the main module.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T143814Z" creationid="miurahr" creationdate="20160723T125412Z">
         <seg>このテンプレートは編集可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The underlying image will be opened in a popup instead of a separate editor tab.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T003502Z" creationid="miurahr" creationdate="20160727T003502Z">
+        <seg>イメージは、別のエディタ タブではなく、ポップアップで表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24429,6 +24870,15 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There were changes in code after usages have been found.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T214447Z" creationid="miurahr" creationdate="20160727T214447Z">
+        <seg>使用箇所が見つかっ
+た後にコードで変更されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There were plugins without id found, all such plugins were skipped.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160725T131317Z" creationid="miurahr" creationdate="20160725T131317Z">
@@ -24457,6 +24907,15 @@ already exists.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T225700Z" creationid="miurahr" creationdate="20160724T225700Z">
         <seg>このクラス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This can be especially useful for replacing one method or variable name with another.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T213351Z" creationid="miurahr" creationdate="20160727T213351Z">
+        <seg>あるメソッドまたは変数の名前を別の名前に置換する場合に特に便利です。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -24887,6 +25346,14 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This will result in the following:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T004746Z" creationid="miurahr" creationdate="20160727T004746Z">
+        <seg>次のようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thread</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T134302Z" creationid="miurahr" creationdate="20160724T134302Z">
@@ -24983,6 +25450,14 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tips Of The Day are not ready yet.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T123129Z" creationid="miurahr" creationdate="20160727T123129Z">
+        <seg>ヒントはまだ準備できていません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tips not found.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160725T160540Z" creationid="miurahr" creationdate="20160725T160540Z">
@@ -25040,6 +25515,22 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To help you learn the purpose of each item in the main menu, its short description is shown in the status bar at the bottom of the application frame when you position the mouse pointer over this item.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T122221Z" creationid="miurahr" creationdate="20160727T122221Z">
+        <seg>メイン メニューの各項目の目的がわかるように、項目の上にマウス ポインタを移動すると、アプリケーション フレームの下部にあるステータス バーに項目の説明が表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To implement methods of the interfaces that the current class implements (or of the abstract base class), use &lt;s0&gt;&amp;shortcut:ImplementMethods;&lt;/s0&gt; (&lt;s1&gt;Code | Implement methods&lt;/s1&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T123307Z" creationid="miurahr" creationdate="20160727T123307Z">
+        <seg>現在のクラスが実装している (または抽象ベース クラスの) インターフェイスのメソッドを実装するには、&lt;s0&gt;&amp;shortcut:ImplementMethods;&lt;/s0&gt; (&lt;s1&gt;[コード] - [メソッドの実装...]&lt;/s1&gt;)を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To navigate to the declaration of a class, method or variable used somewhere in the code, position the caret at the usage and press &lt;s0&gt;&amp;shortcut:GotoDeclaration;&lt;/s0&gt; (&lt;s1&gt;Navigate | Declaration&lt;/s1&gt;).</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T233046Z" creationid="miurahr" creationdate="20160726T233046Z">
@@ -25066,11 +25557,63 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To open any particular method or field in the editor quickly, press &lt;s0&gt;&amp;shortcut:GotoSymbol;&lt;/s0&gt; (&lt;s1&gt;Navigate | Symbol&lt;/s1&gt;) and start typing its name.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T001458Z" creationid="miurahr" creationdate="20160727T001458Z">
+        <seg>エディタでメソッド、またはフィールドなどの特定の java シンボルをすばやく開くには、 &lt;s0&gt;&amp;shortcut:GotoSymbol;&lt;/s0&gt;
+      (&lt;s0&gt;[移動] - [シンボル...]&lt;/s0&gt;)      を押してシンボルの入力を開始します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To open your browser with documentation for the element at the editor's caret, press &lt;s0&gt;&amp;shortcut:ExternalJavaDoc;&lt;/s0&gt; (&lt;s1&gt;View | External Documentation&lt;/s1&gt;).</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T232054Z" creationid="miurahr" creationdate="20160726T232054Z">
         <seg>エディタのキャレットで使用されているクラスまたはメソッドの Javadoc をブラウザで開くには、    &lt;s0&gt;&amp;shortcut:ExternalJavaDoc;&lt;/s0&gt;      (&lt;s1&gt;[表示] - [外部 JavaDoc]&lt;/s1&gt;) を押します。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To quickly select the currently edited element (class, file, method or field) in any view (&lt;s0&gt;Project&lt;/s0&gt; view, &lt;s1&gt;Structure&lt;/s1&gt; view or other), press &lt;s2&gt;&amp;shortcut:SelectIn;&lt;/s2&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T125517Z" creationid="miurahr" creationdate="20160727T125517Z">
+        <seg>ビュー (&lt;s0&gt;プロジェクト&lt;/s0&gt; ビュー、&lt;s1&gt;構造ビュー&lt;/s1&gt; 、その他) で編集した要素をすばやく選択するには、
+      &lt;s2&gt;&amp;shortcut:SelectIn;&lt;/s2&gt; を押します。&lt;/p&gt;
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To see the inheritance hierarchy for a selected class, press &lt;s0&gt;&amp;shortcut:TypeHierarchy;&lt;/s0&gt; (&lt;s1&gt;Navigate | Type Hierarchy&lt;/s1&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T002737Z" creationid="miurahr" creationdate="20160727T002737Z">
+        <seg>選択したクラスの継承階層を表示するには、&lt;s0&gt;&amp;shortcut:
+TypeHierarchy;&lt;/s0&gt;      (&lt;s1&gt;[表示] - [タイプ階層]&lt;/s1&gt;)を押します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To show separator lines between methods in the editor, open the editor settings and select the &lt;s0&gt;Show method separators&lt;/s0&gt; check box in the &lt;s1&gt;Appearance&lt;/s1&gt; page.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T122430Z" creationid="miurahr" creationdate="20160727T122306Z">
+        <seg>エディタでメソッド間にセパレータを表示するには、エディタの設定を選択して、 &lt;s1&gt;[外観]&lt;/s1&gt; タブで、&lt;s0&gt;メソッド セパレータを表示する&lt;/s0&gt; チェック ボックスをオンにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To skip warnings right click on the validation side bar / marker bar and choose &lt;s0&gt;Go to high priority problems only&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T123046Z" creationid="miurahr" creationdate="20160727T123046Z">
+        <seg>&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To try it, place the caret at the symbol you want to rename, and press &lt;s0&gt;&amp;shortcut:RenameElement;&lt;/s0&gt; (&lt;s1&gt;Refactor | Rename&lt;/s1&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T124831Z" creationid="miurahr" creationdate="20160727T124814Z">
+        <seg>名前を変更するシンボルにエディタのキャレットを移動して、 &lt;s0&gt;&amp;shortcut:RenameElement;&lt;/s0&gt;(&lt;s1&gt;[リファクタリング] - [名前の変更...]&lt;/s1&gt;)を押します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25403,6 +25946,14 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Try Live Templates</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T005242Z" creationid="miurahr" creationdate="20160727T005242Z">
+        <seg>ライブ テンプレートは使用しましたか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Try again</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T101341Z" creationid="miurahr" creationdate="20160724T101341Z">
@@ -25503,6 +26054,14 @@ already exists.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T153554Z" creationid="miurahr" creationdate="20160726T153554Z">
         <seg>型パラメータ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type the new name in the popup window that appears, or select one of the suggested names, and press &lt;s2&gt;Enter&lt;/s2&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T124916Z" creationid="miurahr" creationdate="20160727T124916Z">
+        <seg>表示されるダイアログで新しい名前を入力して&lt;s2&gt;Enter&lt;/s2&gt;を押します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25771,6 +26330,15 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unlike accepting with the &lt;s0&gt;&amp;shortcut:EditorChooseLookupItem;&lt;/s0&gt; key, the selected name will overwrite the rest of the name to the right of the caret.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T213343Z" creationid="miurahr" creationdate="20160727T213343Z">
+        <seg>      &lt;s0&gt;&amp;shortcut:EditorChooseLookupItem;&lt;/s0&gt; キーを
+使用して選択した場合と異なり、 選択した名前は上書きされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unnamed</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T150413Z" creationid="miurahr" creationdate="20160724T150413Z">
@@ -26035,10 +26603,98 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use &lt;s0&gt;&amp;shortcut:FindNext;&lt;/s0&gt; and &lt;s1&gt;&amp;shortcut:FindPrevious;&lt;/s1&gt; keys to navigate through highlighted usages.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T002940Z" creationid="miurahr" creationdate="20160727T002940Z">
+        <seg>強調表示されている使用箇所を移動するには、&lt;s0&gt;&amp;short
+cut:FindNext;&lt;/s0&gt;&lt;/span&gt; および &lt;s1&gt;&amp;shortcut:FindPrevious;&lt;/s1&gt;キーを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use &lt;s0&gt;&amp;shortcut:GotoNextError;&lt;/s0&gt;/&lt;s1&gt;&amp;shortcut:GotoPreviousError;&lt;/s1&gt; keys to jump between highlighted syntax errors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T123027Z" creationid="miurahr" creationdate="20160727T123027Z">
+        <seg>強調表示されている構文エラー間を移動するには、&lt;s0&gt;&amp;sho
+rtcut:GotoNextError;&lt;/s0&gt;および&lt;s1&gt;&amp;shortcut:GotoPreviousError;&lt;/s1&gt; キーを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use &lt;s0&gt;&amp;shortcut:HighlightUsagesInFile;&lt;/s0&gt; (&lt;s1&gt;Edit | Find | Highlight Usages in File&lt;/s1&gt;) to quickly highlight usages of some variable in the current file.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T002853Z" creationid="miurahr" creationdate="20160727T002853Z">
+        <seg>現在のファイルで変数の使用箇所をすばやく強調表示するには、 &lt;s0&gt;&amp;shortcut:HighlightUsagesInFile;&lt;/s0&gt; (&lt;s1&gt;[検索] -
+ [ファイル内の使用箇所を強調表示]&lt;/s1&gt;) を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use &lt;s0&gt;&amp;shortcut:InsertLiveTemplate;&lt;/s0&gt; to complete any valid &lt;s1&gt;Live Template&lt;/s1&gt; abbreviation if you don't remember it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T004544Z" creationid="miurahr" creationdate="20160727T004544Z">
+        <seg>有効な&lt;s1&gt;ライブ テンプレート&lt;/s1&gt;がわからない場合は、&lt;s0&gt;&amp;shortcut:InsertLiveTemplate;&lt;/s0&gt; を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use &lt;s0&gt;&amp;shortcut:MethodUp;&lt;/s0&gt; and &lt;s1&gt;&amp;shortcut:MethodDown;&lt;/s1&gt; keys to quickly move between methods in the editor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T122539Z" creationid="miurahr" creationdate="20160727T122518Z">
+        <seg>エディタでメソッド間をすばやく移動するには &lt;s0&gt;&amp;shortc
+ut:MethodUp;&lt;/s0&gt; および &lt;s1&gt;&amp;shortcut:MethodDown;&lt;/s1&gt;キーを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use &lt;s0&gt;&amp;shortcut:PreviousOccurence;&lt;/s0&gt;/&lt;s1&gt;&amp;shortcut:NextOccurence;&lt;/s1&gt; shortcuts to jump between compiler error messages or search operation results.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T123112Z" creationid="miurahr" creationdate="20160727T123043Z">
+        <seg>コンパイラ エラー メッセージまたは検索結果間を移動するには、&lt;s0&gt;&amp;shortcut:PreviousOccurence;&lt;/s0&gt;および&lt;s1&gt;&amp;shortcut:NextOccurence;&lt;/s1&gt; ショートカットを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use &lt;s0&gt;&amp;shortcut:QuickImplementations;&lt;/s0&gt; (&lt;s1&gt;View | Quick Definition&lt;/s1&gt;), to quickly review definition or content of the symbol at caret, without the need to open it in a new editor tab.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T231228Z" creationid="miurahr" creationdate="20160726T231228Z">
         <seg>&lt;s0&gt;&amp;shortcut:QuickImplementations;&lt;/s0&gt;   (&lt;s1&gt;[表示] - [クイック定義ルックアップ]&lt;/s1&gt;)を使用すると、新しいエディタ タブを開くことなく、キャレット位置のシンボルの定義または内容をすばやくレビューできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use &lt;s0&gt;&amp;shortcut:RecentChanges;&lt;/s0&gt; to quickly review your recent changes to the project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T124448Z" creationid="miurahr" creationdate="20160727T124448Z">
+        <seg>プロジェクトへの最近の変更をすばやくレビューするには、 &lt;s0&gt;&amp;shortcut:RecentChanges;&lt;/s0&gt; を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use &lt;s0&gt;Basic Completion&lt;/s0&gt; (&lt;s1&gt;&amp;shortcut:CodeCompletion;&lt;/s1&gt;) for completing words in text and comments in files of many different types.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T214240Z" creationid="miurahr" creationdate="20160727T214240Z">
+        <seg>異なるファイル タイプで用語の入力を補完するには、 &lt;s0&gt;ベーシック補完&lt;/s0&gt;    (&lt;s1&gt;&amp;shortcut:CodeCompletion;&lt;/s1&gt;) を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use &lt;s0&gt;Basic Completion&lt;/s0&gt; (&lt;s1&gt;&amp;shortcut:CodeCompletion;&lt;/s1&gt;) within HTML, CSS and other files, for completing image file names.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T003100Z" creationid="miurahr" creationdate="20160727T003100Z">
+        <seg>HTML、CSS およびその他のファイルで&lt;s0&gt;ベーシック補完&lt;/s0&gt;    (&lt;s1&gt;&amp;shortcut:CodeCompletion;&lt;/s1&gt;) を使用すると、イメージ ファイル名の入力が補完されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use &lt;s0&gt;Code | Reformat Code&lt;/s0&gt; to reformat code according to your code style preferences (&lt;s1&gt;File | Settings | Code Style&lt;/s1&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T005101Z" creationid="miurahr" creationdate="20160727T005101Z">
+        <seg> 好みのコード スタイル (&lt;s1&gt;[ファイル] - [設定] - [コー
+ド スタイル]/s1&gt;)に従ってコードを再フォーマットするには、
+        &lt;s0&gt;[コード] - [コードの再フォーマット...]&lt;/s0&gt; を使
+用します。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -26211,6 +26867,14 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use other items in the list to surround with other constructs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T213208Z" creationid="miurahr" creationdate="20160727T213208Z">
+        <seg>他の式で囲むには、リストの他の項目を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use per-project code style scheme</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T124028Z" creationid="miurahr" creationdate="20160724T124028Z">
@@ -26263,6 +26927,14 @@ already exists.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T225050Z" creationid="miurahr" creationdate="20160726T225050Z">
         <seg>最近のクリップボードの内容を選択してテキストに挿入するには、&lt;s0&gt;&amp;shortcut:PasteMultiple; &lt;/s0&gt;ショートカットを使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the &lt;s0&gt;Tab&lt;/s0&gt; key to move between the template fields.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T005356Z" creationid="miurahr" creationdate="20160727T005356Z">
+        <seg>テンプレート フィールド間を移動するには、&lt;s0&gt;Tab&lt;/s0&gt;キーを使用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26651,6 +27323,14 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Welcome to &lt;s0&gt;&amp;productName;&lt;/s0&gt; &lt;s1&gt;&amp;majorVersion;&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T213737Z" creationid="miurahr" creationdate="20160727T213737Z">
+        <seg>&lt;s0&gt;&amp;productName;&lt;/s0&gt; &lt;s1&gt;&amp;majorVersion;&lt;/s1&gt;へようこそ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Welcome to &lt;s0&gt;IntelliJ IDEA&lt;/s0&gt; Productivity Guide</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T224336Z" creationid="miurahr" creationdate="20160726T224336Z">
@@ -26707,10 +27387,28 @@ already exists.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When nothing is selected in the editor, the line at the cursor will be moved.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T122924Z" creationid="miurahr" creationdate="20160727T122924Z">
+        <seg>何も選択されていない場合、カーソルの行が移動されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When rendering a node</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T132836Z" creationid="miurahr" creationdate="20160724T132836Z">
         <seg>ノードをレンダリングするとき</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When using Code Completion, you can accept the currently highlighted selection in the popup list with &lt;s0&gt;&amp;shortcut:EditorChooseLookupItemReplace;&lt;/s0&gt; key.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T213326Z" creationid="miurahr" creationdate="20160727T213326Z">
+        <seg>コード補完を使用している場合、&lt;s0&gt;&amp;shortcut:EditorChoo
+seLookupItemReplace;&lt;/s0&gt; キーを押すと、ポップアップ リストで現在強調表示されている項目が選択されます。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -26721,6 +27419,33 @@ already exists.</seg>
         <seg>コード補完を使用すると、ポップアップ リストでピリオド
          (&lt;s0&gt;.&lt;/s0&gt;), カンマ (&lt;s1&gt;,&lt;/s1&gt;),
         セミコロン (&lt;s2&gt;;&lt;/s2&gt;) 、スペースおよびその他の文字で現在強調表示されているセクションを選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you invoke the &lt;s0&gt;Move&lt;/s0&gt; refactoring (&lt;s1&gt;&amp;shortcut:Move;&lt;/s1&gt;) on an inner class that is declared &lt;s2&gt;static&lt;/s2&gt;, you are provided with an option to either make it a top-level class, or move it to another class.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T122714Z" creationid="miurahr" creationdate="20160727T122703Z">
+        <seg>&lt;s2&gt;static&lt;/s2&gt; 宣言された内部クラスで &lt;s0&gt;Move&lt;/s0&gt;
+リファクタリング (&lt;s1&gt;&amp;shortcut:Move;&lt;/s1) を起動す
+ると、クラスを上のレベルに移動するか、別のクラスに移動するオプションが表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you need to cast an expression value to the required type the SmartType code completion will help you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T125931Z" creationid="miurahr" creationdate="20160727T125931Z">
+        <seg>式の値を特定の型にキャストする必要がある場合は、martType コード補完を使用すると便利です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you want to catch exceptions thrown by some code fragment, select it in the editor, press &lt;s0&gt;&amp;shortcut:SurroundWith;&lt;/s0&gt; (&lt;s1&gt;Code | Surround With&lt;/s1&gt;) and choose &lt;s2&gt;try / catch&lt;/s2&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T213028Z" creationid="miurahr" creationdate="20160727T130249Z">
+        <seg>あるコード 部分でスローされた例外をキャッチするには、エディタでブロックを選択した後、
+    &lt;s0&gt;&amp;shortcut:SurroundWith;&lt;/s0&gt; (&lt;s1&gt;[コード] - [囲む...]&lt;/s1&gt;) を押して &lt;s2&gt;try&amp;nbsp;/&amp;nbsp;catch&lt;/s2&gt;を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26753,6 +27478,14 @@ already exists.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T120945Z" creationid="miurahr" creationdate="20160724T120945Z">
         <seg>サブパッケージを含む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With a single keystroke, you can apply another code style/coloring scheme or keymap right from the editor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T124346Z" creationid="miurahr" creationdate="20160727T124346Z">
+        <seg>単一のキーストロークで、別のコード スタイル/カラー スキームまたはエディタからのキーマップを適用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26985,6 +27718,14 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also invoke the hierarchy view right from the editor to see the hierarchy for the currently edited class.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T002745Z" creationid="miurahr" creationdate="20160727T002745Z">
+        <seg>エディタから階層ビューを起動して現在編集しているクラスの階層を表示することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can always get back to them by selecting &lt;s0&gt;Help | Productivity Guide&lt;/s0&gt; from the menu bar.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T224536Z" creationid="miurahr" creationdate="20160726T224536Z">
@@ -26997,6 +27738,34 @@ as a source directory?</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T225357Z" creationid="miurahr" creationdate="20160726T225357Z">
         <seg>&lt;s0&gt;&amp;shortcut:CommentByLineComment;&lt;/s0&gt; および &lt;s1&gt;&amp;shortcut:CommentByBlockComment;&lt;/s1&gt;を使用してコードの行またはブロックをコメント化/非コメント化できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can customize name prefixes for local variables, parameters, instance and static fields in &lt;s0&gt;File | Settings | Code Style&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T213611Z" creationid="miurahr" creationdate="20160727T213611Z">
+        <seg> &lt;s0&gt;[ファイル] - [設定] - [コード スタイル]&lt;/s0&gt;で、
+ローカル変数、パラメータ、インスタンスおよび静的フィールドの名前接頭辞をカスタマイズできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can customize the bodies of the generated catch blocks on the &lt;s0&gt;Code&lt;/s0&gt; tab of &lt;s1&gt;File | Settings | File and Code Templates&lt;/s1&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T213155Z" creationid="miurahr" creationdate="20160727T213155Z">
+        <seg>&lt;s1&gt;[ファイル] - [設定] - [ファイル テンプレート]&lt;/s1&gt;の
+ &lt;s0&gt;[コード]&lt;/s0&gt; タブで生成されたcatch句 ブロックの
+本体をカスタマイズできます。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can easily rename your classes, methods and variables with automatic correction of all places where they are used.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T124816Z" creationid="miurahr" creationdate="20160727T124629Z">
+        <seg>クラス、メソッドおよび変数の名前を変更して、それらが使用されているすべての箇所を自動的に新しい名前にすることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27025,12 +27794,38 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can quickly get familiar with the main features of the IDE by reading these tips.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T213756Z" creationid="miurahr" creationdate="20160727T213756Z">
+        <seg> 表示されるヒントに目を通すことで、IDE の主要な機能をすばやく理解できます。&lt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can quickly navigate in the currently edited file with &lt;s0&gt;&amp;shortcut:FileStructurePopup;&lt;/s0&gt; (&lt;s1&gt;Navigate | File Structure&lt;/s1&gt;).</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T232457Z" creationid="miurahr" creationdate="20160726T232457Z">
         <seg>&lt;s0&gt;&amp;shortcut:FileStructurePopup;&lt;/s0&gt;  (&lt;s1&gt;[表示] - [ファイル構造ポップアップ]&lt;&lt;/s1&gt;)を使用
 して、現在編集しているファイル内をすばやく移動できます。
       </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can quickly review all styles currently applied to an HTML tag, by right-clicking the tag name and selecting &lt;s0&gt;Show Applied Styles For Tag&lt;/s0&gt; from the context menu:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T125721Z" creationid="miurahr" creationdate="20160727T125721Z">
+        <seg>タグ名を右クリックしてポップアップ メニューから
+  &lt;s0&gt;[タグに適用したスタイルの表示]&lt;/s0&gt;  を選択することで、HTML タグに適用したすべてのスタイルをすばやくレビューできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can quickly view the image referenced at caret by using the &lt;s0&gt;Quick Definition&lt;/s0&gt; (&lt;s1&gt;&amp;shortcut:QuickImplementations;&lt;/s1&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T003151Z" creationid="miurahr" creationdate="20160727T003151Z">
+        <seg>&lt;s0&gt;クイック定義ルックアップ&lt;/s0&gt;(&lt;s1&gt;&amp;shortcut:QuickImplementations;&lt;/s1&gt;   ) を使用し
+て、キャレット位置で参照されているイメージをすばやく表示できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27051,6 +27846,23 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can use &lt;s0&gt;Basic Completion&lt;/s0&gt; (&lt;s1&gt;&amp;shortcut:CodeCompletion;&lt;/s1&gt;) within Java String literals and in other file types, for completing &lt;s2&gt;.properties&lt;/s2&gt; keys.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T123727Z" creationid="miurahr" creationdate="20160727T123727Z">
+        <seg>Java 文字列リテラル内または他のファイル タイプで&lt;s0&gt;ベーシック補完&lt;/s0&gt;        (&lt;s1&gt;&amp;shortcut:CodeCompletion;&lt;/s1&gt;) を使用すると、&lt;s2&gt;.properties&lt;/s2&gt; キーの入力が補完されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can use the &lt;s0&gt;Extract Variable&lt;/s0&gt; refactoring even on incomplete statements.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T004826Z" creationid="miurahr" creationdate="20160727T004807Z">
+        <seg>&lt;s0&gt;変数の導入&lt;/s0&gt;        リファクタリングは、未完了の文にも使用できます。
+        </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You have selected current {0} installation home.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T115038Z" creationid="miurahr" creationdate="20160724T115038Z">
@@ -27063,6 +27875,22 @@ as a source directory?</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T233013Z" creationid="miurahr" creationdate="20160724T233013Z">
         <seg>{0} を再起動して設定を読み込み直してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may easily override methods of the base class by pressing &lt;s0&gt;&amp;shortcut:OverrideMethods;&lt;/s0&gt; (&lt;s1&gt;Code | Override Methods&lt;/s1&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T123226Z" creationid="miurahr" creationdate="20160727T123226Z">
+        <seg>&lt;s0&gt;&amp;shortcut:OverrideMethods;&lt;/s0&gt;(&lt;s1&gt;[コード] - [メソッドのオーバーライド...]&lt;/s1&gt;)を押すことで、ベース クラスのメソッドを簡単にオーバーライドできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may try out the features described in the tips while this dialog stays open on the screen.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T213807Z" creationid="miurahr" creationdate="20160727T213807Z">
+        <seg>画面にこのダイアログを表示したまま、ヒントで説明されている機能を試すことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27932,6 +28760,41 @@ as a source directory?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>and press &lt;s0&gt;&amp;shortcut:CodeCompletion;&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T213537Z" creationid="miurahr" creationdate="20160727T213537Z">
+        <seg>と入力して、 &lt;s0&gt;&amp;shortcut:CodeCompletion;&lt;/s0&gt;"を押
+してみてください。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and press &lt;s0&gt;&amp;shortcut:IntroduceVariable;&lt;/s0&gt; (&lt;s1&gt;Refactor | Extract | Variable...&lt;/s1&gt;).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T004738Z" creationid="miurahr" creationdate="20160727T004729Z">
+        <seg>&lt;s0&gt;&amp;shortcut:IntroduceVariable;&lt;/s0&gt;(&lt;s1&gt;[リファクタリング] -[変数の導入...]&lt;/s1&gt;) を押すと、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and press &lt;s0&gt;&amp;shortcut:SmartTypeCompletion;&lt;/s0&gt; to see what happens.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T125948Z" creationid="miurahr" creationdate="20160727T125948Z">
+        <seg>上のように入力して  &lt;s0&gt;&amp;shortcut:SmartTypeComplet
+ion;&lt;/s0&gt; を押してみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and press &lt;s0&gt;&amp;shortcut:SmartTypeCompletion;&lt;/s0&gt;:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T125848Z" creationid="miurahr" creationdate="20160727T125848Z">
+        <seg>上のように入力して &lt;s0&gt;&amp;shortcut:SmartTypeCompletion;&lt;/s0&gt;を押してみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>anonymous</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T010218Z" creationid="miurahr" creationdate="20160726T010218Z">
@@ -28305,6 +29168,14 @@ as a source directory?</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T101910Z" creationid="miurahr" creationdate="20160724T101910Z">
         <seg>少しの間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>in a method and press the &lt;s0&gt;Tab&lt;/s0&gt; key to see what happens.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T005331Z" creationid="miurahr" creationdate="20160727T005331Z">
+        <seg>メソッドで上のように入力して&lt;s0&gt;Tab&lt;/s0&gt;  キーを押してみてください。</seg>
       </tuv>
     </tu>
     <tu>
