@@ -57,3 +57,12 @@ Return Type	戻り型
 throws list	throwsリスト
 import	インポート
 qualifier	限定子
+generic class	ジェネリッククラス
+inheritance	継承
+hierarchy	階層
+inheritance hierarchy	継承階層
+Synthetic JSP class	合成JSPクラス	RefactoringBundleで使用：要検討
+reference type	参照型
+Encapsulate	カプセル化
+Superclass	スーパークラス
+Delegation	移譲
