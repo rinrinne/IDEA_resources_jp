@@ -1,0 +1,68 @@
+API	API
+AWT	AWT	Abstract Window Toolkit (AWT) 
+abstract	アブストラクト
+abstract class	アブストラクトクラス
+abstract method	abstract メソッド
+assertion	アサーション
+Boolean object	Booleanオブジェクト
+boolean value	boolean値
+Package	パッケージ
+Project	プロジェクト
+annotate	注釈
+applet	アプレット
+cast	キャスト
+collapse	折り畳む	origin: Eijiro
+constructor	コンストラクタ
+declaration	宣言
+default	デフォルト	ex. default package デフォルトパッケージ
+derivable	派生
+final	final	最終的としない
+final modifier	final修飾子
+implement	実装
+implicit	暗黙的な
+initializer	初期化子
+inner class	内部クラス
+interface	インターフェイス
+instance method	インスタンスメソッド
+iterator	反復子
+method	メソッド
+method declaration	メソッド宣言
+modifier	修飾子
+object	オブジェクト
+override	オーバーライド
+paired braces	中括弧
+paired brackets	大括弧	[ ]
+paired parens	小括弧	( )
+paired parens	小括弧	( )
+parameter	パラメータ
+postfix	接尾辞
+prefix	接頭辞
+quickfix	クイックフィックス
+refactoring	リファクタリング
+shared memory	共有メモリ
+socket	ソケット
+subtype	サブタイプ
+super class	スーパークラス
+throws clause	throws句
+throws declaration	throws宣言
+hierarchy tree	階層ツリー
+navigation bar	ナビゲーションバー
+Locale	ロケール
+ attribute	属性
+Generalize	一般化
+method body	メソッド本体
+catch	catch句
+type	型
+Return Type	戻り型
+throws list	throwsリスト
+import	インポート
+qualifier	限定子
+generic class	ジェネリッククラス
+inheritance	継承
+hierarchy	階層
+inheritance hierarchy	継承階層
+Synthetic JSP class	合成JSPクラス	RefactoringBundleで使用：要検討
+reference type	参照型
+Encapsulate	カプセル化
+Superclass	スーパークラス
+Delegation	移譲
