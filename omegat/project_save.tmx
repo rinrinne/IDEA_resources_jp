@@ -486,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Inner class name:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T223929Z" creationid="miurahr" creationdate="20160727T223929Z">
+        <seg>内部クラス名(&amp;I):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Insert imports on paste:</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T122847Z" creationid="miurahr" creationdate="20160724T122847Z">
@@ -598,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Name for extracted include file (default extension: {0})</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T223834Z" creationid="miurahr" creationdate="20160727T223834Z">
+        <seg>抽出したインクルード ファイル名 (デフォルトの拡張子: {0})(&amp;N)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Name:</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160723T232851Z" creationid="miurahr" creationdate="20160723T232851Z">
@@ -690,6 +706,14 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160727T223445Z" creationid="miurahr" creationdate="20160727T223445Z">
         <seg>新規インターフェイスのパッケージ(&amp;P): </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Package for new superclass:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T224007Z" creationid="miurahr" creationdate="20160727T224007Z">
+        <seg>新規スーパークラスのパッケージ(&amp;P):</seg>
       </tuv>
     </tu>
     <tu>
@@ -798,10 +822,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Rename original class to:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T224140Z" creationid="miurahr" creationdate="20160727T224140Z">
+        <seg>オリジナル クラス名を変更(&amp;R):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Replace</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T153048Z" creationid="miurahr" creationdate="20160726T153048Z">
         <seg>置換(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Replace all fields</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T224420Z" creationid="miurahr" creationdate="20160727T224420Z">
+        <seg>すべてのフィールドを置換(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Replace with delegation inheritance from:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T223918Z" creationid="miurahr" creationdate="20160727T223918Z">
+        <seg>委譲で継承を置換する(&amp;R):</seg>
       </tuv>
     </tu>
     <tu>
@@ -914,6 +962,14 @@
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160725T151310Z" creationid="miurahr" creationdate="20160725T151310Z">
         <seg>検索の中止(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Super class name:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T223938Z" creationid="miurahr" creationdate="20160727T223938Z">
+        <seg>スーパークラス名(&amp;S):</seg>
       </tuv>
     </tu>
     <tu>
@@ -2709,6 +2765,22 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All candidate variables have types that are not in project</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160728T000355Z" creationid="miurahr" creationdate="20160728T000355Z">
+        <seg>すべての候補変数はプロジェクトにない型を持っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All candidate variables have unknown types</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160728T000345Z" creationid="miurahr" creationdate="20160728T000345Z">
+        <seg>すべての候補変数は不明な型を持っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All classes</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160725T161754Z" creationid="miurahr" creationdate="20160725T161754Z">
@@ -2809,6 +2881,22 @@ Escape the "!" character with a backslash ("\").</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T051619Z" creationid="miurahr" creationdate="20160726T051619Z">
         <seg>すべてのキーマップは一意の名前にする必要があります</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All reference type parameters have types that are not in project</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T235158Z" creationid="miurahr" creationdate="20160727T235158Z">
+        <seg>すべての参照型パラメータはプロジェクトにない型を持っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All reference type parameters have unknown types</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T235145Z" creationid="miurahr" creationdate="20160727T235145Z">
+        <seg>すべての参照型パラメータは不明な型を持っています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4883,6 +4971,14 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot extract field in the interface</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160728T000749Z" creationid="miurahr" creationdate="20160728T000749Z">
+        <seg>インターフェイスでフィールドを導入できません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot find field ''{0}'' in  class ''{1}''</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T134529Z" creationid="miurahr" creationdate="20160724T134529Z">
@@ -4967,6 +5063,24 @@ Escape the "!" character with a backslash ("\").</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160727T214422Z" creationid="miurahr" creationdate="20160727T214422Z">
         <seg>リファクタリング操作を実施できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot perform refactoring.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T235215Z" creationid="miurahr" creationdate="20160727T235215Z">
+        <seg>リファクタリングを実行できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot perform the refactoring
+Method {0} is not static</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T235114Z" creationid="miurahr" creationdate="20160727T235114Z">
+        <seg>リファクタリングを実行できません。
+メソッド {0} は静的ではありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5607,6 +5721,14 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose Destination Class</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T224516Z" creationid="miurahr" creationdate="20160727T224516Z">
+        <seg>作成先クラスの選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose Destination Directory</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160725T162155Z" creationid="miurahr" creationdate="20160725T162155Z">
@@ -5872,6 +5994,14 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Class does not exist in project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T224427Z" creationid="miurahr" creationdate="20160727T224427Z">
+        <seg>クラスはプロジェクトに存在しません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Class filters</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T134419Z" creationid="miurahr" creationdate="20160724T134419Z">
@@ -5989,6 +6119,14 @@ Escape the "!" character with a backslash ("\").</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T225904Z" creationid="miurahr" creationdate="20160724T225904Z">
         <seg>クラス {0} </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class {0} does not have base classes or interfaces</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160728T000703Z" creationid="miurahr" creationdate="20160728T000703Z">
+        <seg>クラス {0} にベース クラスまたはインターフェイスはありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7129,6 +7267,14 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Convert To Instance Method</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T224701Z" creationid="miurahr" creationdate="20160727T224701Z">
+        <seg>インスタンス メソッドに変換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Convert anonymous class into an inner class</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T143139Z" creationid="miurahr" creationdate="20160726T143139Z">
@@ -8139,6 +8285,14 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Declare &amp;final</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T224307Z" creationid="miurahr" creationdate="20160727T224307Z">
+        <seg>final の宣言(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Decode Bytes...</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T143348Z" creationid="miurahr" creationdate="20160726T143348Z">
@@ -8231,6 +8385,14 @@ Escape the "!" character with a backslash ("\").</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160725T145802Z" creationid="miurahr" creationdate="20160725T145802Z">
         <seg>遅延 (ミリ秒):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delegate mem&amp;bers</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T223947Z" creationid="miurahr" creationdate="20160727T223947Z">
+        <seg>メンバの委譲(&amp;B)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8716,6 +8878,14 @@ Escape the "!" character with a backslash ("\").</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do &amp;not replace</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T224359Z" creationid="miurahr" creationdate="20160727T224359Z">
+        <seg>置換しない(&amp;N)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do Not Mark</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160725T155627Z" creationid="miurahr" creationdate="20160725T155627Z">
@@ -9130,6 +9300,14 @@ Escape the "!" character with a backslash ("\").</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T133314Z" creationid="miurahr" creationdate="20160724T133314Z">
         <seg>評価(&amp;V)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>E&amp;xtract {0}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T224113Z" creationid="miurahr" creationdate="20160727T224113Z">
+        <seg>{0} を抽出(&amp;X)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9556,6 +9734,22 @@ Escape the "!" character with a backslash ("\").</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T134023Z" creationid="miurahr" creationdate="20160724T134023Z">
         <seg>有効</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Encapsulate Fields</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160728T000429Z" creationid="miurahr" creationdate="20160728T000429Z">
+        <seg>カプセル化フィールド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Encapsulate fields refactoring cannot be applied to interface</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160728T000459Z" creationid="miurahr" creationdate="20160728T000459Z">
+        <seg>カプセル化フィールドのリファクタリングはインターフェイスには適用できません</seg>
       </tuv>
     </tu>
     <tu>
@@ -10518,10 +10712,66 @@ Exception message: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Extract Constant</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160728T000712Z" creationid="miurahr" creationdate="20160728T000712Z">
+        <seg>定数の導入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extract Field</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160728T000755Z" creationid="miurahr" creationdate="20160728T000755Z">
+        <seg>フィールドの導入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Extract Include File</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160727T223729Z" creationid="miurahr" creationdate="20160727T223729Z">
         <seg>インクルード ファイルの抽出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extract Interface</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160728T000503Z" creationid="miurahr" creationdate="20160728T000503Z">
+        <seg>インターフェイスの抽出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extract Method</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160728T000514Z" creationid="miurahr" creationdate="20160728T000514Z">
+        <seg>ソッドの抽出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extract Parameter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T224318Z" creationid="miurahr" creationdate="20160727T224318Z">
+        <seg>パラメータの導入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extract Superclass</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160728T000602Z" creationid="miurahr" creationdate="20160728T000602Z">
+        <seg>スーパークラスの抽出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extract Variable</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T224541Z" creationid="miurahr" creationdate="20160727T224541Z">
+        <seg>変数の導入</seg>
       </tuv>
     </tu>
     <tu>
@@ -10534,10 +10784,50 @@ Exception message: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Extract interface from:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T224206Z" creationid="miurahr" creationdate="20160727T224206Z">
+        <seg>次からインターフェイスを抽出:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Extract superclass from the selected class</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T143121Z" creationid="miurahr" creationdate="20160726T143121Z">
         <seg>選択したクラスからスーパークラスを抽出します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extract superclass from:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T224102Z" creationid="miurahr" creationdate="20160727T224102Z">
+        <seg>次からスーパークラスを抽出:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extract to &amp;directory:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T223849Z" creationid="miurahr" creationdate="20160727T223849Z">
+        <seg>ディレクトリに抽出(&amp;D):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extracting interface {0} from {1}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160728T000509Z" creationid="miurahr" creationdate="20160728T000509Z">
+        <seg>{1} からインターフェイス {0} を抽出しています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extracting superclass {0} from {1}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160728T000611Z" creationid="miurahr" creationdate="20160728T000611Z">
+        <seg>{1} からスーパークラス {0} を抽出しています</seg>
       </tuv>
     </tu>
     <tu>
@@ -10738,6 +11028,16 @@ Reason: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Field with name {0}
+already exists in class ''{1}''.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T224459Z" creationid="miurahr" creationdate="20160727T224459Z">
+        <seg>名前 {0} のフィールドは
+既にクラス ''{1}'' に存在します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Field {0}</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T151954Z" creationid="miurahr" creationdate="20160726T151954Z">
@@ -10750,6 +11050,14 @@ Reason: {1}</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T120420Z" creationid="miurahr" creationdate="20160724T120420Z">
         <seg>フィールド :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fields to be refactored should belong to the same class</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160728T000454Z" creationid="miurahr" creationdate="20160728T000454Z">
+        <seg>リファクタリングするフィールドは同じクラスに属している必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11778,6 +12086,15 @@ Do you want overwrite it or to append?</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T123812Z" creationid="miurahr" creationdate="20160724T123812Z">
         <seg>空白行に "&lt;p/&gt;" を生成する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generate &amp;getter for delegated component</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T223959Z" creationid="miurahr" creationdate="20160727T223959Z">
+        <seg>委譲したコンポーネントの getter を生成(&amp;G)
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -13361,6 +13678,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Initializer for variable {0} cannot be a constant initializer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160728T000743Z" creationid="miurahr" creationdate="20160728T000743Z">
+        <seg>変数 {0} の初期化子は定数初期化子にできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Initializer type is not assignment-compatible with array's component type</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T131941Z" creationid="miurahr" creationdate="20160724T131941Z">
@@ -13752,6 +14077,14 @@ in class ''{1}''</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T010659Z" creationid="miurahr" creationdate="20160726T010659Z">
         <seg>インターフェイス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interface {0} does not have base interfaces</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160728T000419Z" creationid="miurahr" creationdate="20160728T000419Z">
+        <seg>インターフェイス {0} にベース インターフェイスはありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15376,6 +15709,22 @@ ntroduceVariable;&lt;/s1&gt;を押してください。</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mem&amp;bers to form interface</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T224152Z" creationid="miurahr" creationdate="20160727T224152Z">
+        <seg>インターフェイスを形成するメンバ(&amp;B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mem&amp;bers to form superclass</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T224041Z" creationid="miurahr" creationdate="20160727T224036Z">
+        <seg>スーパークラスを形成するメンバ(&amp;B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Memory Dump</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T135516Z" creationid="miurahr" creationdate="20160724T135516Z">
@@ -16116,6 +16465,14 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move Instance Method</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T235237Z" creationid="miurahr" creationdate="20160727T235237Z">
+        <seg>インスタンスメソッドを移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move Module to Group</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T143748Z" creationid="miurahr" creationdate="20160726T143748Z">
@@ -16216,6 +16573,30 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T153653Z" creationid="miurahr" creationdate="20160724T153653Z">
         <seg>内部クラスを上位レベルに移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move method is not supported for constructors</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T235354Z" creationid="miurahr" creationdate="20160727T235354Z">
+        <seg>コンストラクタでは、メソッドの移動はサポートされません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move method is not supported for generic classes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T235646Z" creationid="miurahr" creationdate="20160727T235646Z">
+        <seg>ジェネリッククラスでは、メソッドの移動はサポートされません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move method is not supported when method is a part of inheritance hierarchy</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160728T000042Z" creationid="miurahr" creationdate="20160728T000042Z">
+        <seg>継承階層の一部であるメソッドの移動は、サポートされません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16916,6 +17297,14 @@ for this anonymous class.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No field name specified</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T224436Z" creationid="miurahr" creationdate="20160727T224436Z">
+        <seg>フィールド名が指定されていません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No fields to display</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T134927Z" creationid="miurahr" creationdate="20160724T134927Z">
@@ -16944,6 +17333,14 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T125637Z" creationid="miurahr" creationdate="20160724T125637Z">
         <seg>検査は {0} を実行しませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No interface name specified</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T224243Z" creationid="miurahr" creationdate="20160727T224243Z">
+        <seg>インターフェイス名が指定されていません</seg>
       </tuv>
     </tu>
     <tu>
@@ -17144,6 +17541,14 @@ for this anonymous class.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T131904Z" creationid="miurahr" creationdate="20160724T131904Z">
         <seg>そのような静的メソッドはありません : ''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No superclass name specified</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T224049Z" creationid="miurahr" creationdate="20160727T224049Z">
+        <seg>スーパークラス名が指定されていません</seg>
       </tuv>
     </tu>
     <tu>
@@ -18126,6 +18531,14 @@ Do you want to create it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Parameter of &amp;type:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T224325Z" creationid="miurahr" creationdate="20160727T224325Z">
+        <seg>型のパラメータ(&amp;T):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Parameter:</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T120432Z" creationid="miurahr" creationdate="20160724T120432Z">
@@ -18813,6 +19226,14 @@ be marked as source paths.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160727T003000Z" creationid="miurahr" creationdate="20160727T003000Z">
         <seg>強調表示を削除するには、 &lt;s0&gt;&amp;shortcut:EditorEscape;&lt;/s0&gt; を押します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press Escape to remove the highlighting</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160728T000547Z" creationid="miurahr" creationdate="20160728T000547Z">
+        <seg>Esc キーで強調表示をクリアします</seg>
       </tuv>
     </tu>
     <tu>
@@ -19518,6 +19939,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T120903Z" creationid="miurahr" creationdate="20160724T120903Z">
         <seg>削除(&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>R&amp;ename original class and use {0} where possible</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T224131Z" creationid="miurahr" creationdate="20160727T224131Z">
+        <seg>オリジナル クラス名を変更して可能な {0} を使用する(&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20322,6 +20751,22 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rename implementation class to:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T224213Z" creationid="miurahr" creationdate="20160727T224213Z">
+        <seg>実装クラス名を変更:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename original interface to:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T224229Z" creationid="miurahr" creationdate="20160727T224229Z">
+        <seg>オリジナル インターフェース名を変更:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rename reference</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T082757Z" creationid="miurahr" creationdate="20160726T082757Z">
@@ -20370,6 +20815,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rep&amp;lace write access occurrences</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T224530Z" creationid="miurahr" creationdate="20160727T224530Z">
+        <seg>書き込みアクセスを置換(&amp;L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Repeat the last Find/Replace operation in reverse direction, or moving to previous occurrence of selected text</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T142237Z" creationid="miurahr" creationdate="20160726T142237Z">
@@ -20398,6 +20851,14 @@ Code Style</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T140613Z" creationid="miurahr" creationdate="20160724T140613Z">
         <seg>置換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace &amp;all occurrences ({0} occurrences)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T224257Z" creationid="miurahr" creationdate="20160727T224257Z">
+        <seg>すべて置換 ({0} 箇所) (&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20494,6 +20955,22 @@ Code Style</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T143142Z" creationid="miurahr" creationdate="20160726T143142Z">
         <seg>アクセッサ メソッドを使用して直接アクセスを選択したクラスのフィールドに置換します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace fields &amp;inaccessible in usage context</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T224413Z" creationid="miurahr" creationdate="20160727T224413Z">
+        <seg>コンテキストのアクセスできないフィールドを置換する(&amp;I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace fields used in expressions with their getters</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T224351Z" creationid="miurahr" creationdate="20160727T224351Z">
+        <seg>式で使用されているフィールドを getter で置換します</seg>
       </tuv>
     </tu>
     <tu>
@@ -21883,6 +22360,14 @@ Code Style</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select Target Directory</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T223855Z" creationid="miurahr" creationdate="20160727T223855Z">
+        <seg>ターゲット ディレクトリの選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select Target to Generate Delegates for</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T114010Z" creationid="miurahr" creationdate="20160724T114010Z">
@@ -22043,6 +22528,38 @@ rtcut:EditSource;&lt;/s1&gt; キーを押します。
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T141145Z" creationid="miurahr" creationdate="20160724T141145Z">
         <seg>選択値</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selected block contains invocation of another class constructor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160728T000530Z" creationid="miurahr" creationdate="20160728T000530Z">
+        <seg>選択したブロックは別のクラス コンストラクタの呼び出しを含んでいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selected block should represent a set of statements or an expression</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160728T000534Z" creationid="miurahr" creationdate="20160728T000534Z">
+        <seg>選択したブロックは文または式のセットを表現しなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selected block should represent an expression</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160728T000801Z" creationid="miurahr" creationdate="20160728T000801Z">
+        <seg>選択したブロックは式を表現しなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selected expression cannot be a constant initializer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160728T000728Z" creationid="miurahr" creationdate="20160728T000728Z">
+        <seg>選択した式は定数初期化子にできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23903,6 +24420,30 @@ rtcut:EditSource;&lt;/s1&gt; キーを押します。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Superclass</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T224025Z" creationid="miurahr" creationdate="20160727T224025Z">
+        <seg>スーパークラス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Superclass cannot be extracted from enum</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160728T000619Z" creationid="miurahr" creationdate="20160728T000619Z">
+        <seg>スーパークラスは enum から抽出できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Superclass cannot be extracted from interface</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160728T000615Z" creationid="miurahr" creationdate="20160728T000615Z">
+        <seg>スーパークラスはインターフェイスから抽出できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Supertypes Hierarchy</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T230022Z" creationid="miurahr" creationdate="20160724T230022Z">
@@ -24147,6 +24688,14 @@ rtcut:EditSource;&lt;/s1&gt; キーを押します。
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T124922Z" creationid="miurahr" creationdate="20160724T124922Z">
         <seg>構文を印刷する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Synthetic jsp class is referenced in method</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160728T000218Z" creationid="miurahr" creationdate="20160728T000218Z">
+        <seg>合成JSPクラスがメソッドで参照されています</seg>
       </tuv>
     </tu>
     <tu>
@@ -24780,6 +25329,14 @@ is not an {1} module file (.iml)</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The field should be declared in a class</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160728T000424Z" creationid="miurahr" creationdate="20160728T000424Z">
+        <seg>フィールドをクラスで宣言してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The file
 ''{0}''
 already exists.</seg>
@@ -24804,6 +25361,14 @@ already exists.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T231022Z" creationid="miurahr" creationdate="20160724T231022Z">
         <seg>ファイルは存在しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The file will be created in this directory</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T223903Z" creationid="miurahr" creationdate="20160727T223903Z">
+        <seg>ファイルはこのディレクトリに作成されます</seg>
       </tuv>
     </tu>
     <tu>
@@ -25170,6 +25735,22 @@ already exists.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T113009Z" creationid="miurahr" creationdate="20160724T113009Z">
         <seg>ファイルはこれ以上ありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are no parameters that have reference type</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T235133Z" creationid="miurahr" creationdate="20160727T235133Z">
+        <seg>参照型を持つパラメータはありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are no variables that have reference type</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160728T000344Z" creationid="miurahr" creationdate="20160728T000344Z">
+        <seg>参照型を持つ変数はありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26394,6 +26975,14 @@ TypeHierarchy;&lt;/s0&gt;      (&lt;s1&gt;[表示] - [タイプ階層]&lt;/s1&gt
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Type of selected expression cannot be determined.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160728T000814Z" creationid="miurahr" creationdate="20160728T000814Z">
+        <seg>選択した式の型は決定できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Type parameter</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T153554Z" creationid="miurahr" creationdate="20160726T153554Z">
@@ -27059,6 +27648,14 @@ ut:MethodUp;&lt;/s0&gt; および &lt;s1&gt;&amp;shortcut:MethodDown;&lt;/s1&gt;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use Interface Where Possible</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160728T000415Z" creationid="miurahr" creationdate="20160728T000415Z">
+        <seg>可能な場所でインターフェイスを使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use Interface _Where Possible...</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160726T143123Z" creationid="miurahr" creationdate="20160726T143123Z">
@@ -27291,6 +27888,14 @@ ut:MethodUp;&lt;/s0&gt; および &lt;s1&gt;&amp;shortcut:MethodDown;&lt;/s1&gt;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use variable &amp;initializer to initialize parameter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T224336Z" creationid="miurahr" creationdate="20160727T224336Z">
+        <seg>パラメータの初期化に変数初期化子を使用する(&amp;I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>User task</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T003612Z" creationid="miurahr" creationdate="20160724T003612Z">
@@ -27431,6 +28036,22 @@ ut:MethodUp;&lt;/s0&gt; および &lt;s1&gt;&amp;shortcut:MethodDown;&lt;/s1&gt;
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T153310Z" creationid="miurahr" creationdate="20160724T153310Z">
         <seg>変数名の補完</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Variable of &amp;type:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160727T224620Z" creationid="miurahr" creationdate="20160727T224620Z">
+        <seg>型の変数(&amp;T):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Variable {0} does not have an initializer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160728T000736Z" creationid="miurahr" creationdate="20160728T000736Z">
+        <seg>変数 {0} に初期化子はありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30440,6 +31061,14 @@ Please enter pattern string in a new format.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{0} is an interface.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160728T000657Z" creationid="miurahr" creationdate="20160728T000657Z">
+        <seg>{0} はインターフェイスです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{0} is currently searching for sources.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160725T155525Z" creationid="miurahr" creationdate="20160725T155516Z">
@@ -30460,6 +31089,14 @@ Please enter pattern string in a new format.</seg>
       </tuv>
       <tuv lang="JA" changeid="miurahr" changedate="20160724T124602Z" creationid="miurahr" creationdate="20160724T124602Z">
         <seg>{0} はディレクトリではありません！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} is not supported in current context</seg>
+      </tuv>
+      <tuv lang="JA" changeid="miurahr" changedate="20160728T000808Z" creationid="miurahr" creationdate="20160728T000808Z">
+        <seg>{0} は現在のコンテキストではサポートされていません。</seg>
       </tuv>
     </tu>
     <tu>
